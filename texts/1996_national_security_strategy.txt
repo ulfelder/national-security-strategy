@@ -1,8 +1,27 @@
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A NATIONAL
-SEC U RITY
-
+SECURITY
 STRATEGY
 OF
 ENGAGEMENT
@@ -10,99 +29,118 @@ AND
 ENLARGEMENT
 
 19960807 039
-
 THE WHITE HOUSE
 FEBRUARY 1996
 
 DTIC QUALITY INSPECTED I
 
- 
+
 
 Contents
 
-Preface  i
-I. Introduction 1
+Preface ... i
+
+I. Introduction ... 1
 
 II. Advancing Our Interests Through
+Engagement and Enlargement ... 11
 
-Engagement and Enlargement  11
-Enhancing Our Security  12
-Maintaining a Strong Defense Capability  13
-Major Regional Contingencies  1 4
-Overseas Presence  14
+Enhancing Our Security ... 12
 
-Counterterrorism, Fighting Drug
-Trafficking and Other Missions  1 5
+Maintaining a Strong Defense Capability ... 13
 
-Combating Terrorism  15
-Fighting Drug Trafficking  1 6
-Other Missions  17
+Strengthening Macroeconomic Coordination ... 27
+
+Enhancing Access to Foreign Markets ... 27
+
+Export Strategy and Advocacy Program ... 27
+
+Export Controls ... 27
+
+Expanding the Realm of Open Markets ... 28
+
+The North American Free Trade
+Agreement ... 28
+
+Major Regional Contingencies ... 1 4 Asia Pacific Economic Cooperation ... 28
+
+Overseas Presence ... 14 Uruguay Round of GATT ... 28
+
+Counterterrorism, Fighting Drug U.S. - Japan Framework Agreement ... 29
+Trafficking and Other Missions ... 1 5 Summit of the Americas ... 29
+
+Combating Terrorism ... 15
+
+Fighting Drug Trafficking ...
+
+Other Missions ... 17
+
+1 6
+U.S. - EU Transatlantic Marketplace ...
+
+OECD Multilateral Investment
+Agreement ... 29
+
+29
 
 Deciding When and How to Employ
-U.S. Forces  18
+U.S. Forces ... 18
 
 Combating the Spread and Use of
 Weapons of Mass Destruction
-and Missiles  19
-
-Nonproliferation and
-Counterproliferation  19
-
-Nuclear Forces  21
-Arms Control  21
-Peace Operations  22
-Strong Intelligence Capabilities  23
-Fighting International Organized Crime  25
-National Security Emergency Preparedness  26
-
-The Environment and Sustainable
-Development  26
-
-Promoting Prosperity at Home  26
-
-Enhancing American Competitiveness  27
-
-Strengthening Macroeconomic Coordination  27
-Enhancing Access to Foreign Markets  27
-Export Strategy and Advocacy Program  27
-Export Controls  27
-Expanding the Realm of Open Markets  28
-
-The North American Free Trade
-Agreement  28
-
-Asia Pacific Economic Cooperation  28
-Uruguay Round of GATT  28
-
-U.S. — Japan Framework Agreement  29
-Summit of the Americas  29
-
-U.S. — EU Transatlantic Marketplace  29
-
-OECD Multilateral Investment
-Agreement  29
+and Missiles ... 19
 
 Preparing International Economic
-Institutions for the 21st Century  29
+Institutions for the 21st Century ... 29
 
-Providing for Energy Security  30
+Providing for Energy Security ... 30
 
 Promoting Sustainable Development
-Abroad  30
 
-Promoting Democracy  32
+Nonproliferation and
+Counterproliferation ... 19
 
-III. Integrated Regional Approaches  35
-Europe and Eurasia  35
-East Asian and the Pacific  39
-The Western Hemisphere  41
+Nuclear Forces ... 21
+
+Arms Control ... 21
+
+Peace Operations ... 22
+
+Strong Intelligence Capabilities ... 23
+
+Abroad ... 30
+
+Promoting Democracy ... 32
+
+III. Integrated Regional Approaches ... 35
+
+Europe and Eurasia ... 35
+
+East Asian and the Pacific ... 39
+
+The Western Hemisphere ... 41
+Fighting International Organized Crime ... 25
 
 The Middle East, Southwest and
-South Asia  42
+National Security Emergency Preparedness ...
 
-Africa  43
+The Environment and Sustainable
 
-IV. Conclusions  45
+26 South Asia ...
+
+Africa ... 43
+
+42
+
+Development ... 26
+
+Promoting Prosperity at Home ... 26
+
+Enhancing American Competitiveness ... 27
+
+IV. Conclusions ... 45
+
+
 
 Preface
 
@@ -130,7 +168,7 @@ by the success of our response to forces that operate within
 as well as beyond our borders.
 
 At the same time, we have unprecedented opportunities to
-make our nation safer and more prosperous. Our militaw
+make our nation safer and more prosperous. Our military
 might is unparalleled. We now have a truly global
 economy linked by an instantaneous communications
 network, which offers increasing opportunities for
@@ -157,12 +195,13 @@ strategy that is tailored for this new era and builds upon
 America's unmatched strengths. Focusing on new threats
 and new opportunities, its central goals are:
 
-' To enhance our security with militaw forces that are
+• To enhance our security with military forces that are
 ready to fight and with effective representation
 abroad.
 
-' To bolster America's economic revitalization.
-- To promote democracy abroad.
+• To bolster America's economic revitalization.
+
+• To promote democracy abroad.
 
 Over the past three years, my Administration has worked
 diligently to pursue these goals. This national security
@@ -174,11 +213,12 @@ tary forces, foreign initiatives and global influence, and
 that we must engage actively abroad if we are to open
 foreign markets and create jobs for our people.
 
+
+
 We believe that our goals of enhancing our security,
 bolstering our economic prosperity and promoting democ-
 racy are mutually supportive. Secure nations are more
-
-Ii kely to support free trade and maintain democratic struc-
+li kely to support free trade and maintain democratic struc-
 tures. Free market nations with growing economies and
 strong and open trade ties are more likely to feel secure
 and to work toward freedom. And democratic states are
@@ -195,7 +235,7 @@ the problems others face today can more quickly become
 ours, tomorrow. This is why U.S. leadership and our
 engagement have never been more important: if we with-
 draw from this world today, our citizens will have to pay
-the price ofour neglect. We therefore measure the success
+the price of our neglect. We therefore measure the success
 of our efforts abroad, as at home, by one simple standard:
 Have we made the lives of the American people safer,
 today; have we made tomorrow better and more secure for
@@ -205,7 +245,7 @@ Since my Administration began, we have been deeply
 engaged in efforts to realize this measure of success by
 meeting the goals of our strategy:
 
-- To enhance our security, for example, we have
+• To enhance our security, for example, we have
 helped achieve peace between Jordan and Israel and
 an Interim Agreement between Israel and the
 Palestinians in the Middle East; brokered a compre-
@@ -235,10 +275,10 @@ dangerous nuclear program; and used our diplo-
 matic support and the power of our example to give
 new impetus to the efforts of the people of Northern
 Ireland and the British and Irish governments to
-achieve a just and lasting settlement to the conﬂict
+achieve a just and lasting settlement to the conflict
 there.
 
-- To bolster prosperity at home and around the world,
+• To bolster prosperity at home and around the world,
 we have secured the enactment of legislation imple-
 menting both the North American Free Trade
 Agreement (NAFTA) and the Uruguay Round of the
@@ -256,7 +296,7 @@ the 34 democratic nations of this hemisphere
 committed themselves to negotiate a free-trade
 agreement by 2005.
 
-- To promote democracy, we have supported South
+• To promote democracy, we have supported South
 Africa's recent transformation; provided aid to a
 democratizing Russia and other new independent
 states of the former Soviet Union as well as Central
@@ -269,15 +309,17 @@ ratically elected government in Haiti and hosting the
 Summit of the Americas, which reaffirmed and
 strengthened our mutual commitment to democracy.
 
-Our extraordinaw diplomatic leverage to reshape existing
+Our extraordinary diplomatic leverage to reshape existing
 security and economic structures and create new ones ulti-
 mately relies upon American power. Our economic and
-militaw might, as well as the power of our ideals, also
-makes America's diplomats the ﬁrst among equals and
+military might, as well as the power of our ideals, also
+makes America's diplomats the first among equals and
+
+
 
 enables us to help create the conditions necessary for U.S.
 interests to thrive. Our economic strength gives us a posi-
-tion of advantage on almost every global issue. For
+ti on of advantage on almost every global issue. For
 instance, our efforts in South Africa and our negotiations
 with North Korea demonstrate how the imposition — or
 the threat — of economic sanctions helps us to achieve
@@ -320,7 +362,7 @@ oppose those who would endanger the survival or well-
 being of their peaceful neighbors. At the same time, all
 nations should be able to expect that their borders and
 their sovereignty will always be secure; however, this does
-not mean we orthe international community must tolerate
+not mean we or the international community must tolerate
 gross violations of human rights within those borders.
 
 When our national security interests are threatened, we
@@ -332,12 +374,12 @@ that while force can defeat an aggressor, it cannot solve
 underlying problems. Democracy and economic prosperity
 can take root in a struggling society only through local
 solutions carried out by the society itself. We must use
-militaw force selectively, recognizing that it use may do
+military force selectively, recognizing that its use may do
 no more than provide a window of opportunity for a
 society — and diplomacy — to work.
 
 We therefore will send American troops abroad only when
-our interests and our values are sufﬁciently at stake. The
+our interests and our values are sufficiently at stake. The
 courage, loyalty and willingness of our men and women in
 uniform to put their lives at risk is a national treasure
 which should never be taken for granted, but neither
@@ -346,7 +388,7 @@ When we do so, it will be with clear objectives to which
 we are firmly committed and which — when combat is
 likely — we have the means to achieve decisively. To do
 otherwise, risks those objectives and endangers our troops.
-These requirement are as pertinent for humanitarian and
+These requirements are as pertinent for humanitarian and
 other nontraditional interventions today as they were for
 previous generations during prolonged world wars.
 Modern media communications may now bring to our
@@ -355,7 +397,7 @@ world and the casualties that may accompany interven-
 tions to help. But no deployment of American service
 members is risk-free, and we must remain clear in our
 purpose and resolute in its execution. And while we must
-continue to reassess the cost and benefit of any operation
+continue to reassess the costs and benefits of any operation
 as it unfolds, reflexive calls for withdrawal of our forces
 when casualties are incurred would simply encourage
 rogue actors to try to force our departure from areas where
@@ -364,20 +406,24 @@ there are U.S. interests by attacking American troops.
 During the past three years, diplomacy backed by
 American power has produced impressive results:
 
-- When Iraq moved forces towards Kuwait, we reacted
-swiftly and dispatched additional, la.rge—scale forces
+• When Iraq moved forces towards Kuwait, we reacted
+swiftly and dispatched additional, large-scale forces
 to the region under the authority of the United
 Nations — but were prepared to act alone, if neces-
 sary.
 
-- In Haiti, it was only when the Haitian military
+• In Haiti, it was only when the Haitian military
 learned that the 82nd Airborne Division was en route
 that we achieved peacefully what we were prepared
 to do under fire.
 
 iii
 
-- In Bosnia, we achieved a breakthrough when U.S.
+
+
+iv
+
+• In Bosnia, we achieved a breakthrough when U.S.
 diplomatic leadership was married to appropriate
 military power. After the fall of Zepa and Srebrenica,
 the United States secured an agreement from our
@@ -386,20 +432,20 @@ areas with a decisive military response. American
 pilots participated in the NATO bombing campaign
 following the shelling of a Sarajevo marketplace,
 demonstrating our resolve and helping to bring the
-pa_rties to the negotiating table.
+parties to the negotiating table.
 
 U.S. leadership then seized the opportunity for peace
 that these developments created: U.S. diplomats,
 along with our Contact Group partners, brokered a
-cease—fire and, after intensive U.S.—led negotiations in
+cease-fire and, after intensive U.S.-led negotiations in
 Dayton, Ohio, a comprehensive peace agreement.
-U.S. forces a_re now working as pa.rt of a la.rger
+U.S. forces are now working as part of a larger
 NATO force — joined by forces from members of
 NATO's Partnership for Peace — to help implement
 the military aspects of the agreement and create the
 conditions for peace to take hold.
 
-- In Rwanda and Somalia, only the American military
+• In Rwanda and Somalia, only the American military
 could have accomplished what it did in these
 humanitarian missions, saving hundreds of thousands
 of lives. However, over the longer run our interests
@@ -410,7 +456,7 @@ can create a stable and legitimate domestic order for
 another society — that work can only be accom-
 plished by the society itself.
 
-Our national security strategy reﬂects both America's inter-
+Our national security strategy reflects both America's inter-
 ests and our values. Our commitment to freedom, equality
 and human dignity continues to serve as a beacon of hope
 to peoples around the world. The vitality, creativity and
@@ -433,7 +479,7 @@ tunities if we remain actively engaged in global affairs. We
 are the world's greatest power, and we have global inter-
 ests as well as responsibilities. As our nation learned after
 World War I, we can find no security for America in isola-
-tionism nor prosperity in protectionism. Forthe American
+tionism nor prosperity in protectionism. For the American
 people to be safer and enjoy expanding opportunities, our
 nation must work to deter would-be aggressors, open
 foreign markets, promote the spread of democracy abroad,
@@ -448,7 +494,7 @@ the American people and their representatives in Congress.
 The full participation of Congress is essential to the success
 of our continuing engagement, and I will consult with
 members of Congress at every step as we formulate and
-Implement American foreign policy.
+i mplement American foreign policy.
 
 The need for American leadership abroad remains as
 strong as ever. I am committed to forging a new public
@@ -457,7 +503,9 @@ pursuit of our cherished goal — a more secure world
 where democracy and free markets know no borders. This
 document details that commitment.
 
-1444-AAA ttAAA-4--clAAL..
+1.444-AAA ttAAA-4--clAAL..
+
+
 
 I. Introduction
 
@@ -518,8 +566,8 @@ rapid population growth and refugee flows, now pose
 threats to our prosperity and have security implications for
 both present and long-term American policy. In addition,
 the emergence of the information and technology age
-present new challenges to U.S. strategy even as it offers
-extraordinaw opportunities to build a better future. This
+presents new challenges to U.S. strategy even as it offers
+extraordinary opportunities to build a better future. This
 technology revolution brings our world closer together as
 information, money and ideas move around the globe at
 record speed; but it also makes possible for the violence of
@@ -531,9 +579,13 @@ It is a world where clear distinctions between threats to
 our nation's security from beyond our borders and the
 challenges to our security from within our borders are
 
+1
+
+
+
 being blurred; where the separation between international
 problems and domestic ones is evaporating; and where the
-line between domestic and foreign policy is eroding. The
+li ne between domestic and foreign policy is eroding. The
 demise of communism not only lifted the lid on age-old
 conflicts but it opened the door to new dangers, such as
 the spread of weapons of mass destruction to non-state, as
@@ -541,7 +593,7 @@ well as state, forces. And it did so at a time when these
 forces can now try to threaten our security from within our
 borders because of their access to modern technology. We
 must therefore assess these forces for what they are, with
-our response based on the nature of theirthreat, notjust
+our response based on the nature of their threat, not just
 where they occur.
 
 Because problems that start beyond our borders can now
@@ -552,7 +604,7 @@ about this new world: the same idea that was under attack
 three times in this century — first by imperialism and then
 by fascism and communism — remains under attack
 today, but on many fronts at once. It is an idea that comes
-under many names _ democracy, liberty, civility,
+under many names democracy, liberty, civility,
 pluralism — but which together are the values of a society
 where leaders and governments preserve individual free-
 doms and ensure opportunity and human dignity. As the
@@ -569,7 +621,7 @@ perity now threatened by regional aggressors and the
 spread of weapons of mass destruction; ethnic, religious
 and national rivalries; and the forces of terrorism, drug traf-
 ficking and international organized crime. Today,
-addressing these threat demands American leadership.
+addressing these threats demands American leadership.
 
 The victors of World War I squandered their triumph in
 this age-old struggle when they turned inward, bringing on
@@ -580,6 +632,8 @@ threat, this great nation did not walk away from the chal-
 lenge of the moment. Instead, it chose to reach out, to
 rebuild international security structures and to lead. This
 determination of previous generations to prevail over
+
+2
 
 communism by shaping new international structures left us
 a world stronger, safer and freer. It is this example and its
@@ -594,9 +648,9 @@ By exerting our leadership abroad, we make America safer
 and more prosperous — by deterring aggression, by
 fostering the peaceful resolution of dangerous conflicts, by
 opening foreign markets, by helping democratic regimes
-and by tackling global problems. V\ﬁthout our active lead-
+and by tackling global problems. Without our active lead-
 ership and engagement abroad, threats will fester and our
-opportunities will narrow. We seekto be as creative and
+opportunities will narrow. We seek to be as creative and
 constructive — in the literal sense of that word — as the
 generation of the late 1940's. For all its dangers, this new
 world presents an immense opportunity — the chance to
@@ -631,6 +685,8 @@ Our national security strategy is therefore based on
 enlarging the community of market democracies while
 deterring and limiting a range of threats to our nation, our
 
+
+
 allies and our interests. The more that democracy and
 political and economic liberalization take hold in the
 world, particularly in countries of strategic importance to
@@ -638,7 +694,7 @@ us, the safer our nation is likely to be and the more our
 people are likely to prosper.
 
 To that broad end, the three central components of our
-strategy of engagement and enlargement are: (1) our effort
+strategy of engagement and enlargement are: (1) our efforts
 to enhance our security by maintaining a strong defense
 capability and employing effective diplomacy to promote
 cooperative security measures; (2) our work to open
@@ -654,19 +710,19 @@ strategy of the nation must serve the needs of the people.
 The preamble of the Constitution sets out the basic objec-
 tives:
 
-providefor the common defence, promote the
+provide for the common defence, promote the
 general welfare, and secure the blessings of liberty to
-ourselves and ourposterity.
+ourselves and our posterity.
 
 The end of the Cold War does not alter these fundamental
 purposes. Nor does it reduce the need for active American
 efforts, here and abroad, to pursue those goals. Our efforts
 to advance the common good at home depend upon our
 efforts to advance our interests around the world.
-Therefore, we mustjudge the success of our security
+Therefore, we must judge the success of our security
 strategy by its impact on the domestic lives of our citizens:
 has it made a real difference in the day to day lives of
-Americans? Considerjust a few examples:
+Americans? Consider just a few examples:
 
 Every American today is safer because we are stepping
 back from the nuclear precipice. Russian missiles are no
@@ -685,7 +741,7 @@ In a world where the boundaries between threats outside
 our borders and the challenges from within are dimin-
 ishing, Americans are safer because our counterterrorism
 strategy promoted closer cooperation with foreign govern-
-ment and sanctions against states that sponsor terrorism,
+ments and sanctions against states that sponsor terrorism,
 while increasing the resources for our own law enforce-
 ment agencies.
 
@@ -699,7 +755,7 @@ intervention, the refugee flow was practically zero.
 Our strategy to help the nations of Central Europe consoli-
 date democracy, find lasting security and build strong
 economics makes it much less likely that Americans might
-have to ﬁght another war on the battlegrounds of Europe.
+have to fight another war on the battlegrounds of Europe.
 By supporting democratic reform and the transition to free
 markets in the new independent states of the former Soviet
 Union and in Central Europe, our strategy promoted
@@ -708,7 +764,7 @@ market for the United States, creating jobs in America. In
 Bosnia, diplomatic determination combined with military
 muscle to create an opportunity to secure a peace rather
 than permit instability to undermine this fragile region and
-U.S. interest.
+U.S. interests.
 
 Our strategy's trade initiatives, from NAFTA and the
 Uruguay Round of GATT to over 80 separate trade agree-
@@ -731,19 +787,22 @@ combined with assisting developing nations who are
 fighting overpopulation, AIDS, drug smuggling and envi-
 ronmental degradation, ensure that future generations of
 
+3
+
+
+
 Americans will not have to contend with the consequences
 of neglecting these threats to our security and prosperity.
 
 Many of these decisions were made in the face of signifi-
 cant disagreement over what needed to be done at the
-moment. But the alternatives bore unacceptable cost to
+moment. But the alternatives bore unacceptable costs to
 our citizens: tariffs and harriers would still cripple the
 world trading system if not for GAI t and NAF I A; the
 Persian Gulf region would be very different today if the
 rapid response of the United States and its allies had not
 deterred Iraq's threatened aggression against Kuwait in
-
-I 994; the flood of Haitian refugees at our borders would
+1 994; the flood of Haitian refugees at our borders would
 have continued had we not intervened in that country;
 Latin America would have seen financial and economic
 chaos affecting its fragile democracies, and U.S. trade
@@ -779,7 +838,7 @@ During the first three years of this Administration, this
 strategy has produced the following results with respect to
 our security requirements:
 
-' At the President's direction, the Pentagon conducted
+• At the President's direction, the Pentagon conducted
 the Bottom Up Review and Nuclear Posture Review,
 
 assessing what defense forces and capabilities our
@@ -787,22 +846,22 @@ nation needs for this new security era. The
 Administration's defense strategy, which requires
 U.S. forces to be able to deter and, if necessary,
 defeat aggression in concert with regional allies in
-two nearly simultaneous major regional conﬂicts, has
+two nearly simultaneous major regional conflicts, has
 proved realistic. In the late summer of 1994, we
-faced the very real prospect of near—simultaneous
+faced the very real prospect of near-simultaneous
 hostilities with North Korea and Iraq. Our rapid rein-
 forcement of U.S. military presence and additional
 deployments to these theaters deterred potential
 aggression. Our military's superb performance in
 responding quickly and effectively when called upon
 in these crises, as well as in those in Haiti and
-Rwanda that sarne year, clearly demonstrates their
+Rwanda that same year, clearly demonstrates their
 continued readiness to respond as needed and that
-we have prudently managed the post—Cold War force
+we have prudently managed the post-Cold War force
 drawdown.
 
 The President also set forth a defense budget for
-Fiscal Yea.rs 1996-2001 which fully funds the force
+Fiscal Years 1996-2001 which fully funds the force
 structure recommended by the Bottom Up and
 Nuclear Posture Reviews and which is necessary to
 carry out the national security strategy. He repeatedly
@@ -816,30 +875,32 @@ the costs of unanticipated contingencies. In addition,
 the President added $25 billion to the Fiscal Year
 1996-2001 defense spending plan to provide more
 funding for readiness, modernization and quality of
-life improvements for our military personnel and
+life i mprovements for our military personnel and
 families. The President also agreed to extra funding in
 the FY 1996 Defense appropriations bill in order to
 pay for the troop deployment in Bosnia.
 
-The United States initiated an intense diplomatic
-effort that forged a Bosnia—wide cease—fire and then
+• The United States initiated an intense diplomatic
+effort that forged a Bosnia-wide cease-fire and then
 brokered a comprehensive peace agreement among
 the parties. We contributed a substantial share of the
-NATO—led peace implementation force to help
-Implement the military aspects of the peace agree-
-
+NATO-led peace implementation force to help
+i mplement the military aspects of the peace agree-
 ment and create the conditions for peace to take
 hold.
 
-- At President Clinton's initiative, a NATO Summit in
+4
 
+
+
+• At President Clinton's initiative, a NATO Summit in
 January 1994 approved the Partnership For Peace
 (PFP) program and initiated a process that will lead
 to NATO's gradual enlargement to ensure that the
 alliance is prepared to meet the European and
 transatlantic security challenges of this era, and to
 provide the security relationships that will buttress
-the underpinnings forthe democratic and market
+the underpinnings for the democratic and market
 economic gains in Europe since 1989. Since the
 Summit, 27 countries, including Russia, agreed to
 join the Partnership for Peace, and Partner countries
@@ -851,8 +912,8 @@ intensive bilateral consultations with all the PFP
 members who wish to participate, aimed at helping
 them prepare for possible NATO membership.
 
-The United States, Russia, Ukraine, Belarus and
-Kazakstan exchanged instruments of ratiﬁcation for
+• The United States, Russia, Ukraine, Belarus and
+Kazakstan exchanged instruments of ratification for
 the START I Treaty at the December 1994 summit of
 the Conference on Security and Cooperation in
 Europe (CSCE), culminating two years of intensive
@@ -871,7 +932,7 @@ strategic launchers and will effectively remove an
 additional 5,000 deployed warheads, leaving each
 side with no more than 3,500. These actions will
 reduce the deployed strategic force arsenals of the
-United States and Russia by two-thirds. President
+United States and Russia by two-thirds. Presidents
 Clinton and Yeltsin have agreed that once START II is
 ratified by both countries, the United States and
 Russia will begin immediately to deactivate all
@@ -883,21 +944,21 @@ alert status years ahead of schedule. The two
 Presidents also directed an intensification of dialogue
 
 regarding the possibility of further reductions of, and
-limitations on, remaining nuclear forces.
+li mitations on, remaining nuclear forces.
 
-The 30-nation Conventional Forces in Europe (CFE)
+• The 30-nation Conventional Forces in Europe (CFE)
 Treaty's reduction period came to an end this past
 November, resulting in the elimination of over
-50,000 pieces of heavy militaw equipment and
+50,000 pieces of heavy military equipment and
 capping conventional forces in Europe at their lowest
 levels in decades. Together with our allies, the
 Administration will continue to pursue full imple-
 mentation of this agreement.
 
-The President launched a comprehensive policy to
+• The President launched a comprehensive policy to
 combat the proliferation of weapons of mass destruc-
 tion and the missiles that deliver them. The United
-States has secured landmark commitment to elimi-
+States has secured landmark commitments to elimi-
 nate all nuclear weapons from Ukraine, Belarus and
 Kazakstan, and in December 1994, Ukraine formally
 acceded to the Nuclear Non-proliferation Treaty as a
@@ -912,10 +973,10 @@ Treaty parties at the 1995 Review and Extension
 Conference. The President's August 1995 initiative to
 support a true zero yield Comprehensive Test Ban
 Treaty (CTBT) provided a significant boost to the
-CTBT negotiations and has opened the doorto
+CTBT negotiations and has opened the door to
 completing and signing a CTBT in 1996.
 
-We also made significant progress during the past
+• We also made significant progress during the past
 year in negotiations to establish an agreed demarca-
 tion between strategic and theater ballistic missiles
 that will update the ABM Treaty and advance our
@@ -926,29 +987,34 @@ consent to ratification and supported the develop-
 ment of new measures to strengthen the Biological
 Weapons Convention.
 
-The Administration reached an important Agreed
+• The Administration reached an important Agreed
 Framework with North Korea that has halted and,
 when fully implemented, will eventually eliminate
 that country's existing, dangerous nuclear program,
 greatly enhancing regional stability and advancing
 
+5
+
+
+
+6
 our nonproliferation goals. The Administration
 reached agreements with Russia, Ukraine and South
-Africa to control missile—related technology, brought
+Africa to control missile-related technology, brought
 Russia, Brazil and South Africa into the Missile
 Technology Control Regime (MTCR) and secured
-China's commitment not to transfer MTCR—
-controlled, ground—to—ground missiles. The United
+China's commitment not to transfer MTCR-
+controlled, ground-to-ground missiles. The United
 States has also led international efforts to create the
-multilateral "Wassenaa.r Arrangement on Export
-Controls for Conventional Arms and Dual—use Goods
+multilateral "Wassenaar Arrangement on Export
+Controls for Conventional Arms and Dual-use Goods
 and Technology" — the successor to the
-Coordinating Committee for East—West Trade
+Coordinating Committee for East-West Trade
 (COCOM) — to provide a regime for transparency
 and restraint on dangerous transfers of conventional
-arms and dual—use technologies.
+arms and dual-use technologies.
 
-The President's efforts helped bring about many
+• The President's efforts helped bring about many
 historic firsts in the Middle East peace process — the
 handshake of peace between Prime Minister Rabin
 and Chairman Arafat on the White House lawn has
@@ -958,20 +1024,20 @@ eliminating the Arab boycott of Israel and the estab-
 lishment of ties between Israel and an increasing
 number of its Arab neighbors.
 
-In 1995, the President proposed legislation to provide
+• In 1995, the President proposed legislation to provide
 law enforcement officials with increased tools to
 combat terrorism. These include additional
 manpower and training, methods to mark and trace
 explosives and legal mobile wiretaps. The President
-also directed new initiatives against money-|aun-
+also directed new initiatives against money-laun-
 dering, for seizing the assets of drug rings and for
 new legislation to respond more effectively to orga-
 nized crime activity. In October, the President also
 announced at the United Nations an invitation to
 every country to join in negotiating an international
-declaration on citizens’ security that would include:
+declaration on citizens' security that would include:
 a no-sanctuary pledge for organized criminals, terror-
-ist, drug traffickers and smugglers; a counterter-
+ists, drug traffickers and smugglers; a counterter-
 rorism pact; a pledge to end the trafficking of illegal
 arms and of lethal nuclear, biological and chemical
 materials; an antinarcotics pledge; and an effective
@@ -980,7 +1046,7 @@ of violence and destruction. Progress has been made,
 with the apprehension of leaders of the most influen-
 tial South American drug cartels.
 
-In March 1995, the President obtained Senate advice
+• In March 1995, the President obtained Senate advice
 and consent to ratification of the 1980 Convention
 on Conventional Weapons (CCW), which constrains
 the use of certain weapons, including landmines.
@@ -991,15 +1057,15 @@ landmine use, placing international controls on
 export, production and stockpiles, and developing
 new equipment for more effective demining.
 
-On May 3, 1994, President Clinton signed a
+• On May 3, 1994, President Clinton signed a
 Presidential Decision Directive establishing 'U.S.
-Policy on Reforming Multilateral Peace Operations.’
+Policy on Reforming Multilateral Peace Operations.'
 This policy represented the first comprehensive
 framework for U.S. decision making on issues of
 peacekeeping and peace enforcement suited to the
 realities of the new international era.
 
-In October 1994, President Clinton transmitted the
+• In October 1994, President Clinton transmitted the
 United Nations Convention on the Law of the Sea to
 the Senate for its advice and consent to ratification.
 This was the culmination of years of negotiations to
@@ -1013,8 +1079,8 @@ acceptable regime to administer the mineral
 resources of the deep seabed, thereby protecting
 U.S. interests.
 
-In March 1995, President Clinton ordered a
-sweeping reexamination ofthe U.S. Government's
+• In March 1995, President Clinton ordered a
+sweeping reexamination of the U.S. Government's
 approach to putting science and technology to the
 service of national security and global stability in
 light of the changed security environment, increasing
@@ -1024,41 +1090,39 @@ and Technology Strategy is the country's first
 comprehensive Presidential statement of national
 security science and technology priorities.
 
-On the economic front, Adrninistration policies have
-
+On the economic front, Administration policies have
 created nearly 7.5 million American jobs and established
-
 the foundation for the global economy of the 21st Century:
 
-- The President worked with the Congress on effective
 
+
+• The President worked with the Congress on effective
 measures to reduce the federal budget deficit and
 restore economic growth. These measures help
 increase our competitiveness and strengthen our
 position in negotiations with other nations. Two
-million of the 7.5 million newjobs created in the last
+million of the 7.5 million new jobs created in the last
 three years are a result of our efforts to expand
-market access for American product overseas. These
+market access for American products overseas. These
 efforts have also lead to the creation of over 3
-
 million new small businesses and the lowest
 combined rates of unemployment and inflation in 25
 years. The federal budget deficit has dropped three
 years in a row, from $290 billion to $164 billion a
-year
+year.
 
-The President secured approval of the North
+• The President secured approval of the North
 American Free Trade Agreement (NAFTA), which
 creates the world's largest free trade zone and has
 already created nearly 310,000 American jobs. The
-vote for NAFTA marked a decisive U.S. afﬁrmation
+vote for NAFTA marked a decisive U.S. affirmation
 of its international engagement. Through NAFTA's
 environmental and labor side agreements, we are
 working actively to protect the rights of workers and
 to reduce air and water pollution that crosses
 national boundaries. When Mexico came under
 short-term financial pressures in December 1994, the
-United States tookthe lead in marshaling interna-
+United States took the lead in marshaling interna-
 tional support to assist the country in meeting this
 challenge. NAFTA helped to protect and increase
 U.S. exports to that country — and the jobs they
@@ -1066,7 +1130,7 @@ support — during the financial crisis and the subse-
 quent adjustment period. We have also begun nego-
 tiations with Chile to join NAFTA.
 
-The Administration stood at the forefront of a multi-
+• The Administration stood at the forefront of a multi-
 lateral effort to achieve history's most extensive
 market-opening agreements in the GATT Uruguay-
 round negotiations on world trade. Working with a
@@ -1075,12 +1139,12 @@ secured approval of this path-breaking agreement
 and the resulting World Trade Organization, which
 will add $150 billion annually to the U.S. economy
 once fully phased in and create hundreds of thou-
-sands ofjobs.
+sands of jobs.
 
-The President convened the first meeting of leaders
+• The President convened the first meeting of leaders
 of the Asia Pacific Economic Cooperation (APEC)
 forum and took steps to expand our ties with the
-economies of the Asia-Paciﬁc region, the fastest
+economies of the Asia-Pacific region, the fastest
 
 growing area in the world. At their second forum,
 APEC leaders embraced the goal of free trade within
@@ -1092,9 +1156,9 @@ negotiated historic trade agreements with our Asian
 trading partners, including China, Japan and Korea,
 all of which promote substantial new access for
 American products and which will foster new atti-
-tudes of openness toward our export.
+tudes of openness toward our exports.
 
-The President hosted the Summit of the Americas in
+• The President hosted the Summit of the Americas in
 December 1994, a historic gathering where the 34
 democratic nations of the hemisphere committed
 themselves to completing negotiations by 2005 on a
@@ -1104,7 +1168,7 @@ and Commerce Forum to promote trade liberaliza-
 tion and business facilitation throughout the Western
 Hemisphere.
 
-At President Clinton's initiative, the G-7 Leaders put
+• At President Clinton's initiative, the G-7 Leaders put
 forth at the Halifax Economic Summit extensive
 proposals to prepare our international financial insti-
 tutions for the 21st Century, including institutional
@@ -1116,27 +1180,31 @@ President announced the New Transatlantic Agenda,
 including a Transatlantic Marketplace that will
 deepen our cooperation on economic issues.
 
-The President developed a Climate Change Action
+• The President developed a Climate Change Action
 Plan to help reduce greenhouse emissions at home
 and launched the U.S. Initiative on Joint
-Implementation to help reduce emissions abroad.
+I mplementation to help reduce emissions abroad.
 The United States also takes a leading role at the
 international level in phasing out ozone-depleting
 substances. In June 1993, the United States signed
 the Biodiversity Treaty and one year later, the
 Desertification Convention.
 
-With strong U.S. leadership, the United Nations
+• With strong U.S. leadership, the United Nations
 successfully concluded negotiations on a multilateral
 agreement designed to reverse the global trend of
 declining fish stocks. The agreement complements
 the UN Law of the Sea Convention, giving direction
 
+7
+
+
+
 to countries for implementing their obligation under
 the Convention to cooperate in conserving and
 managing straddling and highly migratory fish stocks.
 
-The Administration has asserted world leadership on
+• The Administration has asserted world leadership on
 population issues. We played a key role during the
 Cairo Conference on Population and Development
 in developing a consensus Program of Action,
@@ -1148,36 +1216,17 @@ enhanced educational opportunities and a reduction
 in infant and child mortality through immunizations
 and other programs.
 
-unmistakable signal of their support for peace. In
-1994, U.S. engagement in Northern Ireland
-contributed to the establishment of a cease—fire, first
-by the IRA and subsequently by loyalist pa.ramili—
-taries. U.S. economic and trade initiatives, including
-the White House Conference on Trade and
-Investment in May 1995, are aimed at promoting
-economic revitalization and job creation in Northern
-Ireland.
-
-At the Summit of the Americas, the 34 democratic
-nations of the hemisphere agreed to a detailed plan
-of cooperative action in such diverse fields as health,
-education, science and technology, counter-
-narcotics, counterterrorism, environmental protec-
-tion, information infrastructure and the strengthening
-
-Finally, the President has demonstrated a firm commitment and safeguarding of democratic institutions} in addi-
-
-to expanding the global realm of democracy to advance tion to mutual prosperity and sustainable develop-
-
+Finally, the President has demonstrated a firm commitment
+to expanding the global realm of democracy to advance
 the interests of our citizens:
 
-The Administration substantially expanded U.S.
+• The Administration substantially expanded U.S.
 support for democratic and market reform in Russia,
 Ukraine and the other new independent states of the
 former Soviet Union, including a comprehensive
 assistance package for Ukraine.
 
-The United States launched a series of initiatives to
+• The United States launched a series of initiatives to
 bolster the new democracies of Central and Eastern
 Europe, including the White House Trade and
 Investment Conference for Central and Eastern
@@ -1187,7 +1236,7 @@ economic transformation, recognizing that such
 assurances would play a key role in promoting
 democratic developments.
 
-Working with the international community underthe
+• Working with the international community under the
 auspices of the UN, we succeeded in reversing the
 coup in Haiti and restoring the democratically
 elected president and government. We are now
@@ -1196,11 +1245,33 @@ consolidate their hard-won democracy through free
 and fair elections at all levels — local, parliamentary
 and presidential.
 
-The President's visit to Northern Ireland in November
+• The President's visit to Northern Ireland in November
 1995, the first ever by an American President, drew
 an unprecedented response from the people of both
 the Catholic and Protestant communities and sent an
 
+8
+
+unmistakable signal of their support for peace. In
+1994, U.S. engagement in Northern Ireland
+contributed to the establishment of a cease-fire, first
+by the IRA and subsequently by loyalist paramili-
+taries. U.S. economic and trade initiatives, including
+the White House Conference on Trade and
+Investment in May 1995, 
+
+ are aimed at promoting
+economic revitalization and job creation in Northern
+Ireland.
+
+• At the Summit of the Americas, the 34 democratic
+nations of the hemisphere agreed to a detailed plan
+of cooperative action in such diverse fields as health,
+education, science and technology, counter-
+narcotics, counterterrorism, environmental protec-
+tion, information infrastructure and the strengthening
+and safeguarding of democratic institutions, in addi-
+tion to mutual prosperity and sustainable develop-
 ment. The Summit ushered in a new era of hemi-
 spheric cooperation that would not have been
 possible without U.S. leadership and commitment. In
@@ -1210,7 +1281,7 @@ nals and terrorists and preserving natural resources
 have helped improve the lives of the hemisphere's
 residents.
 
-The United States has increased support for South
+• The United States has increased support for South
 Africa as it conducted elections and became a
 multiracial democracy. During the state visit of
 Nelson Mandela in October 1994, we announced
@@ -1219,19 +1290,21 @@ cooperation between our nations and an assistance
 package to support housing, health, education, trade
 and investment.
 
-The United States, working with the Organization of
+• The United States, working with the Organization of
 American States, helped reverse an antidemocratic
 coup in Guatemala.
 
-In Mozambique and Angola, the United States
+• In Mozambique and Angola, the United States
 played a leading role in galvanizing the international
 community to help bring an end to two decades of
 civil war and to promote national reconciliation. For
 the first time, there is the prospect that all of southern
 Africa will enjoy the fruits of peace and prosperity.
 
-At the 1993 UN Conference on Human Rights, the
+• At the 1993 UN Conference on Human Rights, the
 United States successfully argued for improved inter-
+
+
 
 national mechanisms for the promotion of basic
 human rights on a global basis. The President signed
@@ -1258,14 +1331,14 @@ inevitable; nor will it proceed easily in an even, uninter-
 rupted way — there is a price for our leadership. Because
 of this, we know that there must be limits to America's
 involvement in the world — limits imposed by careful
-evaluation of our fundamental interest and frank assess-
+evaluation of our fundamental interests and frank assess-
 
 ment of the costs and benefits of possible actions. We
 cannot become involved in every problem, but the
 choices we make must be always guided by our objectives
 of a more secure, prosperous and free America and remain
 rooted in the conviction that America cannot walk away
-from its global interests or responsibilities, or our citizens’
+from its global interests or responsibilities, or our citizens'
 security and prosperity will surely suffer.
 
 As the distinction between domestic problems and interna-
@@ -1273,7 +1346,7 @@ tional ones is increasingly blurred, we each have a very
 direct interest in ensuring the future success of this
 strategy: we cannot solve our own problems at home
 unless we are also operating in a world that is more
-peaceful, more democratic and more prosperous. Ifwe
+peaceful, more democratic and more prosperous. If we
 can help lead the dozens of nations, the billions of
 producers and consumers who are trying to adapt to
 democracy and free markets, we help to create the condi-
@@ -1283,9 +1356,13 @@ portends by reaffirming America's leadership in the world.
 
 This report has two major sections. The first part of the
 report explains our strategy of engagement and enlarge-
-ment. The second part describes brieﬂy how the
+ment. The second part describes briefly how the
 Administration continues to apply this strategy to the
 world's major regions.
+
+9
+
+
 
 II. Advancing our Interests Through
 Engagement and Enlargement
@@ -1293,8 +1370,7 @@ Engagement and Enlargement
 A new international era presents the United States with
 many distinct dangers, but also with a generally improved
 security environment and a range of opportunities to
-
-I mprove it further. The preeminent threat that dominated
+i mprove it further. The preeminent threat that dominated
 our engagement during the Cold War has been replaced
 by a complex set of challenges. Our nation's strategy for
 defining and addressing those challenges has several core
@@ -1305,7 +1381,7 @@ world's policeman, but as the world's premier economic
 and military power, and with the strength of our democ-
 ratic values, U.S. engagement is indispensable to the
 forging of stable political relations and open trade to
-advance our interest.
+advance our interests.
 
 Our leadership must stress preventive diplomacy —
 through such means as support for democracy, economic
@@ -1313,13 +1389,13 @@ assistance, overseas military presence, interaction between
 U.S. and foreign militaries and involvement in multilateral
 negotiations in the Middle East and elsewhere — in order
 to help resolve problems, reduce tensions and defuse
-conflict before they become crises. These measures are a
+conflicts before they become crises. These measures are a
 wise investment in our national security because they offer
 the prospect of resolving problems with the least human
 and material cost.
 
 Our engagement must be selective, focusing on the chal-
-lenges that are most important our own interest and
+lenges that are most important our own interests and
 focusing our resources where we can make the most
 difference. We must also use the right tools — being
 willing to act unilaterally when our direct national interests
@@ -1343,19 +1419,19 @@ ical, military and economic instruments, and focuses on
 the primary objectives that President Clinton has stressed
 throughout his Administration:
 
-- Enhancing Our Security. Taking account of the reali-
+• Enhancing Our Security. Taking account of the reali-
 ties of the new international era with its array of new
 threats, a military capability appropriately sized and
 postured to meet the diverse needs of our strategy,
 including the ability, in concert with regional allies,
 to win two nearly simultaneous major regional
-conﬂicts. We will continue to pursue a combination
+conflicts. We will continue to pursue a combination
 of diplomatic, economic and defense efforts,
 including arms control agreements, to reduce the
 danger of nuclear, chemical, biological and conven-
-tional conﬂict and to promote stability.
+tional conflict and to promote stability.
 
-- Promoting Prosperity at Home. A vigorous and inte-
+• Promoting Prosperity at Home. A vigorous and inte-
 grated economic policy designed to put our own
 economic hotise in order, work toward free and
 open markets abroad and promote sustainable
@@ -1363,7 +1439,9 @@ development.
 
 11
 
-- Promoting Democracy. A framework of democratic
+
+
+• Promoting Democracy. A framework of democratic
 enlargement that increases our security by protecting,
 consolidating and enlarging the community of free
 market democracies. Our efforts focus on strength-
@@ -1393,26 +1471,23 @@ ment.
 The three basic objectives of our national security strategy
 will also guide the allocation of our limited national secu-
 rity resources. Because deficit reduction is also central to
-the long—term health and competitiveness of the American
+the long-term health and competitiveness of the American
 economy, we have made it, along with efficient and envi-
 ronmentally sound use of our resources, a major priority.
 Under the Clinton economic plan, the federal budget
-deﬁcit has been lowered as a percentage of the Gross
+deficit has been lowered as a percentage of the Gross
 Domestic Product from 4.9 percent in Fiscal Year 1992 to
 2.4 percent in Fiscal Year 1995 — the lowest since 1979.
 
 Enhancing our Security
-
 The U.S. government is responsible for protecting the lives
 and personal safety of Americans, maintaining our political
 freedom and independence as a nation and promoting the
-well—being and prosperity of our nation. No matter how
+well-being and prosperity of our nation. No matter how
 powerful we are as a nation, we cannot always secure
 these basic goals unilaterally. Whether the problem is
 nuclear proliferation, regional instability, the reversal of
 reform in the former Soviet empire, international crime and
-
-12
 
 terrorism, or unfair trade practices, the threats and chal-
 lenges we face frequently demand cooperative, multina-
@@ -1434,12 +1509,12 @@ includes such activities as: conducting combined training
 and exercises, coordinating military plans and prepara-
 tions, sharing intelligence — particularly in support of
 multilateral peacekeeping efforts or initiatives to contain
-the inimical behavior of rogue states —joint|y developing
+the inimical behavior of rogue states — jointly developing
 new systems to include cooperative research and develop-
 ment programs and controlling exports of sensitive tech-
 nologies according to common standards.
 
-The new era presents a different set of threat to our secu-
+The new era presents a different set of threats to our secu-
 rity. In this new period, enhancing American security
 requires, first and foremost, developing and maintaining a
 strong defense capability of forces ready to fight. We are
@@ -1452,17 +1527,21 @@ for multilateral peace operations. We have clarified
 rigorous guidelines for when and how to use military force
 in this era.
 
-We also face security risks that a_re not solely military in
+We also face security risks that are not solely military in
 nature. An emerging class of transnational environmental
 and natural resource issues, and rapid population growth
-and refugee ﬂows, a.re increasingly affecting international
+and refugee flows, are increasingly affecting international
 stability and consequently will present new challenges to
 U.S. strategy. Other increasingly interconnected, transna-
 tional phenomena such as terrorism, narcotics trafficking
 and organized crime also have security implications both
-for present and long—term American policy: the destructive
+for present and long-term American policy: the destructive
 forces we face inside our borders often have their origins
 overseas in rogue nations that breed and harbor terrorists,
+
+12
+
+
 
 in countries where drugs are produced and in international
 organized crime cartels, which are principally headquar-
@@ -1479,7 +1558,7 @@ without both cooperation among the agencies within our
 government and the help of countries that are the origin of
 these forces and whose peace and freedoms are also jeop-
 ardized. That is why the President proposed new legisla-
-tion and initiatives forthe U.S. government last year, while
+tion and initiatives for the U.S. government last year, while
 also unveiling a new international proposal to work more
 closely with foreign governments in order to respond more
 effectively in fighting these forces that challenge our secu-
@@ -1490,11 +1569,10 @@ cial information systems poses a significant risk to national
 security and is being addressed.
 
 Maintaining a Strong Defense Capability
-
 U.S. military forces are critical to the success of our
-strategy. This nation has unparalleled militaw capabilities:
+strategy. This nation has unparalleled military capabilities:
 the United States is the only nation able to conduct large-
-scale and effective military operations far beyond it
+scale and effective military operations far beyond its
 borders. This fact, coupled with our unique position as the
 security partner of choice in many regions, provides a
 foundation for regional stability through mutually benefi-
@@ -1502,7 +1580,7 @@ cial security partnerships. Our willingness and ability to
 play a leading role in defending common interests also
 help ensure that the United States will remain an influen-
 tial voice in international affairs — political, military and
-economic — that affect our well—being, so long as we
+economic — that affect our well-being, so long as we
 retain the military wherewithal to underwrite our commit-
 ments credibly.
 
@@ -1511,18 +1589,18 @@ dangers and opportunities outlined earlier, the United
 States must deploy robust and flexible military forces that
 can accomplish a variety of tasks:
 
-- Deterring and Defeating Aggression in Major
+• Deterring and Defeating Aggression in Major
 Regional Conflicts. Our forces must be able to help
-offset the militaw power of regional states with inter-
+offset the military power of regional states with inter-
 ests opposed to those of the United States and its
 allies. To do this, we must be able to credibly deter
 and defeat aggression by projecting and sustaining
-U.S. power in more than one region if necessaw.
+U.S. power in more than one region if necessary.
 
-- Providing a Credible Overseas Presence. U.S. forces
+• Providing a Credible Overseas Presence. U.S. forces
 must also be forward deployed or stationed in key
 overseas regions in peacetime to deter aggression
-and advance U.S. strategic interest. Such overseas
+and advance U.S. strategic interests. Such overseas
 presence demonstrates our commitment to allies and
 friends, underwrites regional stability, ensures famil-
 iarity with overseas operating environments,
@@ -1530,31 +1608,31 @@ promotes combined training among the forces of
 friendly countries and provides timely initial
 response capabilities.
 
-- Countering Weapons of Mass Destruction. We are
+• Countering Weapons of Mass Destruction. We are
 devoting greater efforts to stemming the proliferation
-of weapons of mass destruction and their delivew
+of weapons of mass destruction and their delivery
 means, limiting the spread of weapons-related mate-
 rials and technology, and strengthening accounting
-and security procedures for global stocks of ﬁssile
+and security procedures for global stocks of fissile
 materials. At the same time, we must improve our
 capabilities to deter, defend against and prevent the
 use of such weapons and protect ourselves against
-their effect.
+their effects.
 
-- Contributing to Multilateral Peace Operations.
+• Contributing to Multilateral Peace Operations.
 When our interests call for it, the United States must
 also be prepared to participate in multilateral efforts
 to resolve regional conflicts and bolster new democ-
-ratic governments. Thus, ourforces must be ready to
+ratic governments. Thus, our forces must be ready to
 participate in peacekeeping, peace enforcement and
 other operations in support of these objectives.
 
-- Supporting Counterterrorism Efforts, Fighting Drug
+• Supporting Counterterrorism Efforts, Fighting Drug
 Trafficking and Other National Security Objectives.
 A number of other tasks remain that U.S. forces have
 typically carried out with both general purpose and
 specialized units. These missions include: counterter-
-rorism, noncombatant evacuation, counter—narcotics
+rorism, noncombatant evacuation, counter-narcotics
 operations, special forces assistance to nations and
 humanitarian and disaster relief operations.
 
@@ -1562,6 +1640,8 @@ To meet all of these requirements successfully, our forces
 must be capable of responding quickly and operating
 
 13
+
+
 
 effectively as a joint team. That is, they must be ready to
 fight and win. This imperative demands highly qualified
@@ -1571,12 +1651,11 @@ and sustainment capabilities; timely intelligence; and a
 healthy investment in science and technology.
 
 Major Regional Contingencies
-
 The focus of our planning for major theater conflict is on
 deterring and, if necessary, fighting and defeating aggres-
 sion by potentially hostile regional powers, such as North
 Korea, Iran or Iraq. Such states are capable of fielding
-sizable militaw forces which can cause serious imbalances
+sizable military forces which can cause serious imbalances
 in military power within regions important to the United
 States, with allied or friendly states often finding it difficult
 to match the power of a potentially aggressive neighbor.
@@ -1593,16 +1672,15 @@ just as we demonstrated by our rapid response in October
 
 The forces the Administration fields today are sufficient, in
 concert with regional allies, to defeat aggression in two
-nearly simultaneous major regional conflict. Programmed
+nearly simultaneous major regional conflicts. Programmed
 enhancements will sustain and strengthen that capability to
 meet future threats. As a nation with global interests, it is
-
-I mportant that the United States maintain forces with
-aggregate capabilities on this scale. Obviously, we seekto
+i mportant that the United States maintain forces with
+aggregate capabilities on this scale. Obviously, we seek to
 avoid a situation in which an aggressor in one region
 might be tempted to take advantage when U.S. forces are
 heavily committed elsewhere. More basically, maintaining
-a 'two war’ force helps ensure that the United States will
+a 'two war' force helps ensure that the United States will
 have sufficient military capabilities to deter or defeat
 aggression by a coalition of hostile powers or by a larger,
 more capable adversary than we foresee today. The need
@@ -1626,10 +1704,10 @@ We will never know with certainty how an enemy might
 fight or precisely what demands might be placed on our
 own forces in the future. The contributions of allies or
 coalition partners will vary from place to place and over
-time. Thus, balanced U.S. forces are needed in order to
+ti me. Thus, balanced U.S. forces are needed in order to
 provide a wide range of complementary capabilities and to
 cope with the unpredictable and unexpected. Our forces
-must remain ready and modem to meet future, as well as
+must remain ready and modern to meet future, as well as
 present, threats or challenges. Integral to these efforts is the
 development of new systems and capabilities, incorpo-
 rating state-of-the-art technology and new and more effec-
@@ -1643,40 +1721,42 @@ force structure. We will maintain robust overseas presence
 in several forms, such as permanently stationed forces and
 pre-positioned equipment, deployments and combined
 exercises, port calls and other force visits, as well as mili-
-taw-to-military contacts. These activities provide several
-benefits. Speciﬁcally they:
+tary-to-military contacts. These activities provide several
+benefits. Specifically they:
 
-- Give form and substance to our bilateral and multi-
-lateral security commitment.
+• Give form and substance to our bilateral and multi-
+lateral security commitments.
 
-° Demonstrate our determination to defend U.S. and
+• Demonstrate our determination to defend U.S. and
 allied interests in critical regions, deterring hostile
 nations from acting contrary to those interests.
 
-- Provide forward elements for rapid response in crises
+• Provide forward elements for rapid response in crises
 as well as the bases, ports and other infrastructure
 essential for deployment of U.S.-based forces by air,
 sea and land.
 
-- Enhance the effectiveness of coalition operations,
+• Enhance the effectiveness of coalition operations,
 including peace operations, by improving our ability
 to operate with other nations.
 
-- Allow the United States to use it position of trust to
+• Allow the United States to use its position of trust to
 prevent the development of power vacuums and
+
+
 
 dangerous arms races, thereby underwriting regional
 stability by precluding threats to regional security.
 
-- Facilitate regional integration, since nations that may
+• Facilitate regional integration, since nations that may
 not be willing to work together in our absence may
 be willing to coalesce around us in a crisis.
 
-- Promote an international security environment of
+• Promote an international security environment of
 trust, cooperation, peace and stability, which is
 fundamental to the vitality of developing democra-
-cies and free—market economies for America's own
-economic well—being and security.
+cies and free-market economies for America's own
+economic well-being and security.
 
 Through training programs, combined exercises, military
 contacts, interoperability and shared defense with potential
@@ -1696,15 +1776,15 @@ decrease the likelihood that U.S. forces will be necessary if
 conflict arises and raise the odds that U.S. forces will find a
 relatively favorable situation should a U.S. response be
 required. U.S. overseas presence visibly supports our
-strategy ofengagement, and we must continually assess
+strategy of engagement, and we must continually assess
 the best approaches to achieving its objectives.
 
-Counterterrorism, Fighting Drug Trafﬁcking and
+Counterterrorism, Fighting Drug Trafficking and
 Other Missions
 
 While the missions outlined above will remain the primary
 determinants of our general purpose and nuclear force
-structure, U.S. militaw forces and assets will also be called
+structure, U.S. military forces and assets will also be called
 upon to perform a wide range of other important missions
 as well. Some of these can be accomplished by conven-
 tional forces fielded primarily for theater operations. Often,
@@ -1713,7 +1793,7 @@ capabilities.
 
 At the same time, the challenges to the security of our citi-
 zens, our borders and our democratic institutions from
-destructive forces such as terrorists and drug trafﬁckers is
+destructive forces such as terrorists and drug traffickers is
 
 greater today because of access to modern technology.
 Cooperation, both within our government and with other
@@ -1726,7 +1806,7 @@ these forces that threaten our security from without and
 within. Along with other provisions, it includes an invita-
 tion to join in the negotiation and endorsement of a decla-
 ration on citizen security, which would include a no-sanc-
-tuary pledge to terrorist and drug traffickers; a counterter-
+tuary pledge to terrorists and drug traffickers; a counterter-
 rorism pact; an antinarcotics offensive; and a pledge to end
 the trafficking of illegal arms and of lethal nuclear, biolog-
 ical and chemical materials. We will continue to share
@@ -1742,14 +1822,13 @@ Combating Terrorism
 
 As long as terrorist groups continue to target American citi-
 zens and interests, the United States will need to have
-specialized unit available to defeat such groups. From
-
+specialized units available to defeat such groups. From
 ti me to time, we might also find it necessary to strike terror-
-ist at their bases abroad or to attack assets valued by the
+ists at their bases abroad or to attack assets valued by the
 governments that support them.
 
 Our policy in countering international terrorists is to make
-no concessions to terrorist, continue to pressure state
+no concessions to terrorists, continue to pressure state
 sponsors of terrorism, fully exploit all available legal mech-
 anisms to punish international terrorists and help other
 governments improve their capabilities to combat
@@ -1763,11 +1842,13 @@ coordinated, with increased funding and manpower
 focused on the problem. Positive results will come from
 integration of intelligence, diplomatic and rule-of-law activ-
 ities, and through close cooperation with other govern-
-ment and international counterterrorist organizations.
+ments and international counterterrorist organizations.
 
 15
 
-lmproving U.S. intelligence capabilities is a significant part
+
+
+I mproving U.S. intelligence capabilities is a significant part
 of the U.S. response, as the evolving nature of the threat
 presents new challenges to the intelligence community.
 Terrorists, whether from well-organized groups or the kind
@@ -1783,8 +1864,8 @@ and deter terrorists. On June 26, 1993, following a deter-
 mination that Iraq had plotted an assassination attempt
 against former President Bush, President Clinton ordered a
 cruise missile attack against the headquarters of Iraq's intel-
-ligence service in orderto send a firm response and deter
-furtherthreat. Similarly, the United States obtained
+ligence service in order to send a firm response and deter
+further threats. Similarly, the United States obtained
 convictions against defendants in the bombing of the
 World Trade Center. In the last three years, more terrorists
 have been arrested and extradited to the United States than
@@ -1796,7 +1877,7 @@ involved in the deadly attack on U.S. Government
 employees at CIA Headquarters in 1994.
 
 A growing number of nations have responded to the
-Administration’ s message urging international cooperation
+Administration' s message urging international cooperation
 in the fight against terrorism. Our success in hunting down
 terrorists is in large measure due to a growth of interna-
 tional intelligence sharing and increased international law
@@ -1819,17 +1900,15 @@ support of terrorism. President Clinton imposed an
 
 16
 
-embargo against Iran, depriving it of the benefit of trade
+embargo against Iran, depriving it of the benefits of trade
 and investment with the United States. The embargo's
-
-I mmediate effect was to further disrupt an Iranian
+i mmediate effect was to further disrupt an Iranian
 economy already reeling from mismanagement, corruption
 and stagnant oil prices. The United States also has sought
 the support of our friends and allies to adopt policies to
-
-Ii mit Teheran's threatening behavior. The G-7 has joined
+li mit Teheran's threatening behavior. The G-7 has joined
 us in condemning Iran's support for terrorism, and we
-have secured commitment from Russia and other
+have secured commitments from Russia and other
 members of the post-COCOM "Wassenaar Arrangement"
 export control regime not to sell weapons to Iran that have
 sensitive, dual-use technologies with military end-uses.
@@ -1861,7 +1940,7 @@ The U.S. shift in strategy from the past emphasis on transit
 interdiction to a more evenly balanced effort with source
 countries to build institutions, destroy trafficking organiza-
 tions and stop supplies of illicit drugs is showing positive
-result. The leaders of the most influential South American
+results. The leaders of the most influential South American
 drug mafias, the Medellin and Cali Cartels, have been
 apprehended. The President also has invoked the
 International Emergency Economic Powers Act to undercut
@@ -1870,6 +1949,8 @@ United States and barring U.S. persons from doing busi-
 ness with them. He has announced a major initiative to
 combat money laundering throughout the globe, and at his
 direction, the government has identified the front compa-
+
+
 
 vies and frozen the assets of the Cali Cartel to cut off its
 economic lifelines and to stop people from dealing
@@ -1912,18 +1993,17 @@ Other Missions
 
 The United States government is also responsible for
 protecting the lives and safety of Americans abroad. In
-orderto carw out this responsibility, selected U.S. militaw
+order to carry out this responsibility, selected U.S. military
 forces are trained and equipped to evacuate Americans
 from such situations as the outbreak of civil or international
 conflict and natural or man-made disasters. For example,
 U.S. Marines evacuated Americans from Monrovia,
-
 Liberia, in August of 1990, and from Mogadishu, Somalia,
 in December of that year. In 1991, U.S. forces evacuated
 nearly 20,000 Americans from the Philippines over a three-
 
 week period following the eruption of Mount Pinatubo. In
-I 994, U.S. Marines, coupled with U.S. airlift, deployed to
+1 994, U.S. Marines, coupled with U.S. airlift, deployed to
 Burundi to help ensure the safe evacuation of U.S. citizens
 from ethnic fighting in Rwanda.
 
@@ -1947,7 +2027,7 @@ recognized space as an international region. Since all
 nations are immediately accessible from space, the main-
 tenance of an international legal regime for space, similar
 to the concept of freedom of the high seas, is especially
-important. Numerous attempts have been made in the past
+i mportant. Numerous attempts have been made in the past
 to impose legal limitations on access to space by countries
 that are unable, either technologically or economically, to
 join space-faring nations. As the commercial importance
@@ -1960,21 +2040,24 @@ Retaining the current international character of space will
 remain critical to achieving U.S. national security goals.
 Our main objectives in this area include:
 
-- Continued freedom of access to and use of space;
-- Maintaining the U.S. position as the major
+• Continued freedom of access to and use of space;
+
+• Maintaining the U.S. position as the major
 economic, political, military and technological
 power in space;
-- Deterring threats to U.S. interests in space and
 
+• Deterring threats to U.S. interests in space and
 defeating aggressive or hostile acts against U.S. space
 assets if deterrence fails;
 
 17
 
-- Preventing the spread of weapons of mass destruc-
+
+
+• Preventing the spread of weapons of mass destruc-
 tion to space;
 
-- Enhancing global partnerships with other space-
+• Enhancing global partnerships with other space-
 faring nations across the spectrum of economic,
 political and security issues.
 
@@ -1997,21 +2080,21 @@ about when and how we will use it.
 
 There are three basic categories of national interests that
 can merit the use of our armed forces. The first involves
-America's vital interest, that is, interests that are of broad,
+America's vital interests, that is, interests that are of broad,
 overriding importance to the survival, security and vitality
 of our national entity — the defense of U.S. territory, citi-
-zens, allies and our economic well—being. We will do
-whatever it takes to defend these interests, including _
+zens, allies and our economic well-being. We will do
+whatever it takes to defend these interests, including
 when necessary—the unilateral and decisive use of mili-
-taw power. This was demonstrated clearly in the Persian
+tary power. This was demonstrated clearly in the Persian
 Gulf through Desert Storm and, more recently, Vigilant
 Warrior, when Iraq threatened aggression against Kuwait in
 October 1994.
 
 The second category includes cases in which important,
-but not vital, U.S. interest are threatened. That is, the
+but not vital, U.S. interests are threatened. That is, the
 interests at stake do not affect our national survival, but
-they do affect importantly our national well—being and the
+they do affect importantly our national well-being and the
 character of the world in which we live. In such cases,
 military forces should only be used if they advance U.S.
 interests, they are likely to be able to accomplish their
@@ -2022,7 +2105,7 @@ Such uses of force should also be selective and limited,
 
 18
 
-reﬂecting the relative saliency of the interests we have at
+reflecting the relative saliency of the interests we have at
 stake. Haiti and Bosnia are the most recent examples in
 this category.
 
@@ -2039,14 +2122,14 @@ urgent and only the military has the ability to jump-start
 the longer-term response to the disaster; when the
 response requires resources unique to the military; and
 when the risk to American troops is minimal. The relief
-operation in Rwanda is a good case in point. U.S. militaw
+operation in Rwanda is a good case in point. U.S. military
 forces performed unique and essential roles, stabilized the
 situation and then got out, turning the operation over to
 the international relief community.
 
-The decision on Whether and when to use force is there-
+The decision on whether and when to use force is there-
 fore dictated first and foremost by our national interests. In
-those speciﬁc areas where our vital or survival interests are
+those specific areas where our vital or survival interests are
 at stake, our use of force will be decisive and, if necessary,
 unilateral. In other situations posing a less immediate
 threat, our military engagement must be targeted selec-
@@ -2054,23 +2137,25 @@ tively on those areas that most affect our national interests
 — for instance, areas where we have a sizable economic
 stake or commitments to allies and areas where there is a
 potential to generate substantial refugee flows into our
-nation or our allies’.
+nation or our allies'.
 
 Second, in all cases, the costs and risks of U.S. military
 involvement must be judged to be commensurate with the
 stakes involved. We will be more inclined to act where
 there is reason to believe that our action will bring lasting
-improvement. On the other hand, our involvement will be
+i mprovement. On the other hand, our involvement will be
 more circumscribed when other regional or multilateral
 actors are better positioned to act than we are. Even in
 these cases, however, the United States will be actively
 engaged at the diplomatic level. But in every case, we will
 consider several critical questions before committing mili-
 tary force: Have we considered nonmilitary means that
-offer a reasonable chance of success? is there a clearly
+offer a reasonable chance of success? Is there a clearly
 defined, achievable mission? What is the environment of
 risk we are entering? What is needed to achieve our goals?
-What are the potential cost — both human and financial
+What are the potential costs — both human and financial
+
+
 
 — of the engagement? Do we have a reasonable likeli-
 hood of support from the American people and their
@@ -2089,24 +2174,21 @@ What types of U.S. military capabilities should be brought
 to bear, and is the use of military force carefully matched
 to our political objectives?
 
-Second, as much as possible, we will seekthe help of our
+Second, as much as possible, we will seek the help of our
 allies and friends or of relevant international institutions. If
 our most important national interests are at stake, we are
 prepared to act alone. But especially on those matters
-touching directly the interest of our allies, there should be
+touching directly the interests of our allies, there should be
 a proportionate commitment from them. Working together
 increases the effectiveness of each nation's actions, and
 sharing the responsibilities lessens everyone's load.
 
 These, then, are the calculations of interest and cost that
-have inﬂuenced our past uses of military power and will
-
+have influenced our past uses of military power and will
 guide us in the future. Every time this Administration has
 used force, it has balanced interests against costs. And in
 each case, the use of our military has put power behind
-
 our diplomacy, allowing us to make progress we would
-
 not otherwise have achieved.
 
 One final consideration regards the central role the
@@ -2117,7 +2199,7 @@ consultations with Congress are important to this effort.
 This is true for humanitarian and other nontraditional inter-
 ventions, as well as war. Modern media communications
 confront every American with images that both stir the
-impulse to intervene and raise the question of an opera-
+i mpulse to intervene and raise the question of an opera-
 tion's costs and risks. When it is judged in America's
 interest to intervene, we must use force with an unwa-
 vering commitment to our objective. While we must
@@ -2146,7 +2228,7 @@ Nonproliferation and Counterproliferation
 
 A critical priority for the United States is to stem the prolif-
 eration of nuclear, biological and chemical weapons and
-their missile delivery systems. Countries’ weapons
+their missile delivery systems. Countries' weapons
 programs, and their levels of cooperation with our nonpro-
 liferation efforts, will be among our most important criteria
 in judging the nature of our bilateral relations.
@@ -2175,11 +2257,13 @@ highly enriched uranium from dismantled weapons into
 
 19
 
+
+
 commercial reactor fuel and has begun delivering that fuel
 to the United States. With the United States and Russia,
 Ukraine is implementing the Trilateral Statement, which
 provides for the transfer of all nuclear warheads from
-Ukraine to Russia for dismantlement in return forfair
+Ukraine to Russia for dismantlement in return for fair
 compensation. Three-quarters of the nuclear weapons
 located in Ukraine at the beginning of 1994 have now
 been transferred to Russia for dismantlement. All the
@@ -2202,7 +2286,7 @@ ening the Nuclear Suppliers Group and the International
 Atomic Energy Agency (IAEA) are important goals. They
 complement our comprehensive efforts to discourage the
 accumulation of fissile materials, to seek to strengthen
-controls and constraints on those materials, and overtime,
+controls and constraints on those materials, and over time,
 to reduce worldwide stocks.
 
 To combat missile proliferation, the United States seeks
@@ -2242,12 +2326,12 @@ The United States has signed bilateral agreements with
 Russia, Ukraine and South Africa, which commit these
 countries to adhere to the guidelines of the MTCR. We
 also secured China's commitment to observe the MTCR
-guidelines and it agreement not to transfer MTCR-
+guidelines and its agreement not to transfer MTCR-
 controlled, ground-to-ground missiles. Russia has agreed
 not to transfer space-launch vehicle technology with
 potential military applications to India. South Africa has
-agreed to dismantle its Categow I (500 kilogram payload,
-300 kilometer range) missile systems and hasjoined the
+agreed to dismantle its Category I (500 kilogram payload,
+300 kilometer range) missile systems and has joined the
 NPT and accepted full-scope safeguards. Hungary, the
 Czech Republic, the Slovakia Republic, Poland and
 Romania have joined the Australia Group (which controls
@@ -2277,8 +2361,10 @@ The United States will retain the capacity to retaliate
 against those who might contemplate the use of weapons
 of mass destruction so that the costs of such use will be
 
+
+
 seen as outweighing the gains. However, to minimize the
-impact of proliferation of weapons of mass destruction on
+i mpact of proliferation of weapons of mass destruction on
 our interests, we will need the capability not only to deter
 their use against either ourselves or our allies and friends
 but also, where necessary and feasible, to prevent it.
@@ -2289,7 +2375,7 @@ weapons of mass destruction, we are placing a high
 priority on improving our ability to locate, identify and
 disable arsenals of weapons of mass destruction, produc-
 tion and storage facilities for such weapons and their
-delivew systems. We also have vigorous and highly effec-
+delivery systems. We also have vigorous and highly effec-
 tive theater missile defense development programs
 designed to protect against conventional weapons and
 weapons of mass destruction. Although the intelligence
@@ -2308,12 +2394,12 @@ key conclusion of this review is that the United States will
 retain a triad of strategic nuclear forces sufficient to deter
 any future hostile foreign leadership with access to
 strategic nuclear forces from acting against our vital inter-
-est and to convince it that seeking a nuclear advantage
+ests and to convince it that seeking a nuclear advantage
 would be futile. Therefore, we will continue to maintain
 nuclear forces of sufficient size and capability to hold at
 risk a broad range of assets valued by such political and
 military leaders. The President approved the NPR's recom-
-mended strategic nuclearforce posture as the U.S. START
+mended strategic nuclear force posture as the U.S. START
 II force. The forces are: 500 Minuteman ICBMs, 14 Trident
 submarines all with D-5 missiles, 20 B-2 and 66 B-52
 strategic bombers, and a non-nuclear role for the B-ls. This
@@ -2338,13 +2424,12 @@ to a more stable and calculable balance of power.
 In the area of strategic arms control, prescribed reductions
 in strategic offensive arms and the steady shift toward less
 destabilizing systems remain indispensable. Ukraine's
-December 1994 accession to the Nuclear Non-pro|ifera-
-tion Treaty —joining Belarus and Kazakstan's decision to
+December 1994 accession to the Nuclear Non-prolifera-
+tion Treaty — joining Belarus and Kazakstan's decision to
 be non-nuclear weapon states — was followed immedi-
-ately by the exchange of instruments of ratiﬁcation and
+ately by the exchange of instruments of ratification and
 brought the START I treaty into force at the December
-
-I 994 CSCE summit, paving the way forthe Senate's advice
+1 994 CSCE summit, paving the way for the Senate's advice
 and consent for ratification of the 1993 START II Treaty on
 January 26, 1996. Under START II, the United States and
 Russia will each be left with between 3,000 and 3,500
@@ -2358,7 +2443,7 @@ rather than waiting for the treaty to run its course through
 the year 2003. START II ratification will also open the door
 to the next round of strategic arms control, in which we
 will consider what further reductions in, or limitations on,
-remaining U.S. and Russian nuclearforces should be
+remaining U.S. and Russian nuclear forces should be
 carried out. We will also explore strategic confidence-
 building measures and mutual understandings that reduce
 the risk of accidental war.
@@ -2375,6 +2460,8 @@ Environmental Modification Convention (EnMod), Incidents
 at Sea and many others will remain an important element
 
 21
+
+
 
 of national security policy. The ongoing negotiation initi-
 ated by the United States to clarify the ABM Treaty by
@@ -2395,11 +2482,11 @@ balance at regional levels. The United States is prepared to
 promote, help negotiate, monitor and participate in
 regional arms control undertakings compatible with
 American national security interests. We will generally
-support such undertakings but will not seekto impose
+support such undertakings but will not seek to impose
 regional arms control accords against the wishes of affected
 states. In this regard, the United States, United Kingdom
 and France announced they would sign the protocols to the
-South Pacific Nuclear Free Zone in the first half of I 996.
+South Pacific Nuclear Free Zone in the first half of 1 996. 
 
 As arms control, whether regional or global, becomes
 increasingly multilateral, the Conference on Disarmament
@@ -2411,20 +2498,20 @@ gories or in some environments. We will continue to seek
 greater transparency, responsibility and, where appropriate,
 restraint in the transfer of conventional weapons and global
 military spending. The UN register of conventional arms
-transfers is a start in promoting greatertransparency of
+transfers is a start in promoting greater transparency of
 weapons transfers and buildups, but more needs to be
 done.
 
 In February 1995, the President approved a comprehensive
 policy on transfers of conventional arms that balances legit-
-imate arms sales to support the national security of U.S.
+i mate arms sales to support the national security of U.S.
 allies and friends and the need for multilateral restraint in
 transferring arms that would undermine stability. The
 United States has also led international efforts to create the
 multilateral "Wassenaar Arrangement on Export Controls
 for Conventional Arms and Dual-use Goods and
 Technology" — the successor to the Coordinating
-Committee for East—West Trade (COCOM) — to provide a
+Committee for East-West Trade (COCOM) — to provide a
 
 22
 
@@ -2433,7 +2520,7 @@ fers of conventional arms and dual-use technologies.
 Measures to reduce over-sized defense industrial establish-
 ments, especially those parts involved with weapons of
 mass destruction, will also contribute to stability in the
-post—Cold War world. The Administration has pursued
+post-Cold War world. The Administration has pursued
 defense conversion agreements with the former Soviet
 Union states, and defense conversion is also on the
 agenda with China. The United States has also proposed a
@@ -2442,26 +2529,26 @@ world's long-lived antipersonnel mines whose indiscrimi-
 nate and irresponsible use has reached crisis proportions.
 In addition, the Administration is leading the international
 effort to strengthen the laws governing landmine use in the
-1980 Convention on Conventional Weapons. The
+1 980 Convention on Conventional Weapons. The
 Administration obtained Senate consent to ratification of
 this Convention in March 1995.
 
 Peace Operations
 
 In addition to preparing for major regional contingencies
-and overseas presence, we must prepare ourforces for
+and overseas presence, we must prepare our forces for
 peace operations to support democracy or conflict resolu-
 tion. The United States, along with others in the interna-
-tional community, will seekto prevent and contain local-
+tional community, will seek to prevent and contain local-
 ized conflicts before they require a military response. U.S.
 support capabilities such as airlift, intelligence and global
 communications have often contributed to the success of
 multilateral peace operations, and they will continue to do
 so. U.S. combat units are less likely to be used for most
 peace operations, but in some cases their use will be
-necessary or desirable and justiﬁed by U.S. national inter-
+necessary or desirable and justified by U.S. national inter-
 ests as guided by the Presidential Decision Directive, 'U.S.
-Policy on Reforming Multilateral Peace Operations,’ and
+Policy on Reforming Multilateral Peace Operations,' and
 outlined below.
 
 Multilateral peace operations are an important component
@@ -2471,12 +2558,14 @@ the best way to prevent, contain or resolve conflicts that
 could otherwise be far more costly and deadly.
 
 Peace operations often have served, and continue to serve,
-important U.S. national interest. In some cases, they have
+i mportant U.S. national interests. In some cases, they have
 helped preserve peace between nations, as in Cyprus and
 the Golan Heights. In others, peacekeepers have provided
 breathing room for fledgling democracies, as in Cambodia,
 El Salvador and Namibia. And in Latin America, the
 United States, along with fellow Guarantors of the 1942
+
+
 
 Rio Protocol Argentina, Brazil and Chile, has contributed
 to a border monitoring effort to stop fighting between Peru
@@ -2523,7 +2612,7 @@ rigorous criteria, including the same principles that would
 guide any decision to employ U.S. forces. In addition, we
 will ensure that the risks to U.S. personnel and the
 command and control arrangements governing the partici-
-pation ofAmerican and foreign forces are acceptable to
+pation of American and foreign forces are acceptable to
 the United States.
 
 The question of command and control is particularly crit-
@@ -2537,7 +2626,7 @@ Storm. However, under no circumstances will the
 President ever relinquish his command authority over U.S.
 forces.
 
-Improving the ways the United States and the UN decide
+I mproving the ways the United States and the UN decide
 upon and conduct peace operations will not make the
 decision to engage any easier. The lesson we must take
 away from our first ventures in peace operations is not that
@@ -2545,7 +2634,6 @@ we should forswear such operations but that we should
 employ this tool selectively and more effectively. In short,
 the United States views peace operations as a means to
 support our national security strategy, not as a strategy
-
 unto itself.
 
 The President is firmly committed to securing the active
@@ -2555,32 +2643,33 @@ blueprint to guide consultations with Congress. With
 respect to particular operations, the Administration will
 undertake consultations on questions such as the nature of
 expected U.S. military participation, the mission parame-
-ters of the operation, the expected duration and budgetaw
-implications. In addition to such operation-specific consul-
+ters of the operation, the expected duration and budgetary
+i mplications. In addition to such operation-specific consul-
 tations, the Administration has also conducted regular
 monthly briefings for congressional staff and will deliver an
 Annual Comprehensive Report to Congress on Peace
 Operations. Congress is critical to the institutional devel-
-opment ofa successful U.S. policy on peace operations,
+opment of a successful U.S. policy on peace operations,
 including the resolution of funding issues that have an
-impact on military readiness.
+i mpact on military readiness.
 
-Two other point deserve emphasis. First, the primary
+Two other points deserve emphasis. First, the primary
 mission of our Armed Forces is not peace operations; it is
-to deter and, if necessaw, to fight and win conflicts in
+to deter and, if necessary, to fight and win conflicts in
 which our most important interests are threatened. Second,
 while the international community can create conditions
 for peace, the responsibility for peace ultimately rests with
 the people of the country in question.
 
 Strong Intelligence Capabilities
-
 U.S. intelligence capabilities are critical instruments of our
 national power and integral to implementing our national
 security strategy. Strong intelligence capabilities are
 needed to protect our nation by providing warning of
 
 23
+
+
 
 threats to U.S. national security, by providing support to
 the policy and military communities to prevail over these
@@ -2590,7 +2679,7 @@ Decisionmakers, military commanders and policy analysts
 at all levels rely on the intelligence community to collect
 information unavailable from other sources and to provide
 strategic and tactical analysis to help surmount challenges
-to our national interest and security.
+to our national interests and security.
 
 Because of the change in the security environment since
 the end of the Cold War, intelligence must address a
@@ -2615,29 +2704,27 @@ flexible document designed to accommodate shifting
 priorities within the categories. Current Presidential priori-
 ties include:
 
-- Warning and management of threats that pose a
+• Warning and management of threats that pose a
 direct or immediate threat to U.S. interests.
 
-- "Rogue states" whose policies a_re consistently
+• "Rogue states" whose policies are consistently
 hostile to the United States.
 
-- Countries that possess strategic nuclear forces that
+• Countries that possess strategic nuclear forces that
 can pose a threat to the United States and its allies.
 
-' Command and control of nuclear weapons and
+• Command and control of nuclear weapons and
 control of nuclear fissile materials.
 
-- Transnational threats such as proliferation of
+• Transnational threats such as proliferation of
 weapons of mass destruction, international narcotics
 trafficking, international terrorism and international
 organized crime.
 
-24
-
-- Ongoing or potential major regional conflicts where
+• Ongoing or potential major regional conflicts where
 the United States has national security interests.
 
-- lntensified counterintelligence against hostile foreign
+• Intensified counterintelligence against hostile foreign
 intelligence services.
 
 U.S. intelligence must not only monitor traditional threats
@@ -2646,43 +2733,47 @@ emerging threats, especially those of a transnational nature.
 In carrying out these responsibilities, the intelligence
 community must:
 
-- Support U.S. military operations worldwide.
+• Support U.S. military operations worldwide.
 Whenever U.S. forces are deployed, the highest
-priority is to ensure that our militaw commanders
+priority is to ensure that our military commanders
 receive the timely information required to execute
 successfully their mission while minimizing the loss
 of American lives.
 
-- Support diplomatic efforts in pursuit of U.S. foreign
+• Support diplomatic efforts in pursuit of U.S. foreign
 policy objectives by providing policymakers and
 diplomats timely intelligence on political develop-
 ments in key areas such as the Middle East, the
 Balkans and North Korea.
 
-- Provide worldwide capabilities to detect, identify and
+• Provide worldwide capabilities to detect, identify and
 deter efforts of foreign nations to develop weapons of
 mass destruction and ancillary delivery systems.
 
-- Gather information on terrorist activities aimed at
-U.S. persons or interest and help thwart such activi-
+• Gather information on terrorist activities aimed at
+U.S. persons or interests and help thwart such activi-
 ties whether conducted by well-organized groups or
 loose associations of disaffected individuals intent on
 striking at the United States.
 
-- Provide worldwide capabilities to gather timely intel-
+• Provide worldwide capabilities to gather timely intel-
 ligence on current and emerging information tech-
 nologies or infrastructure that may potentially
 threaten U.S. interests at home or abroad.
 
-- Contribute where appropriate to policy efforts aimed
+• Contribute where appropriate to policy efforts aimed
 at bolstering our economic prosperity.
 
-- Provide the timely information necessary to monitor
+• Provide the timely information necessary to monitor
 treaties, promote democracy and free markets, forge
 alliances and track emerging threats.
 
 The collection and analysis of economic intelligence will
 play an increasingly important role in helping policy-
+
+24
+
+
 
 makers understand economic trends. Economic intelli-
 gence can help by identifying threats to private U.S.
@@ -2704,10 +2795,10 @@ tion of information from open sources is inadequate. This
 often leads to early warning of potential crises and facili-
 tates preventive diplomacy.
 
-mproving the management of intelligence resources and
+I mproving the management of intelligence resources and
 focusing on the principal concerns of policymakers and
 military commanders enhances the value of intelligence
-and contributes to our national well—being. The establish-
+and contributes to our national well-being. The establish-
 ment, for example, of the National Imagery and Mapping
 Agency will provide a more integrated imagery capability
 that will be especially important in providing warning of
@@ -2726,10 +2817,9 @@ enhance the study and support of worldwide environ-
 mental, humanitarian and disaster relief activities, technical
 intelligence assets — especially imagery — must be
 directed to a greater degree toward collection of data on
-these subject.
+these subjects.
 
 Fighting International Organized Crime
-
 International organized crime jeopardizes the global trend
 toward peace and freedom, undermines fragile new
 democracies, saps the strength from developing countries
@@ -2766,10 +2856,10 @@ keep our citizens safe. The President's invitation at the
 United Nations to all countries to join the United States in
 fighting international organized crime by measures of their
 own and by negotiating and endorsing an international
-declaration on citizens’ safety — a declaration which
+declaration on citizens' safety — a declaration which
 would include a "no-sanctuary for organized criminals"
 pledge — is an effort to enhance our international cooper-
-ative effort to protect our people.
+ative efforts to protect our people.
 
 International crime organizations target nations whose law
 enforcement agencies lack the experience and capacity to
@@ -2786,6 +2876,8 @@ quasi-legal enterprises that have begun to develop an enor-
 
 25
 
+
+
 mous gray-market trade in illegal weapons. By forging
 documents or diverting deliveries of armaments, these
 networks have been able to move weapons to areas of
@@ -2798,7 +2890,6 @@ advance.
 
 National Security Emergency
 Preparedness
-
 We will do all we can to prevent destructive forces such as
 terrorism, the proliferation of weapons of mass destruction,
 threats to our information systems and catastrophes from
@@ -2806,7 +2897,7 @@ within such as natural disasters, from endangering our citi-
 zens. But we must also be prepared to respond effectively
 if an emergency does occur in order to ensure the surviv-
 ability of our institutions and national infrastructure, protect
-lives and property and preserve our way of life. National
+li ves and property and preserve our way of life. National
 security emergency preparedness is imperative, and we
 must continue to work aggressively to ensure appropriate
 threat mitigation and response capabilities, including the
@@ -2820,7 +2911,6 @@ requirement.
 
 The Environment and Sustainable
 Development
-
 The more clearly we understand the complex interrelation-
 ships between the different parts of our world's environ-
 ment, the better we can understand the regional and even
@@ -2832,10 +2922,8 @@ a very real risk to regional stability around the world. The
 range of environmental risks serious enough to jeopardize
 international stability extends to massive population flight
 from man-made or natural catastrophes, such as Chernobyl
-orthe East African drought, and to large-scale ecosystem
+or the East African drought, and to large-scale ecosystem
 damage caused by industrial pollution, deforestation, loss
-
-26
 
 of biodiversity, ozone depletion, desertification, ocean
 pollution and, ultimately, climate change. Strategies
@@ -2843,7 +2931,7 @@ dealing with environmental issues of this magnitude will
 require partnerships between governments and nongovern-
 mental organizations, cooperation between nations and
 regions, sustained scientific research and a commitment to
-a strategically focused, long—term policy for emerging envi-
+a strategically focused, long-term policy for emerging envi-
 ronmental risks.
 
 The decisions we make today regarding military force
@@ -2867,16 +2955,15 @@ developing world and unsustainable consumption patterns
 in industrialized nations are the root of both present and
 potentially even greater forms of environmental degrada-
 tion and resource depletion. A conservative estimate of the
-g|obe's population projects 8.5 billion people on the
+globe's population projects 8.5 billion people on the
 planet by the year 2025. Even when making the most
 generous allowances for advances in science and tech-
 nology, one cannot help but conclude that population
 growth and environmental pressures will feed into
-immense social unrest and make the world substantially
+i mmense social unrest and make the world substantially
 more vulnerable to serious international frictions.
 
 Promoting Prosperity at Home
-
 A central goal of our national security strategy is to
 promote America's prosperity through efforts both at home
 and abroad. Our economic and security interests are
@@ -2886,13 +2973,16 @@ macy, our ability to maintain an unrivaled military, the
 attractiveness of our values abroad — all these depend in
 part on the strength of our economy.
 
-Enhancing American Competitiveness
+26
 
-Our primaw economic goal is to strengthen the American
+
+
+Enhancing American Competitiveness
+Our primary economic goal is to strengthen the American
 economy. The first step toward that goal was reducing the
 federal deficit and the burden it imposes on the economy
 and future generations. The economic program passed in
-1993 has restored investor confidence in the United States
+1 993 has restored investor confidence in the United States
 and strengthened our position in international economic
 negotiations. Under the Clinton economic plan, the
 federal budget deficit as a percentage of the Gross
@@ -2916,7 +3006,6 @@ procure weapons and materiel more efficiently.
 
 Strengthening Macroeconomic
 Coordination
-
 As national economies become more integrated interna-
 tionally, the United States cannot thrive in isolation from
 developments abroad. International economic expansion
@@ -2930,7 +3019,6 @@ be in place for most countries, and inflation is well under
 control.
 
 Enhancing Access to Foreign Markets
-
 The success of American business and our ability to create
 quality jobs for our workers is more than ever dependent
 
@@ -2938,7 +3026,7 @@ upon success in exporting to international markets. The
 ability to compete internationally also assures that our
 companies will continue to innovate and increase produc-
 tivity, which in turn will lead to improvements in our own
-living standards. But to compete abroad, ourfirms need
+living standards. But to compete abroad, our firms need
 access to foreign markets, just as foreign industries have
 access to our open market. We vigorously pursue
 measures to increase access for our goods and services —
@@ -2949,7 +3037,7 @@ Export Strategy and Advocacy Program
 In 1993, the Administration published a report creating
 America's first national export strategy and making 65
 specific recommendations for reforming the way govern-
-ment works with the private sector to expand export.
+ment works with the private sector to expand exports.
 Among the recommendations were significant improve-
 ments in advocacy, export financing, market information
 systems and product standards education. Our objective is
@@ -2985,7 +3073,9 @@ Administration Act, which governs the process of export
 
 27
 
-licensing. The goal of this reform is to strengthen our ability
+
+
+li censing. The goal of this reform is to strengthen our ability
 to combat the proliferation of weapons of mass destruction
 and protect other national interests, while removing unnec-
 essarily burdensome licensing requirements left over from
@@ -2998,14 +3088,14 @@ Expanding the Realm of Open Markets
 
 The conclusion of NAFTA, the Uruguay Round of GATT,
 the Bogor Declaration of the 1994 APEC leaders meeting
-and 1995 Osaka Action Plan, the Summit of the Americas’
+and 1995 Osaka Action Plan, the Summit of the Americas'
 Action Plan and the U.S.-EU Transatlantic Marketplace
 represent unprecedented progress toward more open
 markets both at the regional and global levels. The
 Administration intends to continue its efforts in further
-enhancing U.S. access to foreign market. The World
-Trade Organization (\/\/TO) will provide a new institutional
-leverfor securing such access. Emerging market, particu-
+enhancing U.S. access to foreign markets. The World
+Trade Organization (WTO) will provide a new institutional
+lever for securing such access. Emerging markets, particu-
 larly along the Pacific Rim, present vast opportunities for
 American enterprise, and APEC now provides a suitable
 vehicle for the exploration of such opportunities. Similarly,
@@ -3026,7 +3116,7 @@ On December 3, 1993, President Clinton signed the North
 American Free Trade Act (NAFTA), which creates a free
 trade zone among the United States, Canada and Mexico.
 NAFTA has already created nearly 310,000 American jobs
-because of export to our NAFTA partners. NAFTA has also
+because of exports to our NAFTA partners. NAFTA has also
 increased Mexico's capacity to cooperate with our nation
 on a wide range of issues that cross our 2,000 mile border
 — including the environment, narcotics trafficking and
@@ -3041,7 +3131,7 @@ quent economic recession and adjustment period. We
 have also begun negotiations with Chile on expanding
 NAFTA's membership.
 
-Asia Paciﬁc Economic Cooperation
+Asia Pacific Economic Cooperation
 
 Our economic relations depend vitally on our ties with the
 Asia Pacific region, which is the world's fastest-growing
@@ -3054,10 +3144,10 @@ tion and permit U.S. companies to expand their involve-
 ment in substantial infrastructure planning and construc-
 tion throughout the region. The trade and investment
 framework agreed to in 1993 provided the basis for
-enhancing the 'open regionalism’ that defines APEC. At the
+enhancing the 'open regionalism' that defines APEC. At the
 second leaders meeting in November 1994, APEC leaders
 embraced the goal of free and open trade and investment
-throughout the region by 2020. Athird meeting in Osaka,
+throughout the region by 2020. A third meeting in Osaka,
 Japan, in 1995 adopted an action agenda for facilitating
 and measuring progress toward that goal.
 
@@ -3082,6 +3172,8 @@ openly. The President remains committed to ensuring that
 the commitments in the Uruguay Round agreement are
 fulfilled.
 
+
+
 U.S. - Japan Framework Agreement
 
 The Administration continues to make progress with Asia's
@@ -3094,12 +3186,12 @@ Miyazawa in 1993, we have reached 20 market access
 agreements with Japan covering a range of key sectors,
 such as medical technologies, telecommunications, insur-
 ance, flat glass, financial services and intellectual property
-right. Our merchandise exports to Japan in the sectors
+rights. Our merchandise exports to Japan in the sectors
 covered by these agreements have expanded at a rate that
 is more than double that of export growth to Japan in the
 noncovered sectors. In August 1995, we concluded a land-
 mark agreement in automobile and auto parts trade, the
-largest sector of our bilateral trade deﬁcit, and last summer
+largest sector of our bilateral trade deficit, and last summer
 we took steps to support market access for U.S. transport
 services.
 
@@ -3126,7 +3218,7 @@ nations of the Western Hemisphere to negotiate by 2005 a
 Free Trade Area of the Americas (FTAA) . The Western
 Hemisphere is our largest export market, constituting over
 35 percent of all U.S. sales abroad. The action plan will
-accelerate progress toward free, integrated market that
+accelerate progress toward free, integrated markets that
 will create new, high-wage jobs and sustain economic
 growth for America. The June 1995 Trade Ministerial
 created seven working groups to begin preparations for the
@@ -3134,7 +3226,7 @@ negotiation of the FTAA.
 
 U.S.-EU Transatlantic Marketplace
 
-On December 3, 1995, President Clinton launched the
+On December 3, 1995,  President Clinton launched the
 New Transatlantic Agenda at the U.S.-EU Summit in
 Madrid, Spain. As part of this agenda, the United States
 and the European Union (EU) agreed to take concrete
@@ -3144,12 +3236,12 @@ United States and the EU also will explore the possibility
 of agreeing on further tariff reductions and accelerated
 reductions in tariffs already agreed to in the Uruguay
 Round; negotiate agreements on mutual recognition of
-certiﬁcation and testing procedures; conclude a customs
+certification and testing procedures; conclude a customs
 cooperation and mutual assistance agreement; carry out a
 joint study of tariff and nontariff barriers to trade and
 options for their elimination; and work together in the
 Organization of Economic Cooperation and Development
-(OECD) and the V\f|'O to achieve agreements on foreign
+(OECD) and the WTO to achieve agreements on foreign
 investment and telecommunications services.
 
 OECD Multilateral Investment Agreement
@@ -3166,7 +3258,7 @@ legal standards on expropriation, access to binding interna-
 tional arbitration for disputes and unrestricted investment-
 related transfers across borders. If successful, these negotia-
 tions would help further our efforts on investment issues in
-Asia and in the V\f|'O.
+Asia and in the WTO.
 
 Preparing International Economic Institutions
 for the 21st Century
@@ -3183,6 +3275,8 @@ crises; the creation of a more effective early warning and
 
 29
 
+
+
 prevention system with an emphasis on improved disclo-
 sure of financial and economic data; the establishment of a
 new Emergency Financing Mechanism to provide the
@@ -3194,7 +3288,7 @@ the system; and instituting a review of procedures that
 might facilitate the orderly resolution of international debt
 crises in a financial environment characterized by a greater
 diversity of creditors and financial instruments. Another
-important area considered at Halifax concerns interna-
+i mportant area considered at Halifax concerns interna-
 tional financial regulation. The G-7 leaders committed to
 intensify cooperation among financial authorities to limit
 systemic risk and pledged to develop and enhance safe-
@@ -3225,12 +3319,11 @@ shocks and the Gulf War show that an interruption of oil
 supplies can have a significant impact on the economies of
 the United States and its allies. Appropriate economic
 responses can substantially mitigate the balance of
-payments and inflationaw impacts of an oil shock; appro-
+payments and inflationary impacts of an oil shock; appro-
 priate security policy responses to events such as Iraq's
 invasion of Kuwait can limit the magnitude of the crisis.
 
-Over the longer term, the United States’ dependence on
-
+Over the longer term, the United States' dependence on
 access to foreign oil sources will be increasingly important
 as our resources are depleted. The U.S. economy has
 
@@ -3241,7 +3334,7 @@ that time our oil consumption has remained virtually stable
 and oil production has declined. High oil prices did not
 generate enough new oil exploration and discovery to
 sustain production levels from our depleted resource base.
-These fact show the need for continued and extended
+These facts show the need for continued and extended
 reliance on energy efficiency and conservation and devel-
 opment of alternative energy sources. Conservation
 measures notwithstanding, the United States has a vital
@@ -3264,7 +3357,7 @@ block economic growth. Rapid urbanization is outstripping
 the ability of nations to provide jobs, education and other
 services to new citizens. The continuing poverty of a
 quarter of the world's people leads to hunger, malnutri-
-tion, economic migration and political unrest. V\ﬁdespread
+tion, economic migration and political unrest. Widespread
 illiteracy and lack of technical skills hinder employment
 opportunities and drive entire populations to support
 themselves on increasingly fragile and damaged resource
@@ -3285,7 +3378,9 @@ nology that targets pollution prevention, control and
 cleanup. Companies that invest in energy efficiency, clean
 manufacturing and environmental services today will
 
-create the high—quality, high-wage jobs of tomorrow. By
+
+
+create the high-quality, high-wage jobs of tomorrow. By
 providing access to these types of technologies, our exports
 can also provide the means for other nations to achieve
 environmentally sustainable economic growth. At the same
@@ -3296,7 +3391,7 @@ recycling efforts.
 
 Internationally, the Administration's foreign assistance
 program focuses on four key elements of sustainable devel-
-opment: broad—based economic growth; the environment;
+opment: broad-based economic growth; the environment;
 population and health; and democracy. We will continue
 to advocate environmentally sound private investment and
 responsible approaches by international lenders. As
@@ -3306,17 +3401,15 @@ able development in their funding decisions, to include a
 commitment to perform environmental assessments on
 projects for both internal and public scrutiny. In particular,
 the Global Environmental Facility (GEF), established in
-
-I 994, provides a source of financial assistance to the
+1 994, provides a source of financial assistance to the
 developing world for climate change, biodiversity and
 oceans initiatives that will benefit all the world's citizens,
 including Americans.
 
 The United States is taking specific steps in all of these
+areas:
 
-EICESI
-
-- In June 1993, the United States signed the
+• In June 1993, the United States signed the
 Convention on Biological Diversity, which aims to
 protect and utilize the world's genetic inheritance.
 The Interior Department created a National
@@ -3324,21 +3417,21 @@ Biological Service to help protect species and to help
 the agricultural and biotechnical industries identify
 new sources of food, fiber and medications.
 
-- New policies are being implemented to ensure the
+• New policies are being implemented to ensure the
 sustainable management of U.S. forests by the year
 2000, as pledged internationally. In addition, U.S.
 bilateral forest assistance programs are being
 expanded, and the United States is promoting
-sustainable management of tropical forest.
+sustainable management of tropical forests.
 
-- In the wake of the 1992 United Nations Conference
+• In the wake of the 1992 United Nations Conference
 on Environment and Development, the United States
 has undertaken initiatives to reduce land-based
 sources of marine pollution, maintain populations of
 marine species at healthy and productive levels and
 protect endangered marine mammals and coral reefs.
 
-The United States has focused technical assistance
+• The United States has focused technical assistance
 and encouraged nongovernmental environmental
 groups to provide expertise to the new independent
 states of the former Soviet Union and Central and
@@ -3350,10 +3443,10 @@ engaged in technical cooperation with many coun-
 tries around the world to advance these goals. The
 United States has also been working bilaterally with
 a number of developing countries to promote their
-sustainable development and to workjointly on
+sustainable development and to work jointly on
 global environmental issues.
 
-The Administration is leading a renewed global effort
+• The Administration is leading a renewed global effort
 to address population problems and promote inter-
 national consensus for stabilizing world population
 growth. Our comprehensive approach stresses family
@@ -3365,9 +3458,9 @@ endorsed these approaches as important strategies in
 achieving our global population goals. At the 1995
 UN Conference on Women in Beijing, the United
 States promoted women's — and children's — inter-
-national right.
+national rights.
 
-With regard to the United Nations, the G-7 leaders at
+• With regard to the United Nations, the G-7 leaders at
 the Halifax Summit in 1995 endorsed an ambitious
 effort to modernize the organization's economic and
 social functions through better coordination, consoli-
@@ -3379,7 +3472,7 @@ commission, the UN General Assembly established
 the High Level Working Group on Strengthening the
 UN System in September 1995.
 
-In April 1993, President Clinton pledged that the
+• In April 1993, President Clinton pledged that the
 United States would reduce our greenhouse gas
 emissions to 1990 levels by the year 2000, in accor-
 dance with the Framework Convention on Climate
@@ -3391,18 +3484,19 @@ preserving U.S. economic competitiveness.
 
 31
 
-- The United States and other countries have agreed to
+
+
+• The United States and other countries have agreed to
 protect the ozone layer by phasing out use of the
-major ozone—depleting substances. In 1995, we also
+major ozone-depleting substances. In 1995, we also
 agreed with other nations to decrease use of addi-
-tional ozone—depleting chemicals.
+tional ozone-depleting chemicals.
 
 Promoting Democracy
-
 All of America's strategic interests — from promoting pros-
 perity at home to checking global threats abroad before
 they threaten our territory — are served by enlarging the
-community of democratic and free—market nations. Thus,
+community of democratic and free-market nations. Thus,
 working with new democratic states to help preserve them
 as democracies committed to free markets and respect for
 human rights, is a key part of our national security strategy.
@@ -3422,26 +3516,23 @@ The enlargement of the community of market democracies
 respecting human rights and the environment is manifest
 in a number of ways:
 
-- More than 30 nations in Central and Eastern Europe,
+• More than 30 nations in Central and Eastern Europe,
 the former Soviet Union, Latin America, Africa and
 East Asia have, over the past 10 years, adopted the
 structures of a constitutional democracy and held
 free elections;
 
-- The nations of the Western Hemisphere have
+• The nations of the Western Hemisphere have
 proclaimed their commitment to democratic regimes
 and to the collective responsibility of the nations of
 the OAS to respond to threats to democracy.
 
-- In the Western Hemisphere, only Cuba is not a
+• In the Western Hemisphere, only Cuba is not a
 democratic state.
 
-' Nations as diverse as South Africa and Cambodia
-
+• Nations as diverse as South Africa and Cambodia
 have resolved bitter internal disputes with agreement
 on the creation of constitutional democracies.
-
-32
 
 The first element of our enlargement strategy is to work
 with the other democracies of the world and to improve
@@ -3457,10 +3548,10 @@ crusade; it is a pragmatic commitment to see freedom take
 hold where that will help us most. Thus, we must target
 our effort to assist states that affect our strategic interests,
 such as those with large economies, critical locations,
-nuclear weapons or the potential to generate refugee ﬂows
+nuclear weapons or the potential to generate refugee flows
 into our own nation or into key friends and allies. We
 must focus our efforts where we have the most leverage.
-And our efforts must be demand—driven — they must focus
+And our efforts must be demand-driven — they must focus
 on nations whose people are pushing for reform or have
 already secured it.
 
@@ -3470,7 +3561,7 @@ help consolidate democratic and market reforms in Russia
 help turn a former threat into a region of valued diplomatic
 and economic partnership. Our intensified interaction with
 Ukraine has helped move that country onto the path of
-economic reform, which is critical to its long—term stability.
+economic reform, which is critical to its long-term stability.
 In addition, our efforts in Russia, Ukraine and the other
 states support and facilitate our efforts to achieve
 continued reductions in nuclear arms and compliance
@@ -3483,13 +3574,17 @@ our security and their potential markets. Eventual integra-
 tion into European security and economic organizations,
 such as NATO and the EU, will help lock in and preserve
 the impressive progress in instituting democratic and
-market—economic reforms that these nations have made.
+market-economic reforms that these nations have made.
 
 Since our ties across the Pacific are no less important than
 those across the Atlantic, pursuing enlargement in the Asia
 Pacific theater is a third example. We will work to support
 the emerging democracies of the region and to encourage
 other states along the same path.
+
+32
+
+
 
 Continuing the great strides toward democracy and
 markets in our hemisphere is also a key concern and was
@@ -3519,8 +3614,7 @@ through practices of good governance.
 At the same time as we work to ensure the success of
 emerging democracies, we must also redouble our efforts
 to guarantee basic human rights on a global basis. At the
-
-I 993 United Nations Conference on Human Rights, the
+1 993 United Nations Conference on Human Rights, the
 United States forcefully and successfully argued for a reaf-
 firmation of the universality of such rights and improved
 international mechanisms for their promotion. In the wake
@@ -3551,7 +3645,7 @@ In all these efforts, a policy of engagement and enlarge-
 ment should take on a second meaning: we should pursue
 our goals through an enlarged circle not only of govern-
 ment officials but also of private and nongovernmental
-groups. Private ﬁrms are natural allies in our efforts to
+groups. Private firms are natural allies in our efforts to
 strengthen market economies. Similarly, our goal of
 strengthening democracy and civil society has a natural
 ally in labor unions, human rights groups, environmental
@@ -3561,10 +3655,10 @@ welcome these diplomacy multipliers, such as the
 National Endowment for Democracy.
 
 Supporting the global movement toward democracy
-requires a pragmatic and long—term effort focused on both
+requires a pragmatic and long-term effort focused on both
 values and institutions. The United States must build on
 the opportunities achieved through the successful conclu-
-sion of the Cold War. Our long—term goal is a world in
+sion of the Cold War. Our long-term goal is a world in
 which each of the major powers is democratic, with many
 other nations joining the community of market democra-
 cies as well.
@@ -3582,17 +3676,21 @@ crises, including a school and training for humanitarian
 operations.
 
 Through humanitarian assistance and policy initiatives
-aimed at the sources of disruption, we seekto mitigate the
+aimed at the sources of disruption, we seek to mitigate the
 contemporary migration and refugee crises, foster long-
 term global cooperation and strengthen involved interna-
 tional institutions. The United States will provide appro-
 priate financial support and will work with other nations
 and international bodies, such as the International Red
-Cross and the UN High Commissionerfor Refugees, in
-seeking voluntaw repatriation of refugees — taking into
+Cross and the UN High Commissioner for Refugees, in
+seeking voluntary repatriation of refugees — taking into
 full consideration human rights concerns as well as the
 
 33
+
+
+
+34
 
 economic conditions that may have driven them out in the
 first place. Helping refugees return to their homes in
@@ -3603,8 +3701,6 @@ Relief efforts will continue for people displaced by the
 conflict in Bosnia and other republics of the former
 Yugoslavia. We will act in concert with other nations and
 
-34
-
 the UN against the illegal smuggling of aliens into this
 country. In concert with the tools of diplomatic, economic
 and military power, our humanitarian and refugee policies
@@ -3612,6 +3708,8 @@ can bear results, as was evident in Haiti. We provided
 temporary safe haven at Guantanamo Naval Base for those
 Haitians who feared for their safety and left by sea until we
 helped restore democracy.
+
+
 
 III. Integrated Regional Approaches
 
@@ -3627,7 +3725,6 @@ American prosperity with our security requirements to
 produce a mutually reinforcing policy.
 
 Europe and Eurasia
-
 Our strategy of engagement and enlargement is central to
 U.S. policy toward Europe. European stability is vital to our
 own security, a lesson we have learned twice at great cost
@@ -3650,7 +3747,7 @@ peace in the former Yugoslavia will survive and flourish
 after four years of war. U.S. policy is focused on five goals:
 
 sustaining a political settlement in Bosnia that preserves the
-countw's territorial integrity and provides a viable future
+country's territorial integrity and provides a viable future
 for all its peoples; preventing the spread of the conflict into
 a broader Balkan war that could threaten both allies and
 the stability of new democratic states in Central and
@@ -3676,13 +3773,15 @@ brutal shelling of Sarajevo, the United States led NATO's
 heavy and continuous air strikes. At the same time,
 President Clinton launched a new diplomatic initiative
 aimed at ending the conflict for good. Intensive diplomatic
-efforts by our negotiators forged a Bosnia—wide cease—fire
+efforts by our negotiators forged a Bosnia-wide cease-fire
 and got the parties to agree to the basic principles of
-peace. Three dedicated American diplomat — Robert
-Frasure, Joseph Kruzel and Nelson Drew— lost their lives
+peace. Three dedicated American diplomats — Robert
+Frasure, Joseph Kruzel and Nelson Drew — lost their lives
 in that effort.
 
 35
+
+
 
 Three intensive weeks of negotiations, led by the United
 States last November, produced the Dayton Peace
@@ -3695,20 +3794,20 @@ United States and the international community in imple-
 menting the peace agreement.
 
 Following the signature of the peace agreement in Paris on
-December 14, U.S. forces deployed to Bosnia as part ofa
-NATO—led peace Implementation Force (IFOR). These
+December 14, U.S. forces deployed to Bosnia as part of a
+NATO-led peace Implementation Force (IFOR). These
 forces, along with those of some 25 other nations,
 including all of our NATO allies, are working to ensure a
 stable and secure environment so that the parties have the
 confidence to carry out their obligations under the Dayton
-agreement. lFOR's task is limited to assisting the parties in
-Implementing the military aspects of the peace agreement,
-including monitoring the cease—fire, monitoring and
+agreement. IFOR's task is limited to assisting the parties in
+i mplementing the military aspects of the peace agreement,
+including monitoring the cease-fire, monitoring and
 enforcing the withdrawal of forces and establishing and
 manning the zone of separation.
 
 We anticipate a one-year mission for IFOR in Bosnia. The
-parties to the agreement have speciﬁc dates by which each
+parties to the agreement have specific dates by which each
 stage of their obligations must be carried out, which started
 with the separation of forces within 30 days after IFOR
 assumed authority from UNPROFOR, and continuing with
@@ -3732,7 +3831,7 @@ absolutely essential to making the peace endure, have
 been undertaken by the entire international community
 under civilian coordination. International aid agencies are
 helping the people of Bosnia rebuild to meet the imme-
-diate needs of survival. There also is a long—term interna-
+diate needs of survival. There also is a long-term interna-
 
 36
 
@@ -3752,9 +3851,9 @@ the military aspects of the agreement, we believe it is
 appropriate for Europe to contribute the largest share of the
 funds for reconstruction. The European Union has taken
 the lead in these efforts in tandem with the international
-financial institutions, in particularthe World Bank. The
+financial institutions, in particular the World Bank. The
 Japanese and Islamic countries also are prepared to make
-signiﬁcant contributions.
+significant contributions.
 
 An important element of our exit strategy for IFOR is our
 commitment to achieving a stable military balance within
@@ -3762,8 +3861,8 @@ Bosnia and among the states of the former Yugoslavia by
 the time IFOR withdraws. This balance will help reduce
 the incentives of the parties to return to war. This balance
 should be achieved, to the extent possible, through arms
-limitations and reductions, and the Dayton agreement
-contains signiﬁcant measures in this regard.
+li mitations and reductions, and the Dayton agreement
+contains significant measures in this regard.
 
 But even with the implementation of the arms control
 provisions, the armed forces of the Federation, which have
@@ -3775,11 +3874,9 @@ receives the assistance necessary to adequately defend
 itself when IFOR leaves. However, because we want to
 assure the impartiality of IFOR, providing arms and
 training to Federation forces will not be done by either
-IFOR or U.S. militaw forces. The approach we intend to
-pursue forthe United States is to coordinate the efforts of
-
+IFOR or U.S. military forces. The approach we intend to
+pursue for the United States is to coordinate the efforts of
 third countries and to lead an international effort, with U.S.
-
 involvement in the execution of the program to be done
 by contractors.
 
@@ -3787,6 +3884,8 @@ Our efforts in this connection already have begun. An
 assessment team to evaluate the needs of the Federation
 visited Bosnia in November 1995 and made recommenda-
 tions regarding the Federation's defense requirements. A
+
+
 
 special task force has been established at the Department
 of State to work with other interested states and to identify
@@ -3817,7 +3916,7 @@ been far more than a transitory response to a temporary
 threat. It has been a guarantor of European democracy and
 a force for European stability. That is why its mission
 endures even though the Cold War has receded into the
-past. And that is why its benefit are so clear to Europe's
+past. And that is why its benefits are so clear to Europe's
 new democracies.
 
 Only NATO has the military forces, the integrated
@@ -3855,7 +3954,7 @@ NATO's mission is evolving, and the Alliance will
 continue to adapt to the many changes brought about in
 the aftermath of the end of the Cold War. Today, NATO
 plays a crucial role helping to manage ethnic and national
-conflict in Europe. V\ﬁth U.S. leadership, NATO has
+conflict in Europe. With U.S. leadership, NATO has
 provided the muscle behind efforts to bring about a
 peaceful settlement in the former Yugoslavia. NATO air
 power enforced the UN-mandated no-fly zone and
@@ -3863,7 +3962,7 @@ provided support to UN peacekeepers. NATO is now
 helping to implement the peace after the parties reached
 an agreement.
 
-V\ﬁth the adoption of the U.S. initiative, Partnershipfor
+With the adoption of the U.S. initiative, Partnership for
 Peace, at the January 1994 summit, NATO is playing an
 increasingly important role in our strategy of European
 integration, extending the scope of our security coopera-
@@ -3875,9 +3974,9 @@ political consultation. Partner countries are sending repre-
 sentatives to NATO headquarters near Brussels and to a
 military coordination cell at Mons — the site of Supreme
 Headquarters Allied Powers Europe (SHAPE). Combined
-exercises have taken place in virtually all of the Partners’
+exercises have taken place in virtually all of the Partners'
 countries and NATO nations. In keeping with our strategy
-ofenlargement, PFP is open to all former members of the
+of enlargement, PFP is open to all former members of the
 Warsaw Pact as well as other European states. Each
 partner will set the scope and pace of its cooperation with
 NATO. To facilitate progress toward PFP objectives, the
@@ -3885,11 +3984,12 @@ U.S. Warsaw Initiative Program is directing $100 million
 to Partner nations this year.
 
 The success of NATO's Partnership for Peace process and
-
 the increasing links developed between NATO and Partner
 nations have also begun to lay the foundation for the
 
 37
+
+
 
 Partners to contribute to real-world NATO missions such
 as the IFOR operation, Joint Endeavor. The participation of
@@ -3938,15 +4038,14 @@ reducing the risk of instability or conflict in Europe's
 eastern half — the region where two world wars and the
 Cold War began. It will help assure that no part of Europe
 will revert to a zone of great power competition or a
-sphere of influence. ltwill build confidence and give new
+sphere of influence. It will build confidence and give new
 democracies a powerful incentive to consolidate their
-reforms. And each potential member will bejudged
+reforms. And each potential member will be judged
 
 38
 
 according to the strength of its democratic institutions and
 its capacity to contribute to the goals of the Alliance.
-
 As the President has made clear, NATO enlargement will
 not be aimed at replacing one division of Europe with a
 new one; rather, its purpose is to enhance the security of
@@ -3969,8 +4068,8 @@ economic. The United States seeks to build on vibrant and
 open-market economies, the engines that have given us
 the greatest prosperity in human history over the last
 several decades in Europe and in the United States. To this
-end, we strongly supportthe process of European integra-
-tion embodied in the European Union and seekto deepen
+end, we strongly support the process of European integra-
+tion embodied in the European Union and seek to deepen
 our partnership with the EU in support of our economic
 goals, but also commit ourselves to the encouragement of
 bilateral trade and investment in countries not part of the
@@ -3986,7 +4085,7 @@ economic stagnation has clearly eroded public support in
 finances for outward-looking foreign policies and for
 greater integration. We are working closely with our West
 European partners to expand employment and promote
-long—term growth, building on the results of the Detroit
+long-term growth, building on the results of the Detroit
 Jobs Conference and the Naples G-7 Summit in 1994. In
 December 1995, the U.S. and EU launched the New
 Transatlantic Agenda, which moves the U.S.-EU relation-
@@ -3995,6 +4094,8 @@ interests, including promoting peace, stability, democracy
 and development; responding to global challenges; and
 contributing to the expansion of world trade and closer
 economic relations.
+
+
 
 In Northern Ireland, the Administration is implementing a
 package of initiatives to promote the peace process,
@@ -4013,7 +4114,7 @@ that will underpin hopes for peace and reconciliation.
 As we work to strengthen our own economies, we must
 know that we serve our own prosperity and our security by
 helping the new market reforms in the new democracies in
-Europe's East, which will help to deﬁate the region's
+Europe's East, which will help to deflate the region's
 demagogues. It will help ease ethnic tensions; it will help
 new democracies take root.
 
@@ -4080,15 +4181,14 @@ the rights of their minorities and their neighbors, we will
 support their progress with a steady patience.
 
 East Asia and the Pacific
-
 East Asia is a region of growing importance for U.S. secu-
-rity and prosperity; nowhere are the strands of ourthree-
+rity and prosperity; nowhere are the strands of our three-
 pronged strategy more intertwined nor is the need for
 continued U.S. engagement more evident. Now more than
 ever, security, open markets and democracy go hand in
 hand in our approach to this dynamic region. In 1993,
 President Clinton laid out an integrated strategy — a New
-Pacific Community —which links security requirements
+Pacific Community — which links security requirements
 with economic realities and our concern for democracy
 and human rights.
 
@@ -4097,6 +4197,8 @@ the first pillar of our new Pacific community. The United
 
 39
 
+
+
 States is a Pacific nation. We have fought three wars there
 in this century. To deter regional aggression and secure our
 own interests, we will maintain an active presence, and we
@@ -4104,7 +4206,7 @@ will continue to lead. Our deep, bilateral ties with such
 allies as Japan, South Korea, Australia, Thailand and the
 Philippines, and a continued American military presence
 will serve as the foundation for America's security role in
-the region. Currently, ourforces number nearly 100,000
+the region. Currently, our forces number nearly 100,000
 personnel in East Asia. In addition to performing the
 general forward deployment functions outlined above, they
 contribute to regional stability by deterring aggression and
@@ -4142,14 +4244,12 @@ and Japanese allies, with the People's Republic of China
 and with Russia, and with various UN organizations to
 resolve the problem of North Korea's nuclear program.
 Throughout 1995, we successfully took the initial steps to
-implement the U.S.-North Korea nuclear agreement, begin-
-ning With IAEA monitoring of the North Korean nuclear
+i mplement the U.S.-North Korea nuclear agreement, begin-
+ning with I AEA monitoring of the North Korean nuclear
 freeze of its plutonium reprocessing plant and of its
 construction of two larger plants and an expanded repro-
 
-40
-
-cessing facility. In March 1995, a U.S.—led effort with Japan
+cessing facility. In March 1995, a U.S.-led effort with Japan
 and the Republic of Korea successfully established the
 Korean Peninsula Energy Development Organization
 (KEDO), which will finance and supply the light-water
@@ -4161,7 +4261,7 @@ supply contract for the light-water reactor project as part of
 the overall plan to replace North Korea's existing,
 dangerous nuclear program. KEDO also supplied heavy
 fuel oil to offset the energy from the frozen reactor projects
-and took measures to safely store spent nuclearfuel in
+and took measures to safely store spent nuclear fuel in
 North Korea, pending its final removal under the terms of
 the Agreed Framework. That effort will be accompanied by
 a willingness to improve bilateral political and economic
@@ -4175,7 +4275,7 @@ Korean allies and to the region is the foundation of this
 effort.
 
 A stable, open, prosperous and strong China is important
-to the United States and to ourfriends and allies in the
+to the United States and to our friends and allies in the
 region. A stable and open China is more likely to work
 cooperatively with others and to contribute positively to
 peace in the region and to respect the rights and interests
@@ -4185,8 +4285,8 @@ have a profound stake in helping to ensure that China
 pursues its modernization in ways that contribute to the
 overall security and prosperity of the Asia Pacific region.
 To that end, we strongly promote China's participation in
-regional security mechanisms to reassure it neighbors and
-assuage it own security concerns.
+regional security mechanisms to reassure its neighbors and
+assuage its own security concerns.
 
 In support of these objectives, we have adopted a policy of
 comprehensive engagement designed to integrate China
@@ -4198,6 +4298,10 @@ such as human rights, proliferation and trade. The United
 States continues to follow its long-standing "one China"
 policy; at the same time, we maintain fruitful unofficial
 relations with the people in Taiwan, a policy that
+
+40
+
+
 
 contributes to regional security and economic dynamism.
 We have made clear that the resolution of issues between
@@ -4246,15 +4350,15 @@ open Japan's markets more to competitive U.S. goods and
 reduce the U.S. trade deficit. As U.S.-China trade
 continues to grow significantly, we must work closely with
 Beijing to resolve remaining bilateral and multilateral trade
-problems, such as intellectual property right and market
+problems, such as intellectual property rights and market
 access. In February 1995, the United States reached a
 
 bilateral agreement with China on intellectual property
 rights, potentially saving U.S. companies billions of dollars
 in revenues lost because of piracy. China's accession to
-the \/VTO is also an important objective for the United
-States. The United States and other V\f|'O members have
-made it clear that China must join the \/VTO on commer-
+the WTO is also an important objective for the United
+States. The United States and other WTO members have
+made it clear that China must join the WTO on commer-
 cial terms.
 
 The third pillar of our policy in building a new Pacific
@@ -4271,7 +4375,7 @@ Western imperialism but the aspirations of Asian peoples
 themselves that explain the growing number of democra-
 cies and the growing strength of democracy movements
 everywhere in Asia. We support those aspirations and
-those movement.
+those movements.
 
 Each nation must find its own form of democracy, and we
 respect the variety of democratic institutions that have
@@ -4280,14 +4384,13 @@ torture or tyranny. Nor do we accept repression cloaked in
 moral relativism. Democracy and human rights are
 universal yearnings and universal norms, just as powerful
 in Asia as elsewhere. We will continue to press for
-improved respect for human right in such countries as
+i mproved respect for human rights in such countries as
 China, Vietnam and Burma.
 
 The Western Hemisphere
-
 The Western Hemisphere, too, is a fertile field for a
 strategy of engagement and enlargement. Sustained
-improvements in the security situation there, including the
+i mprovements in the security situation there, including the
 resolution of border tensions, control of insurgencies and
 containment of pressures for arms proliferation, will be an
 essential underpinning of political and economic progress
@@ -4300,9 +4403,11 @@ and to promote economic growth and trade. At the
 
 41
 
+
+
 Summit of the Americas, which President Clinton hosted in
 December 1994, the 34 democratic nations of the hemi-
-sphere committed themselves forthe first time to the goal
+sphere committed themselves for the first time to the goal
 of free trade in the region by 2005. They also agreed to a
 detailed plan of cooperative action in such diverse fields as
 health, education, science and technology, environmental
@@ -4321,7 +4426,7 @@ possible without U.S. leadership and commitment.
 
 NAFTA, ratified in December 1994, has strengthened
 economic ties, with substantial increases in U.S. exports to
-both Mexico and Canada, creating newjobs and new
+both Mexico and Canada, creating new jobs and new
 opportunities for American workers and business. We have
 also begun negotiations with Chile to join NAFTA. And in
 the security sphere, negotiations with Canada will extend
@@ -4341,16 +4446,14 @@ people of Haiti consolidate their hard-won democracy and
 organize free and fair elections at all levels. Haitians were
 able to choose their representatives in the Senate, the
 Chamber of Deputies and at the local level. And, for the
-first ti me in its histow, Haiti experienced a peaceful transi-
+first ti me in its history, Haiti experienced a peaceful transi-
 tion between two democratically elected presidents.
 
-V\ﬁth the restoration of democracy in Haiti, Cuba is the
+With the restoration of democracy in Haiti, Cuba is the
 only country in the hemisphere still ruled by a dictator.
 The Cuban Democracy Act remains the framework for our
 policy toward Cuba; our goal is the peaceful establishment
 of democratic governance for the people of Cuba. In
-
-42
 
 October, the United States took steps to invigorate our
 efforts to promote the cause of peaceful change in Cuba.
@@ -4358,26 +4461,26 @@ These measures tighten the enforcement of our economic
 embargo against the Cuban regime and enhance our
 contacts with the Cuban people through an increase in the
 free flow of information and ideas. By reaching out to
-nongovernmental organizations, churches, human right
+nongovernmental organizations, churches, human rights
 groups and other elements of Cuba's civil society, we will
 strengthen the agents of peaceful change.
 
 We are working with our neighbors through various hemi-
 spheric organizations, including the OAS, to invigorate
 regional cooperation. Both bilaterally and regionally, we
-seekto eliminate the scourge of drug trafficking, which
+seek to eliminate the scourge of drug trafficking, which
 poses a serious threat to democracy and security. We also
-seek to strengthen norms for defense establishment that
+seek to strengthen norms for defense establishments that
 are supportive of democracy, respect for human rights and
 civilian control in defense matters. The Defense Ministerial
 of the Americas hosted by the United States in July 1995,
-and "The V\ﬁ||iamsburg Principles" which resulted from it,
+and "The Williamsburg Principles" which resulted from it,
 were a significant step in this effort. Working with our Latin
 American partners who make up the "guarantor countries",
 we also began to move toward a permanent resolution of
 the Peru-Ecuador border dispute. In addition, a highly
 successful Organization of American States conference on
-regional Conﬁdence and Security Building Measures was
+regional Confidence and Security Building Measures was
 held in Santiago, Chile.
 
 Protecting the region's precious environmental resources is
@@ -4385,8 +4488,7 @@ also an important priority.
 
 The Middle East, Southwest and
 South Asia
-
-The United States has enduring interest in the Middle East,
+The United States has enduring interests in the Middle East,
 especially in pursuing a lasting and comprehensive Middle
 East peace, assuring the security of Israel and our Arab
 friends and maintaining the free flow of oil at reasonable
@@ -4399,6 +4501,10 @@ President's efforts helped bring about many historic firsts —
 the handshake of peace between Prime Minister Rabin and
 Chairman Arafat on the White House lawn has been
 followed by the Jordan-Israel peace treaty, the Israeli-
+
+42
+
+
 
 Palestinian Interim Agreement, progress on eliminating the
 Arab boycott of Israel and the establishment of ties
@@ -4417,7 +4523,7 @@ We have in place a dual containment strategy aimed at
 these two states and will maintain our long-standing pres-
 ence, which has been centered on naval vessels in and
 near the Persian Gulf and prepositioned combat equip-
-ment. Since Operation Desert Storm, temporaw deploy-
+ment. Since Operation Desert Storm, temporary deploy-
 ments of land-based aviation forces, ground forces and
 amphibious units have supplemented our posture in the
 Gulf region. The October 1994 deployment for Operation
@@ -4449,11 +4555,10 @@ Cooperation Council (GCC) to work closely on collective
 defense and security arrangements, help individual GCC
 states meet their appropriate defense requirements and
 maintain our bilateral defense agreements.
-
 South Asia has experienced an important expansion of
 
 democracy and economic reform, and our strategy is
-designed to help the peoples of that region enjoy the fruit
+designed to help the peoples of that region enjoy the fruits
 of democracy and greater stability through efforts aimed at
 resolving long-standing conflict and implementing confi-
 dence-building measures. The United States has engaged
@@ -4461,7 +4566,7 @@ India and Pakistan in seeking agreement on steps to cap,
 reduce and ultimately eliminate their capabilities for
 weapons of mass destruction and ballistic missiles.
 Regional stability and improved bilateral ties are also
-important for America's economic interest in a region that
+i mportant for America's economic interest in a region that
 contains a quarter of the world's population and one of its
 most important emerging markets.
 
@@ -4478,7 +4583,6 @@ and rampant pollution have exacted a tremendous toll on
 forests, biodiversity and the local environment.
 
 Africa
-
 Africa poses one of our greatest challenges and opportuni-
 ties to enlarge the community of market democracies.
 Significant changes have been made in Africa in recent
@@ -4494,15 +4598,16 @@ conflicts through negotiation, diplomacy and peace-
 keeping. New policies will strengthen civil societies and
 mechanisms for conflict resolution, particularly where
 ethnic, religious and political tensions are acute. In partic-
-ular, we will seekto identify and address the root causes of
+ular, we will seek to identify and address the root causes of
 conflicts and disasters before they erupt.
 
 The compounding of economic, political, social, ethnic
-
 and environmental challenges facing Africa can lead to a
-sense of 'Afro-pessimism.’ However, if we can simultane-
+sense of 'Afro-pessimism.' However, if we can simultane-
 
 43
+
+
 
 ously address these challenges, we create a synergy that
 can stimulate development, resurrect societies and build
@@ -4513,10 +4618,10 @@ condemned the government's brutal human rights viola-
 tions and support efforts to help encourage a return to
 democratic rule. In Mozambique and Angola, we have
 played a leading role in bringing an end to two decades of
-civil war and promoting national reconciliation. Forthe
+civil war and promoting national reconciliation. For the
 first time, there is the prospect that all of southern Africa
 could enjoy the fruits of peace and prosperity. Throughout
-the continent— in Rwanda, Burundi, Liberia, Sudan and
+the continent — in Rwanda, Burundi, Liberia, Sudan and
 elsewhere — we work with the UN and regional organiza-
 tions to encourage peaceful resolution of internal disputes.
 
@@ -4536,18 +4641,18 @@ addressing the socio-economic legacies of apartheid, and
 we view U.S. support for economic advancement and
 democratization in South Africa as mutually reinforcing.
 
-It is notjust in South Africa that we are witnessing democ-
-ratization. ln quieter but no less dramatic ways in countries
-like Benin, Congo, Malawi, Mali, Namibia and Zambia,
+It is not just in South Africa that we are witnessing democ-
+ratization. In quieter but no less dramatic ways in countries
+li ke Benin, Congo, Malawi, Mali, Namibia and Zambia,
 we are seeing democratic revolutions in need of our
 support. We want to encourage the creation of cultures of
 tolerance, flowering of civil society and the protection of
-human right and dignity.
+human rights and dignity.
 
 Our humanitarian interventions, along with the interna-
 tional community, will address the grave circumstances in
-several nations on the continent. USAlD's new "Greater
-Horn of Africa" Initiative is building a foundation forfood
+several nations on the continent. USAID's new "Greater
+Horn of Africa" Initiative is building a foundation for food
 security and crisis prevention in the Greater Horn of Africa.
 This initiative has now moved beyond relief to support
 reconstruction and sustainable development. In Somalia,
@@ -4574,7 +4679,7 @@ nongovernmental organizations and governments
 throughout Africa to address the urgent issues of popula-
 tion growth, spreading disease (including AIDS), environ-
 mental decline, enhancing the role of women in develop-
-ment, eliminating supportforterrorism, demobilization of
+ment, eliminating support for terrorism, demobilization of
 bloated militaries, relieving burdensome debt and
 expanding trade and investment ties to the countries of
 Africa. The United States is working closely with other
@@ -4589,7 +4694,7 @@ edge, experience and commitment of millions of
 Americans to enhance our nation's support for positive
 political, economic and social change in Africa. For
 example, the 1994 White House Conference on Africa, the
-first such gathering of regional expert ever sponsored by
+first such gathering of regional experts ever sponsored by
 the White House, drew together more than 200 Americans
 from the Administration, Congress, business, labor, acad-
 emia, religious groups, relief and development agencies,
@@ -4599,4 +4704,55 @@ President, Vice President, Secretary of State and National
 Security Advisor all participated in the conference, which
 produced a wealth of new ideas and new commitment to
 Africa.
+
+
+	Page 1
+	Page 2
+	Page 3
+	Page 4
+	Page 5
+	Page 6
+	Page 7
+	Page 8
+	Page 9
+	Page 10
+	Page 11
+	Page 12
+	Page 13
+	Page 14
+	Page 15
+	Page 16
+	Page 17
+	Page 18
+	Page 19
+	Page 20
+	Page 21
+	Page 22
+	Page 23
+	Page 24
+	Page 25
+	Page 26
+	Page 27
+	Page 28
+	Page 29
+	Page 30
+	Page 31
+	Page 32
+	Page 33
+	Page 34
+	Page 35
+	Page 36
+	Page 37
+	Page 38
+	Page 39
+	Page 40
+	Page 41
+	Page 42
+	Page 43
+	Page 44
+	Page 45
+	Page 46
+	Page 47
+	Page 48
+	Page 49
 

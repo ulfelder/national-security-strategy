@@ -1,14 +1,35 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 NATIONAL
 SECURITY
 STRATEGY
-
 OF THE
 UNITED STATES
 
- 
-
 THE WHITE HOUSE
 MARCH 1990
+
+
 
 Contents
 
@@ -16,21 +37,24 @@ PREFACE...v
 
 I. THE FOUNDATIONS OF
 NATIONAL STRATEGY:
-GOALS AND |NTERESTS...1
+GOALS AND INTERESTS...1
 
 Enduring Elements of Our National Strategy... 1
 
-Our Interests and Objectives in the 1990s  2
+Our Interests and Objectives in the 1990s ... 2
 
 II. TRENDS IN THE WORLD TODAY:
 OPPORTUNITIES AND
 UNCERTAINTIES...5
 
-The Crisis in Communism 5
+The Crisis in Communism ... 5
+
 The Industrial Democracies... 5
+
 The Global Economy... 6
 
-Third World Conﬂicts... 6
+Third World Conflicts... 6
+
 Trends in Weaponry... 6
 
 Illicit Drugs...7
@@ -42,13 +66,13 @@ Issues for the Future...7
 III. REGIONAL CHALLENGES AND
 RESPONSES...9
 
-The Soviet Union  9
+The Soviet Union ... 9
 
 Western Europe... 10
 
 Eastern Europe... 11
 
-The Western Hemisphere 12
+The Western Hemisphere ... 12
 
 East Asia and the Pacific... 12
 
@@ -61,39 +85,38 @@ OUR POLITICAL AGENDA...15
 
 Alliance Relationships... 15
 
-Arms Control 15
+Arms Control ... 15
 
 Strategic Arms Reduction Talks.. 16
-
 Defense and Space... 16
-
-ConventionalA rmed Forces in Europe... 16
+Conventional Armed Forces in Europe... 16
 Chemical Weapons... 16
-
 Open Skies... 17
-
-Confidence— and Security—Building Measures... 17
+Confidence- and Security-Building Measures... 17
 Nuclear Testing... 17
-
 Proliferation... 17
-
 Naval Forces... 17
 
 The Contest of Ideas and the Nurturing of
+Democracy... 18
 
-Delnocracy... 18
 Economic and Security Assistance...18
 
 Military Openness... 19
+
 iii
+
+
 
 V. RELATING MEANS TO ENDS:
 OUR ECONOMIC AGENDA...21
 
-Global |mba|ances...21
+Global Imbalances...21
+
 Debt...21
 
 Trade...21
+
 Technology ...22
 
 Energy...22
@@ -101,82 +124,83 @@ Energy...22
 VI. RELATING MEANS TO ENDS:
 OUR DEFENSE AGENDA...23
 
-Overall Priorities 23
+Overall Priorities ... 23
 
 Deterring Nuclear War...24
 
 Strategic Offensive Forces...24
-
 Strategic Defenses... 24
-
-TheaterNuclear Forces... 25
-
+Theater Nuclear Forces... 25
 Command, Control and Communications... 25
 
 Deterring Conventional War...25
 
 Forward Defense through Forward Presence...25
 Sharing the Responsibilities of Collective
+
 Defense... 26
 
-Forcesfor the Third World...26
+Forces for the Third World...26
 The Mobilization Base... 27
 
 Chemical Warfare...27
+
 Space...27
 
-Low-Intensity Conﬂict...28
-Drug Trafﬁcking... 28
+Low-Intensity Conflict...28
+
+Drug Trafficking... 28
+
 Intelligence Programs...29
 
 Planning for the Future...29
 
 VII. A PUBLIC TRUST...31
 
-The Defense Management Review  31
+The Defense Management Review ... 31
 
 Reducing Overhead Costs While Maintaining
 Military Strength... 31
 
 Enhancing Program Performance... 31
-
 Reinvigorating Planning and Budgeting... 31
-
 Reducing Micromanagement... 31
-
 Strengthening the Defense Industrial Base... 32
-
 Improving the Observance of Ethical
+
 Standards... 32
 
 Congress and the American People...32
 
+iv
+
+
+
 Preface
 
-In the aftermath ofWorld War II, the United States took on an unaccustomed burden—the responsibility to lead and
+In the aftermath of World War II, the United States took on an unaccustomed burden—the responsibility to lead and
 help defend the world's free nations. This country took bold and unprecedented steps to aid the recovery of both allies
 and defeated foes, to provide a shield behind which democracy could flourish, and to extend its hand in aid of global
 economic progress. The challenge of an aggressive, repressive Soviet Union was contained by a system of alliances,
 which we helped create, and led.
 
-In this historic endeavor, America has succeeded—bri||iant|y. But it was inevitable that new conditions created by this
+In this historic endeavor, America has succeeded—brilliantly. But it was inevitable that new conditions created by this
 success would eventually call for a new kind of American leadership. It was inevitable that our overwhelming
-
-economic predominance afterthe war would be reduced as our friends, with our help, grew stronger. And perhaps it
+economic predominance after the war would be reduced as our friends, with our help, grew stronger. And perhaps it
 was inevitable that the Soviet Union, met by a strong coalition of free nations determined to resist its encroachments,
 would have to turn inward to face the internal contradictions of its own deeply flawed system—as our policy of contain-
 ment always envisioned.
 
 Today, after four decades, the international landscape is marked by change that is breath-taking in its character,
 dimension, and pace. The familiar moorings of postwar security policy are being loosened by developments that were
-barely imagined years or even months ago. Yet, our goals and interests remain constant. And, as we |ooktoward—and
-hope for—a better tomorrow, we must also lookto those elements of our past policy that have played a major role in
+barely imagined years or even months ago. Yet, our goals and interests remain constant. And, as we look toward—and
+hope for—a better tomorrow, we must also look to those elements of our past policy that have played a major role in
 bringing us to where we are today.
 
 It is our steadfastness over four decades that has brought us to this moment of historic opportunity.
+
 We will not let that opportunity pass, nor will we shrink from the challenges created by new conditions. Our response
 will require strategic vision—a clear perception of our goals, our interests, and the means available to achieve and
-
 protect them. The essence of strategy is determining priorities. We will make the hard choices.
 
 This Report outlines the direction we will take to protect the legacy of the postwar era while enabling the United
@@ -185,12 +209,11 @@ States to help shape a new era, one that moves beyond containment and that will 
 I invite the American people and Congress to join us in a dialogue that will inform and enlighten the difficult
 decisions we will have to make in the months and years ahead.
 
-Zmvcc
-
 March 1990
 
-I. The Foundations of National Strategy:
 
+
+I. The Foundations of National Strategy:
 Goals and Interests
 
 Enduring Elements of Our
@@ -212,9 +235,9 @@ Jefferson's decision to send the American Navy against
 the Pasha of Tripoli in 1804 as they were when
 President Reagan directed American naval and air
 forces to return to that area in 1986. They animated
-Woodrow V\ﬁ|son's Fourteen Points, and my initiatives
+Woodrow Wilson's Fourteen Points, and my initiatives
 in support of democracy in Eastern Europe this past
-year
+year.
 
 In addition, this Nation has always felt a powerful
 sense of community with those other nations that
@@ -234,7 +257,7 @@ commitment to an alliance strategy, therefore, has a
 more enduring basis than simply the perception of a
 common enemy.
 
-Another enduring element ofour strategy has been a
+Another enduring element of our strategy has been a
 commitment to a free and open international
 economic system. America has championed liberal
 trade to enhance world prosperity as well as to reduce
@@ -246,7 +269,7 @@ Administration is committed to working with all
 nations to promote the prosperity of the free market
 system and, to reduce barriers that unfairly inhibit
 international commerce. In particular, it would be a
-tragedy of immense proportions iftrade disputes
+tragedy of immense proportions if trade disputes
 weakened political ties that forty years of military
 threat could not undo.
 
@@ -261,20 +284,23 @@ maintained the ability to project American power to
 help preserve the international equilibrium—globally
 and regionally—in support of peace and security.
 
-In particular, for most ofthis century, the United States
+In particular, for most of this century, the United States
 has deemed it a vital interest to prevent any hostile
 power or group of powers from dominating the Eura-
 sian land mass. This interest remains. In the period
 since World War II, it has required a commitment to
 forward defense and forward military deployments,
-
-and a recognition of the lesson ofthe 1930s—that
+and a recognition of the lesson of the 1930s—that
 peace and security come only through vigilance and
+
+1
+
+
 
 preparedness. This strategy was described as a strategy
 of containment of Soviet expansionism. Its purpose
 was not the division of the world into American and
-Soviet spheres of inﬂuence, but, on the contrary,
+Soviet spheres of influence, but, on the contrary,
 fostering the reemergence of independent centers of
 power in Europe and Asia. Behind this shield, our
 friends built up their strength and created institutions
@@ -289,7 +315,7 @@ Soviet power."
 This we now see. The very success of containment
 has created new conditions and new opportunities for
 a new generation of Americans. We welcome this
-change. Yet our basic Values—and our basic
+change. Yet our basic values—and our basic
 geopolitical necessities—remain. As the world's most
 powerful democracy, we are inescapably the leader,
 the connecting link in a global alliance of
@@ -301,7 +327,7 @@ would be foolhardy to neglect the basic conditions of
 security that are bringing it about.
 
 Our Interests and Objectives
-in the 19903
+in the 1990s
 
 Our broad national interests and objectives are
 enduring. They can be summed up as follows:
@@ -313,36 +339,36 @@ intact and its institutions and people secure.
 The United States seeks, whenever possible in concert
 with its allies, to:
 
-- deter any aggression that could threaten its security
+• deter any aggression that could threaten its security
 and, should deterrence fail, repel or defeat military
 attack and end conflict on terms favorable to the
 United States, its interests and allies;
 
-- deal effectively with threats to the security of the
+• deal effectively with threats to the security of the
 United States and its citizens and interests short of
 
-armed conﬂict, including the threat of international
+armed conflict, including the threat of international
 terrorism;
 
-- improve strategic stability by pursuing equitable
+• improve strategic stability by pursuing equitable
 and verifiable arms, control agreements,
 modernizing our strategic deterrent, developing
 technologies for strategic defense, and
 strengthening our conventional capabilities;
 
-- encourage greater recognition of the principles of
+• encourage greater recognition of the principles of
 human rights, market incentives, and free elections
 in the Soviet Union while fostering restraint in
 Soviet military spending and discouraging Soviet
 adventurism;
 
-- prevent the transfer of militarily critical
+• prevent the transfer of militarily critical
 technologies and resources to hostile countries or
 groups, especially the spread of weapons of mass
-destruction and associated high—technology means
+destruction and associated high-technology means
 of delivery; and
 
-- reduce the flow of illegal drugs into the United
+• reduce the flow of illegal drugs into the United
 States.
 
 A healthy and growing U.S. economy to ensure
@@ -352,13 +378,13 @@ base for national endeavors at home and abroad.
 National security and economic strength are
 indivisible. We seek to:
 
-- promote a strong, prosperous, and competitive U.S.
+• promote a strong, prosperous, and competitive U.S.
 economy;
 
-- ensure access to foreign markets, energy, mineral
+• ensure access to foreign markets, energy, mineral
 resources, the oceans, and space; and
 
-- promote an open and expanding international
+• promote an open and expanding international
 economic system with minimal distortions to trade
 and investment, stable currencies, and broadly
 agreed and respected rules for managing and
@@ -369,37 +395,59 @@ freedom, human rights, and democratic institutions.
 
 We seek to:
 
-- promote the rule of law and diplomatic solutions to
-regional conﬂicts;
+• promote the rule of law and diplomatic solutions to
+regional conflicts;
 
-- maintain stable regional military balances to deter
+• maintain stable regional military balances to deter
 those powers that might seek regional dominance;
 
-- support aid, trade, and investment policies that - establish a more balanced partnership with our
-promote economic development and social and allies and a greater sharing of global leadership and
-political progress; responsibilities;
+2
 
-- promote the growth of free, democratic political
+
+
+• support aid, trade, and investment policies that
+promote economic development and social and
+political progress;
+
+• promote the growth of free, democratic political
 institutions, as the surest guarantee of both human
 rights and economic and social progress; and
 
-- support greater economic, political, and defense
-integration in Western Europe and a closer
-relationship between the United States and the
-
-- aid in combatting threats to democratic institutions European C°mm“nlly9
+• aid in combatting threats to democratic institutions
 from aggression, coercion, insurgencies, subversion,
-terrorism, and illicit drug trafficking. - work with our allies in the North Atlantic Alliance
-and fully utilize the processes of the Conference on
-Heallllys c00Pel'3llVe and Pollllcally Vlgomlls Security and Cooperation in Europe to bring about
-relallons Wllll allles and frlendly n3ll0nS- reconciliation, security, and democracy in a Europe
+terrorism, and illicit drug trafficking.
 
-_ _ _ whole and free; and
+Healthy, cooperative and politically vigorous
+relations with allies and friendly nations.
+
 To build and nurture such relationships, we seek to:
 
-. strengthen and enlarge the Commonwealth Of free - make international institutions more effective in
-nations that share a commitment to democracy and PT0m0l111g PCEICC» WOTIOI Order» and P0l1l1C3L
-individual rights; economic and social progress.
+• strengthen and enlarge the commonwealth of free
+nations that share a commitment to democracy and
+individual rights;
+
+• establish a more balanced partnership with our
+allies and a greater sharing of global leadership and
+responsibilities;
+
+• support greater economic, political, and defense
+integration in Western Europe and a closer
+relationship between the United States and the
+European Community;
+
+• work with our allies in the North Atlantic Alliance
+and fully utilize the processes of the Conference on
+Security and Cooperation in Europe to bring about
+reconciliation, security, and democracy in a Europe
+whole and free; and
+
+• make international institutions more effective in
+promoting peace, world order, and political,
+economic and social progress.
+
+3
+
+
 
 II. Trends in the World Today:
 Opportunities and Uncertainties
@@ -416,14 +464,14 @@ notable strategic development of the present period is
 the systemic crisis engulfing the Communist world.
 This crisis takes many forms and has many causes:
 
-- After the Vietnam trauma of the 1970s, the West's
+• After the Vietnam trauma of the 1970s, the West's
 political recovery in the 1980s—including its
 rearmament and such successes as the INF
 deployment in Europe—undermined the Soviet
-leaders’ assumptions that the global "correlation of
+leaders' assumptions that the global "correlation of
 forces" was shifting in their favor.
 
-- While the industrial democracies surge headlong
+• While the industrial democracies surge headlong
 into a post-industrial era of supercomputers,
 microelectronics, and telecommunications,
 Communist states have been mired in stagnation,
@@ -432,17 +480,17 @@ innovation and productivity. Poor economic
 performance, especially in contrast with the West,
 has discredited a system that prided itself on its
 mastery of economic forces. And the new
-Information Revolution has posed fortotalitarian
+Information Revolution has posed for totalitarian
 regimes the particular challenge that clinging to old
 policies of restricting information would lead to
 permanent technological paralysis.
 
-- A new Soviet leadership in the mid-1980s
+• A new Soviet leadership in the mid-1980s
 recognized that its system was in crisis and
 undertook an ambitious program of reform. Abroad,
 
 this leadership sought a calmer international
-environment in orderto concentrate on its internal
+environment in order to concentrate on its internal
 crisis. This has led, for example, to a Soviet troop
 withdrawal from Afghanistan and Soviet diplomatic
 interest in compromise solutions to regional
@@ -452,32 +500,35 @@ commitments. These commitments had been made
 costly by indigenous resistance—supported by
 reinvigorated Western policies of engagement.
 
-- In 1989, in parallel with the negotiation on
+• In 1989, in parallel with the negotiation on
 Conventional Armed Forces in Europe (CFE), the
 Soviets began unilaterally reducing their heavy
 military burden and their presence in Eastern
 Europe, while proclaiming (and thus far
 demonstrating) a more tolerant policy toward their
-East bloc neighbors’ internal affairs. We have seen
+East bloc neighbors' internal affairs. We have seen
 powerful pent-up democratic forces unleashed all
 across Eastern Europe that have overturned
 Communist dictatorships and are reversing the
 pattern of Soviet dominance.
 
-We are facing a strategic transformation born ofthe
+We are facing a strategic transformation born of the
 success of our postwar policies. Yet, such fundamental
 political change will likely be turbulent. There may be
 setbacks and new sources of instability. Happy
 endings are never guaranteed. We can only be
-impressed by the uncertainties that remain as the So-
-viet Union and the states of Eastern Europe, each in
+i mpressed by the uncertainties that remain as the So-
+viet Union and the states of Eastern . Europe, each in
 its own way, advance into historically uncharted
 waters.
 
 The Industrial Democracies
-
 The industrial democracies also face strategic
-challenges, some ofthem serious, but they too are
+challenges, some of them serious, but they too are
+
+5
+
+
 
 largely the Products of our success. These include a
 shifting balance of economic power and the danger
@@ -486,10 +537,10 @@ adjustment could strain political and security ties.
 Such strains would be especially damaging at a
 moment when we need to maintain strength and
 unity to take best advantage of new opportunities in
-East—West relations which that strength and unity have
+East-West relations which that strength and unity have
 helped bring about.
 
-The growing strength and self—reliance of our allies in
+The growing strength and self-reliance of our allies in
 Western Europe and East Asia have already resulted in
 a greater sharing of leadership responsibility—as the
 European Community (EC) has shown in policies
@@ -502,12 +553,11 @@ successful democracies and economic and political
 leaders. U.S. policy has long encouraged such an
 evolution. It will provide powerful new reasons to
 maintain the partnerships—the Atlantic Alliance, the
-EC, and the U.S.—Japan security alliance—that have
+EC, and the U.S.-Japan security alliance—that have
 fostered reconciliation, reassurance, democracy, and
 security in Europe and Asia in the postwar period.
 
 The Global Economy
-
 In a new era of technological innovation and global
 markets, the world economy will be more competitive
 than ever before. The phenomenal growth in East Asia
@@ -522,7 +572,6 @@ perestroika, will likely slip further behind the United
 States, Japan, and Western Europe in output. In many
 other areas of the world, economic expansion will not
 keep pace with population growth or the debt
-
 burden, further squeezing resources and fomenting
 unrest and instability. All these developments carry
 significant security implications as well as their
@@ -543,13 +592,12 @@ leadership role, as well as to foster global economic
 development and ease dangerous pressures for
 unilateralism, regionalism, and protectionism.
 
-Third World Conﬂicts
-
+Third World Conflicts
 In a new era, some Third World conflicts may no
 longer take place against the backdrop of superpower
 competition. Yet many will, for a variety of reasons,
 continue to threaten U.S. interests. The erosion of
-U.S.—Soviet bipolarity could permit and in some ways
+U.S.-Soviet bipolarity could permit and in some ways
 encourage the growth of these challenges.
 
 Highly destructive regional wars will remain a danger,
@@ -557,7 +605,7 @@ made even greater by the expansion of the armed
 forces of regional powers and the proliferation of
 advanced weaponry. And it will be increasingly diffi-
 cult to slow the spread of chemical, biological, and
-nuclear weapons—along with long—range delivery
+nuclear weapons—along with long-range delivery
 systems. Instability in areas troubled by poverty,
 injustice, racial, religious or ethnic tension will
 continue, whether or not exploited by the Soviets.
@@ -569,7 +617,6 @@ and of states who sponsor it, likewise remains a
 threat.
 
 Trends in Weaponry
-
 Modern battlefields are characterized by an
 unprecedented lethality. The greater precision, range,
 and destructiveness of conventional weapons now
@@ -581,6 +628,8 @@ the military gap between ourselves and regional states
 and making some Third World battlefields in many
 ways as demanding as those we would expect in
 Central Europe.
+
+
 
 The United States has a competitive edge in most
 technologies relevant to advanced weaponry, but we
@@ -620,17 +669,16 @@ by the Department of Defense. We recognize that
 military involvement in this mission has costs, and
 that in a world of finite resources increased effort here
 is at the expense of other important defense activities.
-We accept these trade—offs, and we will do the job.
+We accept these trade-offs, and we will do the job.
 
 Refugees
-
 The dislocations of a turbulent world—famine,
 persecution, war, and tyranny—have swelled the wave
 of refugees across the planet to a total that now
 exceeds 14 million. Many have literally been forced
 from their homes by the heavy hand of tyranny.
 
-Thousands of others have ﬂed their homelands to
+Thousands of others have fled their homelands to
 escape oppression. Millions from Afghanistan,
 Ethiopia, and Mozambique have moved simply to stay
 alive. Others subsist in camps, from one generation to
@@ -647,7 +695,7 @@ The United States has a proud tradition, as long as
 our history, of welcoming refugees to our shores. We
 also take pride in our work with international
 agencies to provide assistance and relief for refugees,
-even as we strive politically to resolve the conﬂicts
+even as we strive politically to resolve the conflicts
 that provoked their flight. We have encouraged the
 restructuring of relief organizations to make them
 more effective and efficient—to make certain that
@@ -659,58 +707,64 @@ program of resettlement in the United States and
 assistance for refugees worldwide.
 
 Issues for the Future
-
 The security environment we face in the 1990s is
 more hopeful, but in many ways also more uncertain
 than at any time in the recent past. Some of the
 questions before us are:
 
-- How can we ensure continued international
-stability as U.S.—Soviet bipolarity gives way to
+• How can we ensure continued international
+stability as U.S.-Soviet bipolarity gives way to
 global interdependence and multipolarity? What
 will be America's continuing leadership role—and
 the new roles of leadership assumed by our allies?
 
-- What are the risks that today's positive strategic
+• What are the risks that today's positive strategic
 trends will be reversed, and how do we take due
-account of them in our long—term planning? How
+account of them in our long-term planning? How
 much risk can we prudently accept in an era of
 strategic change, fiscal austerity, and great
 uncertainty?
 
-- While.maintaining a balance of power with the
+7
 
+
+
+• While.maintaining a balance of power with the
 Soviet Union as an inescapable American priority,
 how do we adapt our forces for the continuing
 challenge of contingencies elsewhere in the world?
 
-How do we maintain the cohesion among allies
+• How do we maintain the cohesion among allies
 and friends that remains indispensable to common
 security and prosperity, as the perceived threat of a
 common danger weakens?
 
-What will be the structure of the new Europe—
+• What will be the structure of the new Europe—
 politically, economically, and militarily—as the
 
 Eastern countries move toward democracy and
 Germany moves toward unification?
 
-- If military factors loom less large in a world of a
-more secure East—West balance, how shall we
+• If military factors loom less large in a world of a
+more secure East-West balance, how shall we
 marshall the other instruments of policy to promote
 our interests and objectives?
 
 In shaping a national security strategy for the 1990s,
 we will need answers to these and other questions.
-Our preliminary assessments are reﬂected in the
+Our preliminary assessments are reflected in the
 sections that follow.
+
+8
+
+
 
 111. Regional Challenges and Responses
 
 Although we are a global power, our interests are not
-equally engaged orthreatened everywhere. In the face
+equally engaged or threatened everywhere. In the face
 of competing demands, budgetary stringency, and an
-improving East—West climate, we must review our
+i mproving East-West climate, we must review our
 priorities. Where our capabilities fall short of needs,
 we must assess the risks and employ the full panoply
 of our policy instruments to minimize them.
@@ -727,7 +781,7 @@ Yet, the extraordinary changes taking place, if their
 promise is fulfilled, will permit important changes in
 our defense posture—and a greater possibility of
 viewing other regions in their own right, independent
-of the East—West context.
+of the East-West context.
 
 The Soviet Union
 
@@ -746,7 +800,7 @@ democracy. All this we can only applaud.
 
 The United States will seek to engage the USSR in a
 relationship that is increasingly cooperative. Moscow
-will ﬁnd us a willing partner in creating the
+will find us a willing partner in creating the
 conditions that will permit the Soviet Union to join,
 and be welcome in, a peaceful, free, and prosperous
 international community. We will expand contacts for
@@ -755,14 +809,14 @@ democratic values in the Soviet Union, and to lay a
 firmer foundation for a deeper relationship over the
 long term. Our Open Lands proposal, for example,
 would abolish the "closed zones" that unnecessarily
-impede contacts by diplomats, businessmen, tourists,
+i mpede contacts by diplomats, businessmen, tourists,
 students, and journalists. To support Soviet economic
 reform, I have proposed immediate negotiations on a
-U.S.—Soviet trade agreement so that—pending action by
+U.S.-Soviet trade agreement so that—pending action by
 the Supreme Soviet to codify emigration reform—we
 could grant Most Favored Nation status to the Soviet
 Union at the June 1990 Summit. We have offered to
-support observer status forthe Soviet Union in the
+support observer status for the Soviet Union in the
 structures created by the General Agreement on Tariffs
 and Trade (GATT) after the Uruguay Round of
 Multilateral Trade Negotiations is completed, and I
@@ -781,7 +835,11 @@ Soviet institutions and practices that can only be
 reversed at great economic and political costs. In the
 political sphere, democracy is the best assurance of
 irreversible change. In the military sphere, with
-agreements in p|ace—and weapons destroyed,
+agreements in place—and weapons destroyed,
+
+9
+
+
 
 production lines converted, and forces demobilized—
 any future Soviet leadership would find it costly, time-
@@ -790,7 +848,7 @@ military supremacy and impossible to attempt without
 providing ample strategic warning. These must be our
 standards.
 
-Even if the U.S.—Soviet relationship remains
+Even if the U.S.-Soviet relationship remains
 competitive, it can be made less militarized and far
 safer. We will seek effectively verifiable arms control
 agreements with the Soviet Union and others as an
@@ -832,8 +890,6 @@ larger commonwealth of free nations—those states that
 share a commitment to freedom and individual rights.
 Ours is an alliance rooted in a shared history and
 
-10
-
 heritage. Even if the military confrontation in Europe
 diminishes dramatically—as is our goal—the natural
 partnership of democratic allies will endure, grounded
@@ -872,7 +928,7 @@ fulfillment of Europe's identity and destiny and as a
 necessary step toward a more balanced sharing of
 leadership and responsibility within the broader
 Atlantic Community. European unity and Alliance
-partnership do not conﬂict; they reinforce each other.
+partnership do not conflict; they reinforce each other.
 We support the European Community's efforts to
 create a single unified market by 1992. A strong
 European Community will ensure more efficient use
@@ -886,6 +942,10 @@ European Union. We strongly support the
 independent British and French nuclear deterrent
 forces and their continued modernization.
 
+1 0
+
+
+
 The unification of Germany is coming about—by
 peaceful means, on the basis of democracy, and in
 the framework of the Western relationships that have
@@ -896,7 +956,7 @@ Alliance and the European Community, as all of us
 seek to foster the conditions for wider reconciliation
 in Europe.
 
-As the European—American relationship shifts, frictions
+As the European-American relationship shifts, frictions
 can arise. Statesmanship will be needed to ease them.
 The challenges that the Western democracies face in
 this environment, however, are challenges to wise
@@ -908,7 +968,6 @@ accordance with our values and our vision of the
 future.
 
 Eastern Europe
-
 The United States and its allies are dedicated to
 overcoming the division of Europe. All the countries
 of Eastern Europe are entitled to become part of the
@@ -932,11 +991,11 @@ end only when Europe is whole again.
 We share with our allies a vision of Europe whole
 and free:
 
-- We believe democratic institutions and values will
+• We believe democratic institutions and values will
 be the core of the new Europe, as it is these
 institutions and values that today stand vindicated.
 
-' Even as fundamental political changes are still
+• Even as fundamental political changes are still
 evolving, we place high priority on moving rapidly
 to a level of forces lower and more stabilizing, with
 greater openness for military activities.
@@ -954,28 +1013,21 @@ such as espionage, illicit technology transfer,
 terrorism, and subversion in the Third World.
 
 In November—as an investment in our own security
-as well as in the freedom and well—being of the
+as well as in the freedom and well-being of the
 peoples of Eastern Europe—I signed into law
 legislation authorizing $938 million in assistance
-
 to support democracy in Poland and Hungary. In my
 FY 1991 budget I have proposed an additional
-
 $300 million as we begin to expand our program to
 encompass other new East European democracies.
 In addition, we have offered our best advice
-
 and expertise in support of economic reform,
-
 trade liberalization, labor market reforms,
-
 private sector development, and environmental
 protection. This marks a major and positive
-
 step in bipartisan foreign policy and underscores
 the strength of the American commitment to assist
 Eastern Europe's historic march toward
-
 freedom.
 
 We will also look to the Conference on Security and
@@ -985,16 +1037,16 @@ choose their destiny under a rule of law with rulers
 who are democratically accountable. We suggested
 last year that we expand the CSCE human rights
 basket to include standards for democratic
-
 pluralism and free elections, and that we breathe new
 life into the economic dimension of CSCE by
 focusing on the practical problems of the transition
 from stagnant planned economies to free and
 competitive markets. The time is ripe for such
-
 steps.
 
 11
+
+
 
 The Western Hemisphere
 
@@ -1010,7 +1062,7 @@ collective security, social peace, and economic
 progress. The resurgence of democracy supports these
 objectives, and strengthens our natural unity just as
 another traditional stimulus to solidarity—fear of an
-extra—hemispheric threat—is receding. In a new era,
+extra-hemispheric threat—is receding. In a new era,
 our hemispheric policy seeks a new spirit of mature
 partnership.
 
@@ -1027,7 +1079,7 @@ Salvadoran government's military and political efforts
 to defeat the Communist insurgency.
 
 Central America remains a disruptive factor in the
-U.S.—Soviet relationship. We hold the Soviet Union
+U.S.-Soviet relationship. We hold the Soviet Union
 accountable for the behavior of its clients, and believe
 that Soviet cooperation in fostering democracy in the
 region is an important test of the new thinking in
@@ -1036,7 +1088,7 @@ Soviet policy.
 We will find new ways to cooperate with our two
 closest neighbors, Canada and Mexico. We strongly
 support the new democratic government in Panama,
-which is also the best long—term guarantee of the
+which is also the best long-term guarantee of the
 security and efficient operation of the Panama Canal.
 We will continue to seek a transition to democracy in
 Haiti, promoting international efforts in support of free
@@ -1045,8 +1097,6 @@ America will put new emphasis on our efforts to
 support professional, apolitical militaries. We will also
 confront the challenge to democracy posed by the
 drug trade and debt problems.
-
-12
 
 East Asia and the Pacific
 
@@ -1081,7 +1131,7 @@ angry isolation would harm all of these prospects.
 The U.S. security commitment to the Republic of
 Korea remains firm; we seek a reduction in tensions
 on the Korean peninsula and fully endorse Seoul's
-efforts to open a fruitful South—North dialogue. Our
+efforts to open a fruitful South-North dialogue. Our
 strong and healthy ties with our ally Australia
 contribute directly to regional and global stability. The
 Association of Southeast Asian Nations (ASEAN)
@@ -1094,10 +1144,14 @@ people true peace and a government they have freely
 chosen.
 
 As we have amply demonstrated, we support the
-Philippines‘ democratic institutions and its efforts to
+Philippines' democratic institutions and its efforts to
 achieve prosperity, social progress, and internal
 security. We will negotiate with the Philippines in
 good faith on the status of our military facilities there.
+
+12
+
+
 
 These facilities support a continued and needed
 American forward presence that benefits us, the
@@ -1105,7 +1159,6 @@ Philippines, regional security, and global stability.
 
 The Middle East and
 South Asia
-
 The free world's reliance on energy supplies from this
 pivotal region and our strong ties with many of the
 region's countries continue to constitute important
@@ -1119,13 +1172,13 @@ moved in other respects in more constructive
 directions.
 
 The Middle East is a vivid example, however, of a
-region in which, even as East—West tensions diminish,
+region in which, even as East-West tensions diminish,
 American strategic concerns remain. Threats to our
 interests—including the security of Israel and
 moderate Arab states as well as the free flow of oil—
 come from a variety of sources. In the 1980s, our
 military engagements—in Lebanon in 1983-84, Libya
-in 1986, and the Persian Gulf in l987—88—were in
+in 1986, and the Persian Gulf in 1987-88—were in
 response to threats to U.S. interests that could not be
 laid at the Kremlin's door. The necessity to defend our
 interests will continue.
@@ -1133,7 +1186,7 @@ interests will continue.
 Therefore, we will maintain a naval presence in the
 eastern Mediterranean Sea, the Persian Gulf, and the
 Indian Ocean. We will conduct periodic exercises
-and pursue improved host—nation support and
+and pursue improved host-nation support and
 prepositioning of equipment throughout the region. In
 addition, we will discourage destabilizing arms sales
 to regional states, especially where there is the
@@ -1155,21 +1208,20 @@ democracy to Pakistan and the trends of economic
 liberalization in both countries. We will seek to
 maintain our special relationship with our traditional
 ally Pakistan, steadily improve our relations with
-India, and encourage Indo—Pakistani rapprochement
+India, and encourage Indo-Pakistani rapprochement
 and a halt to nuclear proliferation. While we
 welcome the withdrawal of Soviet military forces from
 Afghanistan, the massive and continuing Soviet arms
 supply to the illegitimate regime in Kabul reinforces
 the need for continued U.S. support to the
-Mujahiddin in their quest for self—determination for
+Mujahiddin in their quest for self-determination for
 the Afghan people. We remain firmly committed to a
 comprehensive political settlement as the best means
-of achieving Afghan self—determination and regional
+of achieving Afghan self-determination and regional
 security.
 
 Africa
-
-Institution—building, economic development, and
+Institution-building, economic development, and
 regional peace are the goals of our policy in Africa.
 The global trends of democracy must come to Africa
 too. All these goals must be achieved if Africa is to
@@ -1180,7 +1232,7 @@ region of enormous human potential.
 
 In the strategic dimension, the United States has
 pressed hard throughout the 1980s for the liquidation
-of all the SovieUCuban military interventions in Africa
+of all the Soviet/Cuban military interventions in Africa
 left over from the 1970s. The New York Accords of
 December, 1988, were the culmination of an eight-
 year U.S. effort for peace in Angola, and independ-
@@ -1188,11 +1240,11 @@ ence for Namibia. As a result, Cuban forces are
 departing Angola, and Namibia will become
 independent on March 21st. In the Horn of Africa,
 the United States has encouraged negotiated solutions
-to the region's conﬂicts.
+to the region's conflicts.
 
 In the economic dimension, the United States will
 continue to advocate reforms that eliminate wasteful
-and unproductive state—owned enterprises and that
+and unproductive state-owned enterprises and that
 liberate the productive private sector and individual
 initiative. The United States has significantly increased
 the assistance it provides through our Development
@@ -1201,15 +1253,15 @@ of humanitarian aid and have helped international
 
 13
 
+
+
 organizations and voluntary associations to distribute
 food, medicines, and other assistance.
 
 We continue to press for a rapid and complete end to
 South Africa's system of apartheid. We support negoti-
-ations leading to a democratic, non—racial South Africa
-that would enhance long—term stability in the country
-
-14
+ations leading to a democratic, non-racial South Africa
+that would enhance long-term stability in the country
 
 and the region. We are encouraged by the progress
 that has been made, particularly the release of Nelson
@@ -1218,8 +1270,11 @@ We look to all parties to continue to take the steps
 necessary to create a climate in which productive
 negotiations can take place.
 
-IV. Relating Means to Ends:
+14
 
+
+
+IV. Relating Means to Ends:
 Our Political Agenda
 
 The elements of our national power—diplomatic and
@@ -1229,20 +1284,20 @@ instruments of policy will change in changing
 circumstances. Our most difficult decisions will
 include not only which military forces or programs to
 adjust, increase, reduce or eliminate, but also which
-risks can be ameliorated by means otherthan military
-capabi|ity—means like negotiations, burdensharing,
+risks can be ameliorated by means other than military
+capability—means like negotiations, burdensharing,
 economic and security assistance, economic leverage,
 and political leadership.
 
 In a new era, we foresee that our military power will
-remain an essential underpinning ofthe global bal-
+remain an essential underpinning of the global bal-
 ance, but less prominently and in different ways. We
-see that the more likely demands forthe use of our
+see that the more likely demands for the use of our
 military forces may not involve the Soviet Union and
 may be in the Third World, where new capabilities
 and approaches may be required. We see that we
 must look to our economic well-being as the
-foundation of our long—term strength. And we can see
+foundation of our long-term strength. And we can see
 that, especially in the new international environment,
 political will and effective diplomacy can be what
 translates national power into the achievement of
@@ -1278,28 +1333,30 @@ responsibilities of global leadership.
 Arms Control
 
 Arms control is a means, not an end; it is an
-important component of a broader policy to enhance
+i mportant component of a broader policy to enhance
 national security. We will judge arms control
 agreements according to several fundamental criteria:
 
-- First, agreements must add to our security. Our
+• First, agreements must add to our security. Our
 objective is to reduce the incentives, even in crisis,
 to initiate an attack. Thus, we seek-not reductions
-for reductions’ sake, but agreements that will
+for reductions' sake, but agreements that will
 promote stability. We will work to reduce the
 capabilities most suited for offensive action or pre-
 emptive strike.
 
-- Second, to enhance stability, we favor agreements
+• Second, to enhance stability, we favor agreements
 that lead to greater predictability in the size, nature,
 and evolution of military forces. Predictability
-through openness expands the traditional focus of.
+through openness expands the traditional focus of .
 arms control beyond just military capabilities and
 addresses the fear of aggressive intent.
 
 15
 
-' Third, agreements are effective only if we can
+
+
+• Third, agreements are effective only if we can
 verify compliance. As we broaden our agenda to
 include issues like chemical and missile
 proliferation, verification will become an
@@ -1307,7 +1364,7 @@ increasingly difficult challenge, but effective
 verification will still be required. We want
 agreements that can endure.
 
-' Finally, since the security of the United States is
+• Finally, since the security of the United States is
 indivisible from that of its friends and allies, we
 will insist that any arms control agreements not
 compromise allied security.
@@ -1316,27 +1373,28 @@ The arms control accomplishments of the past twelve
 months are impressive. We have already reached a
 number of new agreements with the Soviet Union on:
 
-' prevention of dangerous military activities;
-' advance notification of strategic exercises;
+• prevention of dangerous military activities;
 
-' clarification of the rights of innocent passage in
+• advance notification of strategic exercises;
+
+• clarification of the rights of innocent passage in
 territorial seas;
 
-' a memorandum of understanding implementing
+• a memorandum of understanding implementing
 verification provisions of the INF Treaty;
 
-' trial verification and stability measures for Strategic
+• trial verification and stability measures for Strategic
 Arms Reduction Talks (START);
 
-' reciprocal demonstrations of each side's proposed
-procedures for verifying re—entry vehicles on
+• reciprocal demonstrations of each side's proposed
+procedures for verifying re-entry vehicles on
 ballistic missiles;
 
-' reciprocal exhibitions of strategic bombers to aid
+• reciprocal exhibitions of strategic bombers to aid
 verification; and
 
-' demonstrations of proposed "unique identifiers" or
-"tags" for ballistic—missile verification.
+• demonstrations of proposed "unique identifiers" or
+"tags" for ballistic-missile verification.
 
 These are but the beginning. Our arms control agenda
 is now broader than ever—beyond the traditional East-
@@ -1348,11 +1406,8 @@ patiently and seriously, but we will not seek agree-
 ment for agreement's sake, nor compromise the basic
 principles set forth above.
 
-16
-
-Strategic A rms Reduction Talks
+Strategic Arms Reduction Talks
 (START)
-
 In START, our goals are not merely to reduce forces
 but to reduce the risk of nuclear war and create a
 more stable nuclear balance. Our proposals are
@@ -1366,7 +1421,6 @@ out a disarming first strike. Our goal is to resolve all
 substantive START issues by the June 1990 Summit.
 
 Defense and Space
-
 Our approach to this set of issues, as well, is to
 enhance strategic stability by facilitating a cooperative
 transition to a stable balance of offensive and
@@ -1376,14 +1430,13 @@ in approaches to strategic defense, and have proposed
 regular exchanges of data, briefings, visits to
 laboratories, and observations of tests.
 
-Conventional A rmed Forces in Europe
+Conventional Armed Forces in Europe
 (CFE)
-
 The United States is firmly committed to reaching an
 agreement to reduce conventional armed forces in
 Europe to lower levels in order to enhance security
 and stability and to reduce the ability to launch a
-surprise attack or sustain large—scale offensive
+surprise attack or sustain large-scale offensive
 operations. Our goal is to complete the CFE Treaty as
 soon as possible this year. In my State of the Union
 speech, in response to rapid changes in Europe, I
@@ -1393,7 +1446,6 @@ Eastern Europe—to 195,000 troops. This proposal has
 been accepted.
 
 Chemical Weapons
-
 The Conference on Disarmament in Geneva continues
 to work toward a global ban of chemical weapons,
 using as the basis for its negotiations the draft text
@@ -1401,6 +1453,10 @@ that I personally presented for the United States in
 1984. It is one of my most important goals to see an
 effective, truly global ban of chemical weapons—their
 production and possession, as well as their use. At
+
+16
+
+
 
 the United Nations and at Malta, I made several
 suggestions and challenges to speed this negotiation
@@ -1417,7 +1473,6 @@ proliferation of these instruments of indiscriminate
 destruction.
 
 Open Skies
-
 An important step in achieving predictability through
 openness is the Open Skies initiative I made last May,
 which would allow frequent unarmed observation
@@ -1431,21 +1486,19 @@ initiative, and foreign ministers from NATO and the
 Warsaw Pact have met in Ottawa to begin negotiating
 an agreement.
 
-Confidence— and Security -B uilding
+Confidence- and Security-Building
 Measures
-
 These negotiations in Vienna are another important
 opportunity to enhance free world security through a
 variety of measures to codify openness and
 transparency in military operations and force
 structures. The recently completed seminar on military
 doctrine is a powerful example of how this forum can
-generate valuable exchanges among high—ranking
+generate valuable exchanges among high-ranking
 military officers and open up new avenues of
 understanding.
 
 Nuclear Testing
-
 The United States and the Soviet Union are on the
 verge of completing new verification protocols to the
 1974 Threshold Test Ban and the 1976 Peaceful Nu-
@@ -1455,10 +1508,9 @@ which I expect to be signed at the June 1990
 
 Summit—involve new, complex, and unprecedented
 techniques for effective verification, including direct,
-on—site measurement of explosive yield.
+on-site measurement of explosive yield.
 
 Proliferation
-
 The spread of ever more sophisticated weaponry—
 including chemical, biological, and nuclear
 weapons—and of the missiles capable of carrying
@@ -1474,21 +1526,19 @@ includes stringent controls and multilateral
 cooperation designed to stop the spread of these
 technologies and components. We will work to
 strengthen the International Atomic Energy Agency,
-the Nuclear Non—Proliferation Treaty, and the Missile
+the Nuclear Non-Proliferation Treaty, and the Missile
 Technology Control Regime. We will also use
 diplomacy and economic and security assistance to
 address the underlying causes of tension or insecurity
 that lead countries to seek advanced weaponry.
 
 Naval Forces
-
 The Soviet Union has urged that we negotiate
-
-lj mitations on naval forces. We have rejected this pro-
+li mitations on naval forces. We have rejected this pro-
 posal for reasons grounded in the fundamental
 realities of the free world's strategic interests.
 
-The economics of the United States and its major
+The economies of the United States and its major
 allies depend so vitally on trade, and on the security
 of sea lines of communication, that we have always
 defined a vital interest in freedom of the seas for all
@@ -1503,17 +1553,18 @@ coastal defense—or of denial of our ability to defend
 our vital interests. There is no symmetry here.
 
 Nor is our naval power to be equated with the Soviet
-ground—force superiority that we are determined to
+ground-force superiority that we are determined to
 reduce—a superiority that in its very nature, scope,
 
 17
+
+
 
 and composition has posed an offensive threat. No
 navy could pose such a threat to the Soviet Union.
 
 The Contest of Ideas and the
 Nurturing of Democracy
-
 Since the end of World War II, the United States has
 developed and maintained an extensive program of
 public information around the world—through U.S.
@@ -1531,8 +1582,8 @@ significantly to the changes now taking place in the
 Soviet Union, Eastern Europe, and elsewhere.
 
 The American message of democracy, respect for
-human rights, and the free ﬂow of ideas is as crucial
-and inspiring today as it was forty—five years ago. The
+human rights, and the free flow of ideas is as crucial
+and inspiring today as it was forty-five years ago. The
 truth we provide remains a stimulus to openness. In
 the coming decade, we will have to project American
 values and protect American interests on issues of
@@ -1540,7 +1591,7 @@ growing global importance, such as the battle against
 narcotics trafficking and the search for solutions to
 international environmental problems.
 
-An American initiative begun in the l980s—the
+An American initiative begun in the 1980s—the
 National Endowment for Democracy—has broken new
 ground, mobilizing the private efforts of our political
 parties, labor unions, businesses, educational and
@@ -1558,41 +1609,41 @@ Our foreign assistance has traditionally supported our
 18
 
 security objectives by strengthening allies and friends,
-bolstering regional security, deterring conﬂict, and
+bolstering regional security, deterring conflict, and
 securing base rights and access.
 
-As East—West tensions diminish, these political and
+As East-West tensions diminish, these political and
 economic instruments become more centrally relevant
 to an era of new challenges:
 
-' A multipolar world, in which military factors may
+• A multipolar world, in which military factors may
 recede to the background, puts a new premium on
 the instrumentalities of political relations—of which
 foreign assistance has been one of the most cost-
 effective and valuable.
 
-' In a new era, nurturing democracy and stability
+• In a new era, nurturing democracy and stability
 remains a basic goal, but one now freed from its
 traditional Cold War context. Foreign assistance is
 an indispensable means toward this end.
 
-' Economic and humanitarian goals—such as
-promoting market—oriented structural reforms in
+• Economic and humanitarian goals—such as
+promoting market-oriented structural reforms in
 Eastern Europe and the developing world, or aiding
 refugees and disaster victims —will also loom larger
 than before. This is a responsibility we need to
 share with international financial institutions and
 prosperous allies, but we need to do our part.
 
-' As regional conflicts are resolved, United Nations
+• As regional conflicts are resolved, United Nations
 peacekeeping takes on additional tasks—and will
-have a claim on our support. As for those conﬂicts
+have a claim on our support. As for those conflicts
 that continue to fester, security assistance can re-
 duce the level or likelihood of a direct U.S. role in
 bolstering regional security.
 
-' On problems such as drugs, the environment,
-terrorism, or the proliferation of high—tech
+• On problems such as drugs, the environment,
+terrorism, or the proliferation of high-tech
 weaponry, U.S. aid remains a valuable tool of
 policy.
 
@@ -1600,7 +1651,7 @@ These policy instruments in our International Affairs
 budget have always struggled for survival in the
 congressional budget process. Low funding and
 excessive earmarking and conditionality have
-hampered ﬂexibility. In the 1990s, we will need to do
+hampered flexibility. In the 1990s, we will need to do
 justice to the growing needs of the emerging East
 European democracies without validating the fears of
 our Third World friends that they will be relegated to
@@ -1608,12 +1659,13 @@ second place. A national security strategy that takes us
 beyond containment needs these tools more than
 ever.
 
-Military Openness
 
+
+Military Openness
 In addition to the confidence-building measures
 discussed above, our policy seeks other ways of
-changing East—West military relations toward our goal
-of greatertransparency. A prudent program of
+changing East-West military relations toward our goal
+of greater transparency. A prudent program of
 military-to-military contacts can demonstrate the
 capabilities of our forces while allowing us greater
 access to and understanding of the military
@@ -1626,7 +1678,7 @@ As the Soviet political system evolves, we hope that
 Soviet military power will increasingly be subject to
 
 detailed and searching public debate. In the long
-term, a Soviet military that mustjustify its size,
+term, a Soviet military that must justify its size,
 mission, and resource demands to the Soviet public
 and legislature will find it more difficult to enhance
 its capabilities beyond the legitimate needs of de-
@@ -1644,6 +1696,8 @@ officers of these states establish a professional identity
 independent of their roles in the Warsaw Pact.
 
 19
+
+
 
 V. Relating Means to Ends:
 Our Economic Agenda
@@ -1664,7 +1718,7 @@ enhanced cooperation among the major industrial
 countries, and imaginative solutions to the problems
 of the Third World.
 
-Global imbalances
+Global Imbalances
 
 Japan and Germany continue to run substantial trade
 and current account surpluses; the United States has
@@ -1674,11 +1728,11 @@ given high priority to reducing these imbalances. For
 deficit countries like the United States, this requires
 action to reduce budget deficits and encourage private
 savings. The surplus countries like Germany and Japan
-should, fortheir part, pursue macro-economic policies
+should, for their part, pursue macro-economic policies
 and structural reforms to encourage non-inflationary
 growth. Through the G-7 and economic summits, we
 will strengthen coordination and ensure
-implementation of appropriate policies for non-
+i mplementation of appropriate policies for non-
 inflationary growth and expanded trade.
 
 Debt
@@ -1696,10 +1750,10 @@ suggestions to revitalize the international debt strategy
 through reductions in commercial bank debt and debt
 service payments, as a complement to new lending.
 The International Monetary Fund and the World Bank
-will provide financial support forthese efforts. As an
+will provide financial support for these efforts. As an
 essential first step in obtaining this support, we are
 urging debtors to adopt medium-term economic
-programs—inc|uding measures to strengthen domestic
+programs—including measures to strengthen domestic
 savings, steps to attract foreign investment, and
 policies that promote the return of flight capital.
 
@@ -1714,16 +1768,18 @@ Current account and trade deficits are macroeconomic
 
 21
 
+
+
 phenomena that primarily reflect domestic savings
 and investment. The imbalance between the U.S.
 saving rate and the higher U.S. investment rate is,
 therefore, the fundamental source of the U.S. trade
-deficit. The net capital inﬂow into the United States,
+deficit. The net capital inflow into the United States,
 which is necessary to finance the deficit, must be
 matched by a corresponding increase in imports to
 the United States over exports to other countries. The
 key to reducing the deficit, therefore, is to increase
-domestic saving, thus closing the savings—investment
+domestic saving, thus closing the savings-investment
 gap and reducing import demand. We have proposed
 a comprehensive Savings and Economic Growth Act
 to raise household savings which will help to restore
@@ -1738,15 +1794,14 @@ bring to a successful conclusion this year the Uruguay
 Round of Multilateral Trade Negotiations now
 addressing issues crucial to our interests, including
 agricultural subsidies, services, the protection of
-intellectual property, trade—related investment
+intellectual property, trade-related investment
 measures, and market access. These are the trade
 problems of the 1990s that require solution if we are
 to maintain a domestic consensus in support of free
 and open trade.
 
 Given the continuing strategic importance of unity
-
-among the industrial —democracies, it is essential that
+among the industrial -democracies, it is essential that
 trade disputes be resolved equitably, without tearing
 the fabric of vital political and security partnerships.
 
@@ -1763,8 +1818,6 @@ foreign markets. The loss of advanced production
 capabilities in key industries could place our
 manufacturing base in jeopardy.
 
-22
-
 The dynamics of the technological revolution
 transcend national boundaries. The transfer of
 technology between allies and friends has benefitted
@@ -1777,15 +1830,15 @@ not be exploited to threaten our security. With our
 partners in the Coordinating Committee for
 Multilateral Export Controls (COCOM), we must
 continue to work to ensure that militarily sensitive
-technology does not ﬂow to potential adversaries. At
+technology does not flow to potential adversaries. At
 the same time, we must adapt the procedures and
-lists of COCOM—controlled goods to support rapid
+lists of COCOM-controlled goods to support rapid
 political and economic change in Eastern Europe. In
 that regard, our task is threefold: (a) streamline
 COCOM controls on strategic goods and
 technologies; (b) harmonize and tighten national
 licensing and enforcement procedures; and (c)
-encourage greater cooperation with non—COCOM
+encourage greater cooperation with non-COCOM
 developing countries. We have also initiated a
 comprehensive analysis of the changing strategic
 threat, which will be instrumental in deciding on
@@ -1812,8 +1865,11 @@ renewables), and devote greater attention to reducing
 fossil fuel emissions in light of growing environmental
 concerns.
 
-VI. Relating Means to Ends:
+22
 
+
+
+VI. Relating Means to Ends:
 Our Defense Agenda
 
 One reason for the success of America's grand strategy
@@ -1822,7 +1878,7 @@ component of that strategy has been adjusted to
 changing threats and available military technology, but
 there too substantial continuity remains:
 
-- Deterrence: Throughout the postwar period we have
+• Deterrence: Throughout the postwar period we have
 deterred aggression and coercion against the United
 States and its allies by persuading potential adver-
 saries that the costs of aggression, either nuclear or
@@ -1831,14 +1887,14 @@ conventional, would exceed any possible gain.
 options for direct defense, the threat of escalation,
 and the threat of retaliation.
 
-- Strong Alliances: Shared values and common
+• Strong Alliances: Shared values and common
 security interests form the basis of our system of
 collective security. Collective defense arrangements
 allow us to combine our economic and military
 strength, thus lessening the burden on any one
 country.
 
-- Forward Defense: In the postwar era, the defense of
+• Forward Defense: In the postwar era, the defense of
 these shared values and common interests has
 required the forward presence of significant
 American military forces in Europe, in Asia and the
@@ -1847,10 +1903,10 @@ capability, with our allies, for early, direct defense
 against aggression and serve as a visible reminder
 of our commitment to the common effort.
 
-- Force Projection: Because we have global security
+• Force Projection: Because we have global security
 interests, we have maintained ready forces in the
 United States and the means to move them to
-reinforce our units forward deployed orto project
+reinforce our units forward deployed or to project
 power into areas where we have no permanent
 presence. For the threat of protracted conflict we
 have relied on the potential to mobilize the
@@ -1864,7 +1920,7 @@ effective, survivable, and enduring. Together they have
 formed the essence of our defense policy and military
 strategy during the postwar era.
 
-The rebuilding ofAmerica's military strength during
+The rebuilding of America's military strength during
 the past decade was an essential underpinning to the
 positive change we now see in the international
 environment. Our challenge now is to adapt this
@@ -1875,20 +1931,19 @@ new and more complex opportunities and challenges
 before us.
 
 Overall Priorities
-
 From the weapons, forces, and technologies that will
 be available, we will have to pick carefully those that
 best meet our needs and support our strategy in a
 new period. Our approach will include the following
 elements:
 
-- Deterrence of nuclear attack remains the
+• Deterrence of nuclear attack remains the
 cornerstone of U.S. national security. Regardless of
-improved U.S.—Soviet relations and potential arms
-control agreements, the Soviets’ physical ability to
+i mproved U.S.-Soviet relations and potential arms
+control agreements, the Soviets' physical ability to
 initiate strategic nuclear warfare against the United
 States will persist and a crisis or political change in
-the Soviet Union could occur fasterthan we could
+the Soviet Union could occur faster than we could
 rebuild neglected strategic forces. A START
 agreement will allow us to adjust how we respond
 to the requirements of deterrence, but tending to
@@ -1897,7 +1952,9 @@ defense strategy.
 
 23
 
-- As we'and our allies adjust our military posture,
+
+
+• As we'and our allies adjust our military posture,
 each should emphasize retaining those roles it is
 uniquely or better able to fulfill. For the United
 States, these include nuclear and space forces,
@@ -1905,24 +1962,24 @@ advanced technologies, strategic mobility, a
 worldwide presence, power projection, and a
 secure mobilization base.
 
-- As a country separated from many of its allies and
+• As a country separated from many of its allies and
 areas of interest by vast distances, we will ensure
 we have those forces needed to control critical sea
 and air lines of communication in crisis and war.
 
-- U.S. technological superiority has long been a
+• U.S. technological superiority has long been a
 powerful contributor to deterrence. To retain this
 edge, we will sustain our investment in research
 and development as an important hedge against an
 uncertain future.
 
-- We remain committed to the doctrine of
+• We remain committed to the doctrine of
 competitive strategies. I reaffirm the wisdom of
 exploiting American strengths in a systematic way,
 moving Soviet investment into areas that threaten
 us less or negating systems that threaten us most.
 
-- Defense investment faces a dual challenge: to
+• Defense investment faces a dual challenge: to
 maintain sufficient forces to deter general war while
 also giving us forces that are well suited for the
 more likely contingencies of the Third World.
@@ -1931,9 +1988,9 @@ both environments but, where necessary, we will
 develop the weaponry and force structure needed
 for the special demands of the Third World even if
 it means that some forces are less optimal for a
-conﬂict on the European central front.
+conflict on the European central front.
 
-- As we make fundamental changes in our military
+• As we make fundamental changes in our military
 forces, we will preserve a capacity for reversibility.
 This will affect decisions on a variety of issues and
 may, in the short run, reduce the amount of savings
@@ -1942,15 +1999,11 @@ against future uncertainty, which it is my moral and
 constitutional duty to provide.
 
 Deterring Nuclear War
-
 Strategic Offensive Forces
-
 The Soviet Union continues to modernize its strategic
 forces across the board. Even as START promises to
 reduce numbers substantially, the qualitative
 competition has not ended.
-
-24
 
 Decisions on strategic modernization that I have
 already made take advantage of the most promising
@@ -1958,17 +2011,17 @@ technologies in each leg of our Triad to increase
 stability. The B-2 bomber will ensure our ability to
 penetrate Soviet defenses and fulfill the role the
 bomber force has played so successfully for forty
-years. The D—5 missile in Trident submarines will
+years. The D-5 missile in Trident submarines will
 exploit the traditionally high survivability of this leg
 and add a significant ability to attack more hardened
-targets. In a two—phase program for our ICBM force,
+targets. In a two-phase program for our ICBM force,
 the deployment of the Rail Garrison System will
 enhance stability by removing Peacekeeper missiles
 from vulnerable silos and providing the mobile
 capability we need for the near term. In the second
-phase, deployment of the small ICBM road—mobile
+phase, deployment of the small ICBM road-mobile
 system will further strengthen stability and increase
-force ﬂexibility.
+force flexibility.
 
 While we will ensure that each leg of the Triad is as
 survivable as possible, the existence of all three
@@ -1977,26 +2030,25 @@ surprise attack and guards against a technological
 surprise that could undermine a single leg.
 
 Strategic Defenses
-
 Flexible response and deterrence through the threat of
 retaliation have preserved the security of the United
 States and its allies for decades. Looking to the future,
 the Strategic Defense Initiative offers an opportunity to
 shift deterrence to a safer and more stable basis
 through greater reliance on strategic defenses. In a
-new international environment, as ballistic—missile
-capabilities proliferate, defense against third—country
+new international environment, as ballistic-missile
+capabilities proliferate, defense against third-country
 threats also becomes an increasingly important
 benefit.
 
 The deterrent value of strategic defenses derives from
 the effect they would have on an adversary's calcula-
-tions. Even an initial deployment would inﬂuence an
+tions. Even an initial deployment would influence an
 attacker's calculation by diminishing his confidence in
 his ability to execute an effective attack. Initial strate-
 gic defenses would also offer the United States and its
 allies some protection should deterrence fail or in the
-event of an accidental launch. Follow—on deployments
+event of an accidental launch. Follow-on deployments
 incorporating more advanced technologies could
 provide progressively more capable defenses, even in
 the face of countermeasures.
@@ -2004,13 +2056,17 @@ the face of countermeasures.
 We continue to seek with the Soviet Union a
 cooperative transition to deployed defenses and
 
+24
+
+
+
 reductions in strategic offensive arms. Strategic
 defenses can protect our security against possible
 violations of agreements to reduce strategic offensive
 weapons.
 
 The Soviets have stated that they are no longer
-making completion and implementation ofa START
+making completion and implementation of a START
 treaty contingent on a Defense and Space Agreement
 restricting SDI. A START Treaty should stand on its
 own merits and we will preserve our right to conduct
@@ -2022,14 +2078,13 @@ greater reliance on stability-enhancing, cost-effective
 strategic defenses.
 
 Theater Nuclear Forces
-
 The Atlantic Alliance has consistently followed the
 principle of maintaining survivable and credible thea-
 ter nuclear forces to ensure a robust deterrent, to
 execute its agreed strategy of flexible response—and
 to "couple" European defense to the strategic nuclear
-guarantee ofthe United States. At the same time, we
-have always pursued a nuclearforce that is as small
+guarantee of the United States. At the same time, we
+have always pursued a nuclear force that is as small
 as is consistent with its tasks and objectives. Indeed,
 NATO has unilaterally reduced its theater nuclear
 weapons by over one-third during the past decade—
@@ -2038,14 +2093,13 @@ nuclear weapons eliminated by the INF Treaty. As
 requirements change, we will continue to ensure that
 our posture provides survivability and credibility at
 the lowest possible levels. The United States believes
-that forthe foreseeable future, even in a new
+that for the foreseeable future, even in a new
 environment of reduced conventional forces and
 changes in Eastern Europe, we will need to retain
-modern nuclearforces in-theater.
+modern nuclear forces in-theater.
 
 Command, Control and
 Communications
-
 Another basic element of deterrence is the security of
 our command and control, enhancing the certainty of
 retaliation. In addition, we maintain programs to
@@ -2056,7 +2110,7 @@ political and military leadership will fail.
 
 Deterring Conventional War
 
-It is clearthat the United States must retain the full
+It is clear that the United States must retain the full
 range of conventional military capabilities,
 appropriately balanced among combat and support
 elements, U.S.- and forward-based forces, active and
@@ -2070,7 +2124,6 @@ appropriate to the demands of likely conflicts.
 
 Forward Defense through Forward
 Presence
-
 American leadership in the postwar world and our
 commitment to the forward defense of our interests
 and those of our allies have been underwritten by the
@@ -2088,7 +2141,7 @@ efforts. But our forward presence will remain a critical
 part of our defense posture for the foreseeable future.
 Our overseas bases serve as an integral part of our
 alliances and foster cooperation against common
-threats. There is no better assurance ofa U.S. security
+threats. There is no better assurance of a U.S. security
 commitment than the presence of U.S. forces.
 
 There are growing pressures for change in our global
@@ -2097,13 +2150,15 @@ at home over an inequitable sharing of the defense
 burden, and others in host countries emanate from
 nationalism, anti-nuclear sentiment, environmental
 and social concerns and honestly divergent interests.
-Operational restrictions on ourforces overseas are
+Operational restrictions on our forces overseas are
 also increasing, some of which we can accommodate
 with new training and technologies, but others of
 which may eventually reduce the readiness of our
 deployed units.
 
 25
+
+
 
 In Europe:the overall level and specific contribution
 of U.S. forces are not etched in stone, but we will
@@ -2142,10 +2197,9 @@ makes a limited contribution to our strategy.
 
 Sharing the Responsibilities of
 Collective Defense
-
 The success of our postwar strategy has enabled allied
-and friendly nations’ economies and societies to
-ﬂourish. We now look to them to assume a greater
+and friendly nations' economies and societies to
+flourish. We now look to them to assume a greater
 share in providing for our common security. Our
 efforts in this regard will be integrated with our plans
 for future force structure, weapons modernization, and
@@ -2157,9 +2211,7 @@ calculate defense burdens and more about increasing
 overall capabilities. One promising approach is a
 greater commitment to national specialization, an
 
-26
-
-improved intra—alliance division of labor based on the
+improved intra-alliance division of labor based on the
 comparative advantages of different allies in different
 defense activities. Such an approach could reduce the
 impact of budget constraints being felt by us all.
@@ -2173,7 +2225,7 @@ less capable models) may give us opportunities for
 greater efficiencies and new forms of Alliance
 cooperation. These are complex issues, however, and
 any steps will have to be sensitive to issues of
-national sovereignty and based on an Alliance—wide
+national sovereignty and based on an Alliance-wide
 consensus.
 
 As a part of burdensharing, the United States will
@@ -2181,25 +2233,24 @@ continue to ask our economically stronger allies to
 increase aid to other Alliance members and to
 friendly Third World countries. As another element of
 burdensharing, the United States will work with allies
-to broaden the regional role of our forward—deployed
+to broaden the regional role of our forward-deployed
 forces. This will help us deal with the challenge of
 maintaining sufficient forces for local defense and the
 forces for likely contingencies elsewhere—a challenge
 that will grow as defense resources become more
 constrained. In support of this objective, we will make
-forward—deployed forces more mobile and ﬂexible so
+forward-deployed forces more mobile and flexible so
 they can assume broader regional responsibilities in
 addition to deterring attack in the country in which
 they are located.
 
 Forces for the Third World
-
 Since World War II, the threat posed by the Soviet
 Union has dominated much of our planning for the
 Third World. But we have also worked to preserve
 peace and build democracy and we have long
 identified specific interests independent of a Soviet
-factor. In the future, we expect that non—Soviet threats
+factor. In the future, we expect that non-Soviet threats
 to these interests will command even greater attention.
 
 To the degree possible, we will support allied and
@@ -2209,8 +2260,12 @@ ther in concert with our allies or, if necessary,
 unilaterally where our vital interests are threatened.
 
 The growing technological sophistication of Third
-World conﬂicts will place serious demands on our
+World conflicts will place serious demands on our
 forces. They must be able to respond quickly, and
+
+26
+
+
 
 appropriately, as the application of even small
 amounts of power early in a crisis usually pays
@@ -2223,22 +2278,21 @@ immature basing structure, and significant ranges often
 encountered in the Third World. The logistics "tail" of
 deployed forces will also have to be kept to a
 minimum, as an overly large American presence
-could be self—defeating. These capabilities will
+could be self-defeating. These capabilities will
 sometimes be different from those of a force
-optimized for a conﬂict in Europe, and—as our
+optimized for a conflict in Europe, and—as our
 understanding of the threat there evolves—we will
 make the necessary adjustments.
 
 We will also try to involve other industrial
 democracies in preventing and resolving Third World
-conﬂicts. Some of our Atlantic allies have strong
+conflicts. Some of our Atlantic allies have strong
 political, economic, cultural, and military ties with
 Third World countries, and Japan provides
 considerable sums of aid. Their role will become
 even more important in the future.
 
 The Mobilization Base
-
 The United States has never maintained active forces
 in peacetime adequate for all the possible
 contingencies we could face in war. We have instead
@@ -2249,7 +2303,7 @@ active units.
 
 For almost two decades, our Total Force policy has
 placed a significant portion of our total military power
-in a well—equipped, well—trained, and early—mobilizing
+in a well-equipped, well-trained, and early-mobilizing
 reserve component. Various elements of that policy—
 the balance between active and reserve forces, the
 mix of units in the two components, the nature of
@@ -2262,7 +2316,7 @@ units is one alternative for reducing costs while still
 hedging against uncertainties. It is an alternative we
 must thoroughly explore, especially as we better
 understand the amount of warning time we can
-expect for a major conﬂict.
+expect for a major conflict.
 
 A credible industrial mobilization capability
 contributes to deterrence and alliance solidarity by
@@ -2271,13 +2325,12 @@ are able to meet our commitments. While important
 progress has been made in recent years, more can be
 done to preserve our ability to produce the weapons
 and equipment we need. Mobilization plans will also
-have to reﬂect our changing understanding of warning
+have to reflect our changing understanding of warning
 for a global war and develop graduated responses that
 will themselves signal U.S resolve and thus contribute
 to deterrence.
 
 Chemical Warfare
-
 Our primary goal is to achieve an effective, truly
 global ban on chemical weapons as soon as possible.
 Until such a ban is achieved, the United States will
@@ -2295,13 +2348,11 @@ retain a chemical weapons deterrent, we will ensure
 that it is as safe and effective as possible.
 
 Space
-
 The United States remains committed to the
 exploration and use of space for peaceful purposes
 and the benefit of all mankind, but international law
 and this commitment allow for activities to protect our
 national security. Our objectives for space mirror
-
 those which we have long held for the sea—to ensure
 free access for all in time of peace, but to be able to
 deny access to our enemies in time of war.
@@ -2316,7 +2367,9 @@ and treaty verification.
 
 27
 
-We will ‘also pursue scientific, technological, and
+
+
+We will • also pursue scientific, technological, and
 economic benefit—including encouraging private
 sector investment. We will promote international
 cooperative activities and work with others to
@@ -2341,7 +2394,7 @@ commitment to use space to address critical
 environmental problems on earth. The new Mission to
 Planet Earth program, a major part of a
 comprehensive research effort, will use space
-platforms to gatherthe data we need to determine
+platforms to gather the data we need to determine
 what changes are taking place in the global
 environment.
 
@@ -2349,11 +2402,11 @@ The National Space Council also provides a high-level
 focus for commercial space issues. Consistent with
 national security and safety, an expanding private
 sector role in space can generate economic benefits
-forthe nation.
+for the nation.
 
 Low-Intensity Conflict
 
-Even as the threat of East—West conflict may be
+Even as the threat of East-West conflict may be
 diminishing in a new era, lower-order threats like
 terrorism, subversion, insurgency, and drug trafficking
 are menacing the United States, its citizenry, and its
@@ -2365,8 +2418,6 @@ of conventional war. Poverty and the lack of political
 freedoms contribute to the instability that breeds such
 conflict. Our response must address these underlying
 conditions—but we cannot accept violence against
-
-28
 
 our interests, or even less against innocent civilians,
 as a legitimate instrument of anyone's policy. Nor can
@@ -2390,7 +2441,7 @@ and terrorism. Special Operations Forces have
 particular utility in this environment, but we will also
 pursue new and imaginative ways to apply flexible
 general purpose forces to these problems. We will
-improve the foreign language skills and cultural
+i mprove the foreign language skills and cultural
 orientation of our armed forces and adjust our
 intelligence activities to better serve our needs. Units
 with unique capabilities in this environment will
@@ -2401,7 +2452,7 @@ low-intensity conflict.
 Drug Trafficking
 
 The Department of Defense, as noted earlier, has an
-important role to play in our National Drug Control
+i mportant role to play in our National Drug Control
 Strategy in coordination with the Department of State
 and law enforcement agencies.
 
@@ -2419,6 +2470,10 @@ the resources needed to confront the insurgency
 threats that often are endemic to narcotics-producing
 regions.
 
+28
+
+
+
 A second line of defense involves the deployment of
 appropriate elements of the U.S. Armed Forces with
 the primary role of detecting and monitoring the
@@ -2426,8 +2481,8 @@ transportation of drugs to the U.S. border. The
 Secretary of Defense has directed several regional
 commanders to support these objectives with their
 own programs and operations. As a high priority, our
-military counter—narcotics deployments will focus on
-the ﬂow of drugs—especially cocaine—across the
+military counter-narcotics deployments will focus on
+the flow of drugs—especially cocaine—across the
 Caribbean, Central America, and Mexico toward the
 southern border of the United States. These
 deployments will support U.S. law enforcement
@@ -2454,16 +2509,15 @@ trafficking organizations. The United States is
 committed to such a sustained international effort.
 
 Intelligence Programs
-
 The extraordinary changes taking place in the world
 are posing an almost unprecedented challenge to our
 intelligence assets and programs.
 
-The changes in East—West relations point to a more
+The changes in East-West relations point to a more
 peaceful future. But—after four decades of
 confrontation—achieving mutual trust will be a diffi-
 cult task of confidence-building and verification. A
-time of transition can also be a time of turbulence. It
+ti me of transition can also be a time of turbulence. It
 will be critical that we be well informed of events
 and intentions in the Soviet Union, Eastern Europe,
 and elsewhere.
@@ -2476,7 +2530,6 @@ military and political changes taking place there,
 economic change can be a valuable gauge of how
 much real change is occurring. The extent to which
 Soviet leaders actually shift resources from military
-
 to civilian uses, for example, will be an important
 strategic indicator.
 
@@ -2484,14 +2537,14 @@ In contrast to the hopeful trends in the Soviet Union
 and Eastern Europe, there are danger signs
 elsewhere—as this Report has noted. The proliferation
 of nuclear, chemical, and other military technologies
-raises the risks of conﬂict and crisis. Regional conﬂicts
+raises the risks of conflict and crisis. Regional conflicts
 continue to fester. U.S. intelligence must monitor such
 developments and provide policymakers with the
 information needed to protect American interests.
 
 The twin scourges of international terrorism and
-narcotics trafficking also pose very high—priority, but
-non—traditional, intelligence requirements. We will
+narcotics trafficking also pose very high-priority, but
+non-traditional, intelligence requirements. We will
 also have to adapt to a new emphasis on broader
 global economic and trade issues. We must be more
 fully aware of such subjects as foreign trade policies,
@@ -2503,7 +2556,7 @@ foreign governments—and to some extent foreign
 businesses—have tried to obtain our secrets and
 technologies. Hostile intelligence efforts are not likely
 to decrease in the near term, and they may actually
-increase as barriers to Contact come down.
+increase as barriers to contact come down.
 
 U.S. intelligence must still be the "alarm bell" to give
 us early warning of new developments and new
@@ -2513,7 +2566,6 @@ ready to meet new challenges, to adapt as necessary,
 and to support U.S. policy in the 1990s.
 
 Planning for the Future
-
 United States military planning in the postwar era has
 been dominated by the need to deter and be able to
 defend against overwhelming Warsaw Pact
@@ -2522,17 +2574,16 @@ described, this heretofore dominant reality is
 
 29
 
+
+
 undergoing significant change, both through Soviet
 and other Warsaw Pact unilateral reductions and
 through negotiated agreements. This prospect is
 clearly affecting our military planning.
 
 Such planning need not and cannot await the entry
-
 into force of arms reduction treaties. We will not act
 merely on the promise of change in Warsaw Pact
-
-30
 
 forces, but neither will we delay developing our
 responses to those changes until their implementation
@@ -2541,6 +2592,10 @@ issues like the future demands of nuclear deterrence,
 the proper role and mix of our general purpose
 forces, and an improved and more effective security
 assistance program.
+
+30
+
+
 
 VII. A Public Trust
 
@@ -2554,7 +2609,7 @@ Review
 
 Shortly after I took office, I ordered a review of
 defense management structures and practices in
-orderto improve defense acquisition, to implement
+order to improve defense acquisition, to implement
 the excellent recommendations of the Packard
 Commission, and to manage Department of Defense
 resources more effectively. Secretary Cheney
@@ -2571,10 +2626,9 @@ defense management.
 
 Reducing Overhead Costs While
 Maintaining Military Strength
-
 The Department of Defense is building a significantly
 more streamlined acquisition structure with clear lines
-of responsibility and authority. The Services’ systems
+of responsibility and authority. The Services' systems
 and materiel commands are being reorganized to
 focus largely on logistics and support services. Nearly
 all contract administration services, currently divided
@@ -2586,7 +2640,6 @@ Management initiative is underway to develop more
 efficient data processing and information systems...
 
 Enhancing Program Performance
-
 The Under Secretary of Defense for Acquisition will
 have an enhanced role and will discipline programs
 through a revised and strengthened acquisition proc-
@@ -2601,7 +2654,6 @@ perform their work with a minimum of bureaucratic
 distraction.
 
 Reinvigorating Planning and Budgeting
-
 The Secretary of Defense now chairs a new Executive
 Committee to review overall Department policies and
 permit regular and confidential exchanges on key
@@ -2609,13 +2661,12 @@ issues among the Department's senior leadership. In
 addition, the Deputy Secretary manages a revitalized
 planning, programming, and budgeting system as
 Chairman of the Defense Planning and Resources
-Board. V\ﬁth steps such as these, the senior leadership
+Board. With steps such as these, the senior leadership
 in the Department is now engaged in a dynamic
 planning process that will improve the linkage
 between policy, strategy, programs, and budgets.
 
 Reducing Micromanagement
-
 The Department of Defense has begun to carve away
 a bewildering maze of self-imposed regulations. A
 new, streamlined set of directives will be issued this
@@ -2623,6 +2674,8 @@ summer in a form that permits action at the working
 level, with little additional policy guidance. The
 
 31
+
+
 
 Secretary of Defense, with my full indorsement, has
 called on Congress to work with the Administration
@@ -2632,9 +2685,8 @@ which Congress oversees the Department.
 
 Strengthening the Defense Industrial
 Base
-
 The defense industrial base must be strong, and
-include manufacturers that are highly ﬂexible and
+include manufacturers that are highly flexible and
 technologically advanced. This will require that both
 the Defense Department and industry maintain active
 research programs in vital technologies. The
@@ -2646,11 +2698,10 @@ overall procurements are likely to decline.
 
 Improving the Observance of Ethical
 Standards
-
 Secretary Cheney has chartered a high-level Ethics
 Council to develop ethics programs for the
 Department. The Council has met and directed work
-on a model ethics program, a Department—wide Ethics
+on a model ethics program, a Department-wide Ethics
 Conference, and a review of existing compliance
 programs. The goal is to strengthen ethical standards
 within government and with industry and to create an
@@ -2669,18 +2720,15 @@ fundamental shifts, "cultural" changes, that address
 issues at the core of defense management. While we
 are proud of the accomplishments to date, fully
 
-32
-
 achieving these ambitious objectives will require
 several years of significant effort.
 
 Congress and the American
 People
-
 Under our Constitution, responsibility for national de-
 fense is shared between the executive and legislative
 branches of our federal government. The President,
-for example, is commander—in—chief, while Congress
+for example, is commander-in-chief, while Congress
 has the power to raise and support armies and
 declare war. This system of shared and separated
 powers is well designed to guard against abuses of
@@ -2712,6 +2760,44 @@ Congress. I believe there is a national consensus in
 support of a strong foreign and defense policy—
 perhaps broader and deeper than at any time in 25
 years. Congress and the President need, more than
-ever, to reﬂect that unity in their own cooperation.
+ever, to reflect that unity in their own cooperation.
 We owe the American people no less.
+
+32
+
+
+	Page 1
+	Page 2
+	Page 3
+	Page 4
+	Page 5
+	Page 6
+	Page 7
+	Page 8
+	Page 9
+	Page 10
+	Page 11
+	Page 12
+	Page 13
+	Page 14
+	Page 15
+	Page 16
+	Page 17
+	Page 18
+	Page 19
+	Page 20
+	Page 21
+	Page 22
+	Page 23
+	Page 24
+	Page 25
+	Page 26
+	Page 27
+	Page 28
+	Page 29
+	Page 30
+	Page 31
+	Page 32
+	Page 33
+	Page 34
 
