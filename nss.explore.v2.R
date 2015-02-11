@@ -16,6 +16,9 @@ NSS.tdm <- TermDocumentMatrix(NSS, control = list(stripWhitespace = TRUE,
                                                   stemDocument = TRUE
 ))
 
+# Convert from list to matrix
+NSS.matrix <- as.matrix(NSS.tdm)
+
 # Make that a data frame with the terms as the first column
 NSS.df <- as.data.frame(cbind(row.names(NSS.matrix), NSS.matrix), stringsAsFactors = FALSE)
 
