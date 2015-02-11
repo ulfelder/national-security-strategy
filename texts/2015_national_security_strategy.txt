@@ -1,28 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 F E B R U A R Y 2 0 1 5 NAT IONA L SECUR IT Y
 STR ATEGY
 
@@ -90,7 +65,7 @@ Middle East and North Africa. Fragile and conflict-affected states incubate and 
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 the behaviors of major powers. Where progress has been most profound, it is due to the steadfastness of our allies and the cooperation of other emerging powers.
 
@@ -142,7 +117,7 @@ We will lead with capable partners. In an interconnected world, there are no glo
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 We will lead with all the instruments of U.S. power. Our influence is greatest when we combine all our strategic advantages. Our military will remain ready to defend our enduring national interests while providing essential leverage for our diplomacy. The use of force is not, however, the only tool at our disposal, and it is not the principal means of U.S. engagement abroad, nor always the most effective for the challenges we face. Rather, our first line of action is principled and clear-eyed diplomacy, combined with the central role of development in the forward defense and promotion of America's interests. We will continue pursuing measures to enhance the security of our diplomats and development professionals to ensure they can fulfill their responsibilities safely in high-risk environments. We will also leverage a strong and well-regulated economy to promote trade and investment while protecting the international financial system from abuse. Targeted economic sanctions will remain an effective tool for imposing costs on irresponsible actors and helping to dismantle criminal and terrorist networks. All our tools are made more effective by the skill of our intelligence professionals and the quality of intelligence they collect, analyze, and produce. Finally, we will apply our distinct advantages in law enforcement, science and technology, and people-to-people relationships to maximize the strategic effects of our national power.
 
@@ -186,7 +161,7 @@ Force has answered our Nation's call. To maintain our military edge and readines
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 U.S. forces will continue to defend the homeland, conduct global counterterrorism operations, assure allies, and deter aggression through forward presence and engagement. If deterrence fails, U.S. forces will be ready to project power globally to defeat and deny aggression in multiple theaters.
 
@@ -227,7 +202,7 @@ In Afghanistan, we have ended our combat mission and transitioned to a dramatica
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 throughout the interagency, and our international partners. They delivered justice to Osama bin Laden and significantly degraded al-Qa'ida's core leadership. They helped increase life expectancy, access to education, and opportunities for women and girls. Going forward, we will work with partners to carry out a limited counterterrorism mission against the remnants of core al-Qa'ida and maintain our support to the Afghan National Security Forces (ANSF). We are working with NATO and our other partners to train, advise, and assist the ANSF as a new government takes responsibility for the security and well-being of Afghanistan's citizens. We will continue to help improve governance that expands opportunity for all Afghans, including women and girls. We will also work with the countries of the region, including
 Pakistan, to mitigate the threat from terrorism and to support a viable peace and reconciliation process to end the violence in Afghanistan and improve regional stability.
@@ -260,7 +235,7 @@ and will - hold accountable those nations that do not meet their obligations, wh
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 Confront Climate Change
 Climate change is an urgent and growing threat to our national security, contributing to increased natural disasters, refugee flows, and conflicts over basic resources like food and water. The present day effects of climate change are being felt from the Arctic to the Midwest. Increased sea levels and storm surges threaten coastal regions, infrastructure, and property. In turn, the global economy suffers, compounding the growing costs of preparing and restoring infrastructure.
@@ -298,7 +273,7 @@ The spread of infectious diseases constitute a growing risk. The Ebola epidemic 
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 resistance, and the deliberate release of pathogens all represent threats that are exacerbated by the globalization of travel, food production and supply, and medical products. Despite important scientific, technological, and organizational accomplishments, most countries have not yet achieved international core competencies for health security, and many lack sufficient capacity to prevent, detect, or respond to disease outbreaks.
 
@@ -324,7 +299,7 @@ Action Task Force, the G-20, and other fora to enlist all nations in the fight t
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 Advance Our Energy Security
 The United States is now the world leader in oil and gas production. America's energy revival is not only good for growth, it offers new buffers against the coercive use of energy by some and new opportunities for helping others transition to low-carbon economies. American oil production has increased dramatically, impacting global markets. Imports have decreased substantially, reducing the funds we send overseas. Consumption has declined, reducing our vulnerability to global supply disruption and price shocks. However, we still have a significant stake in the energy security of our allies in Europe and elsewhere. Seismic shifts in supply and demand are underway across the globe. Increasing global access to reliable and affordable energy is one of the most powerful ways to support social and economic development and to help build new markets for U.S. technology and investment.
@@ -363,7 +338,7 @@ We have an historic opportunity to end extreme poverty within a generation and p
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 in the global economy has lifted hundreds of millions out of extreme poverty. We have already made significant progress guided in part through global consensus and mobilization around the Millennium
 Development Goals. The world cut the percentage of people living in extreme poverty in half between
@@ -395,7 +370,7 @@ Bay, and we are working with the Congress to remove the remaining restrictions o
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 so that we can finally close it. Where prosecution is an option, we will bring terrorists to justice through both civilian and, when appropriate, reformed military commission proceedings that incorporate fundamental due process and other protections essential to the effective administration of justice.
 
@@ -429,7 +404,7 @@ More than 50 percent of the world's people are under 30 years old. Many struggle
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 exchanges in our hemisphere. And we are catalyzing economic growth and innovation within societies by lifting up and promoting entrepreneurship.
 
@@ -455,7 +430,7 @@ In many cases, our use of targeted sanctions and other coercive measures are mea
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 oritizes reinvigorating alliances with long-standing friends, making investments in new partnerships with emerging democratic powers with whom our interests are increasingly aligned, and continuing to support the development of capable, inclusive regional institutions to help enforce common international rules.
 
@@ -491,7 +466,7 @@ Russia in areas of common interests, should it choose a different path - a path 
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 Seek Stability and Peace in the Middle East and North Africa
 In the Middle East, we will dismantle terrorist networks that threaten our people, confront external aggression against our allies and partners, ensure the free flow of energy from the region to the world, and prevent the development, proliferation, or use of weapons of mass destruction. At the same time, we remain committed to a vision of the Middle East that is peaceful and prosperous, where democracy takes root and human rights are upheld. Sadly, this is not the case today, and nowhere is the violence more tragic and destabilizing than in the sectarian conflict from Beirut to Baghdad, which has given rise to new terrorist groups such as ISIL.
@@ -528,7 +503,7 @@ We are expanding our collaboration across the Americas to support democratic con
 
 
 
-NAT I O NA L S E C U R I T Y S T R AT E G Y 
+ 
 
 Such collaboration is especially important in vulnerable countries like Guatemala, El Salvador, and
 Honduras, where government institutions are threatened by criminal syndicates. Migration surges involving unaccompanied children across our southern border is one major consequence of weak institutions and violence. American leadership, in partnership with these countries and with the support of their neighbors, remains essential to arresting the slide backwards and to creating steady improvements in economic growth and democratic governance. Likewise, we remain committed to helping rebuild Haiti and to put it and our other Caribbean neighbors on a path to sustainable development.
