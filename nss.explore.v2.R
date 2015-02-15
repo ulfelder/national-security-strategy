@@ -37,25 +37,39 @@ for (i in (2:length(names(NSS.df)))){ NSS.df[,i] <- as.numeric(NSS.df[,i]) }
 # Get rid of the row names
 row.names(NSS.df) <- NULL
 
-# Make a function to generate a line plot of the frequency of a particular word over time.
+# Save that df for use elsewhere
+write.csv(NSS.df, "data/nss.tdm.csv", row.names = FALSE)
+
+# Make a function to generate a line plot of the frequency of a particular term over time. This version
+# lets you look within terms to group ones with the same root (e.g., inputting "afghan" will grab
+# "afghans", "afghanistan", etc.). But that means you need to think carefully about what words might
+# contain your term that you don't want to include (e.g., "here" is also in "there"). It would be cool
+# to build a Shiny app around this plotting function, but that's more work than I'm up for now.
 plotWF <- function(word) {
-    yrs <- substr(names(NSS.df), 5, 8)[2:17]
-    plot(x = 1:length(yrs), y = subset(NSS.df, term==word, select = c(2:17)),
-        type = "l", lwd = 2, xlab = "", ylab = "", axes = FALSE, main = word)
+    t <- tolower(word)  # Make lower case just in case the user doesn't remember to do this.
+    z <- NSS.df[grep(t, NSS.df[,1]),2:17]  # Subset to rows for terms that contain 'word' & data columns
+    s <- colSums(z)  # Get sums by document (column) across those rows
+    yrs <- substr(names(NSS.df), 5, 8)[2:17]  # Get vector of years for labeling x-axis
+    plot(x = 1:length(yrs), y = s, type = "l", lwd = 2,
+        xlab = "", ylab = "", axes = FALSE,
+        main = t)
     axis(1, at = 1:length(yrs), labels = yrs, tick = FALSE, las = 2)
     axis(2, tick = FALSE, las = 2)
 }
 
 plotWF("soviet")
+plotWF("russia")
 plotWF("china")
 plotWF("iraq")
 plotWF("afghanistan")
+plotWF("nato")
 plotWF("iran")
 plotWF("alqaida")
+plotWF("isil")
+plotWF("terror")
 plotWF("cyber")
 plotWF("nuclear")
-plotWF("terrorism")
-plotWF("terrorists")  # Shows that stemming isn't working as hoped. Hmmm...
+plotWF("transgressor")
 
 ## TOPIC MODELING ##
 
