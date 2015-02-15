@@ -15,6 +15,8 @@ shinyUI(fluidPage(
         and 'afghanistans'. The function is not case sensitive."),
       p("The data and scripts used to build this app can be found on GitHub, ",
         a(href = "https://github.com/ulfelder/national-security-strategy", "here"),
+      ". This app was built by ",
+        a(href = "https://dartthrowingchimp.wordpress.com/", "Jay Ulfelder"),
       "."),
       br(),
       br(),
