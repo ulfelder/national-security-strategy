@@ -3,7 +3,11 @@ shinyUI(fluidPage(
   
   sidebarLayout(position = "right",
     
-    sidebarPanel(textInput("term", h4("Input a Term"), value = "terror")),
+    sidebarPanel(
+      textInput("term", h4("Input a Term"), value = "terror"),
+      checkboxInput("normalize", 
+                    label="Normalize by total words in story", value=TRUE)
+      ),
     
     mainPanel(
       p("This app lets you explore change over time in the national security concerns of the U.S.

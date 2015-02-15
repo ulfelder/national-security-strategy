@@ -1,6 +1,6 @@
 NSS.tdm <- read.csv("data/nss.tdm.csv")
 
-plotWF <- function(word) {
+plotWF <- function(word, normalize) {
   
   # Convert to lower case just in case the user doesn't remember to do this.
   t <- tolower(word)
@@ -8,8 +8,13 @@ plotWF <- function(word) {
   # Subset to rows for terms that contain 'word' & columns with the counts
   z <- NSS.tdm[grep(t, NSS.tdm[,1]),2:17]
 
-  # Sum counts across rows and normalize by total words in each report
-  s <- (colSums(z)/colSums(NSS.tdm[,2:17])) * 100
+  # Sum counts across rows and normalize by total words in each report if 
+  # desired
+  if (normalize) {
+    s <- (colSums(z)/colSums(NSS.tdm[,2:17])) * 100
+  } else {
+    s <- colSums(z)
+  }
 
   # Get vector of years for labeling x-axis
   yrs <- substr(names(NSS.tdm), 5, 8)[2:17]
@@ -29,7 +34,7 @@ shinyServer(function(input, output) {
     
   output$lineplot <- renderPlot({
     
-    plotWF(input$term)
+    plotWF(input$term, input$normalize)
     
   })
   
