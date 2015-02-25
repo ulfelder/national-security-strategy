@@ -3,23 +3,25 @@ setwd("c:/users/jay/documents/national-security-strategy")
 
 library(tm)
 library(SnowballC)
+library(wordcloud)
+library(Hmisc)
 library(topicmodels)
+
+## INGESTION AND PREPROCESSING ##
 
 # Read all texts into a single corpus; unsure of encoding here...
 NSS <- VCorpus(DirSource("C:/Users/Jay/Documents/national-security-strategy/texts", encoding = "utf-8"))
-
-## WORD COUNTS OVER TIME ##
 
 # Perform various preprocessing steps
 NSS <- tm_map(NSS, stripWhitespace)
 NSS <- tm_map(NSS, removeNumbers)
 NSS <- tm_map(NSS, removePunctuation)
-NSS <- tm_map(NSS, removeWords, stopwords("english"))
 NSS <- tm_map(NSS, content_transformer(tolower))
-NSS <- tm_map(NSS, stemDocument)
+NSS <- tm_map(NSS, removeWords, stopwords("english"))
+NSS.stemmed <- tm_map(NSS, stemDocument) # Keep original for stem completion
 
 # Create matrix of term counts by document
-NSS.tdm <- TermDocumentMatrix(NSS)
+NSS.tdm <- TermDocumentMatrix(NSS.stemmed)
 
 # Get a matrix version of the resulting object, which is a list
 NSS.matrix <- as.matrix(NSS.tdm)
@@ -36,8 +38,13 @@ for (i in (2:length(names(NSS.df)))){ NSS.df[,i] <- as.numeric(NSS.df[,i]) }
 # Get rid of the row names
 row.names(NSS.df) <- NULL
 
+# Run stem completion on the terms in that df
+NSS.df$termc <- stemCompletion(NSS.df$term, NSS)
+
 # Save that df for use elsewhere
 write.csv(NSS.df, "data/nss.tdm.csv", row.names = FALSE)
+
+## LINE PLOTS OF WORD COUNTS OVER TIME ##
 
 # Make a function to generate a line plot of the frequency of a particular term over time. This version
 # lets you look within terms to group ones with the same root (e.g., inputting "afghan" will grab
@@ -57,18 +64,55 @@ plotWF <- function(word) {
 }
 
 plotWF("soviet")
-plotWF("russia")
-plotWF("china")
-plotWF("iraq")
-plotWF("afghanistan")
-plotWF("nato")
-plotWF("iran")
-plotWF("alqaida")
-plotWF("isil")
 plotWF("terror")
-plotWF("cyber")
-plotWF("nuclear")
-plotWF("transgressor")
+plotWF("climate")
+
+## WORD CLOUDS ##
+
+# Make a function to generate a word cloud for top 100 words in a single report
+
+wordle <- function(doc) {
+
+     require(wordcloud)
+
+     wordcloud(NSS[doc],
+          scale = c(5,0.5),
+          max.words = 50,
+          random.order = FALSE,
+          rot.per = 0.1,
+          use.r.layout = FALSE,
+          colors = brewer.pal(8, "Dark2"))
+}
+
+wordle(1)
+wordle(14)
+wordle(16)
+
+## TERM ASSOCIATIONS ##
+
+# Make a function to get a dot plot of top 10 associations
+
+termcorr <- function(term2) {
+
+     require(Hmisc)
+
+     # Get a vector of correlation coefficients for terms above 0.5
+     z <- findAssocs(NSS.tdm, term2, 0.5)
+
+     # Make a dot plot of the results, limited to top 10
+     dotchart2(z[1:10],
+          labels = dimnames(z)[[1]][1:10],
+          lines = TRUE, lwd = 0.05, lty = 3,
+          sort = FALSE,
+          dotsize = 1.25, pch = 20, col = "hotpink3",
+          cex.labels = 1,
+          xlim = c(0.5,1))
+     title(main = list(term2, cex = 1.25)) 
+
+}
+
+termcorr("terror")
+termcorr("islam")
 
 ## TOPIC MODELING ##
 
